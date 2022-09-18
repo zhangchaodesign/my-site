@@ -1,11 +1,6 @@
 <template>
   <div>
-    <h1 class="test">hello</h1>
-    <h1 class="test">hello</h1>
-    <h1 class="test">hello</h1>
-    <h1 class="test">hello</h1>
-    <h1 class="test">hello</h1>
-    <h1 class="test">hello</h1>
+    <img class="logo" src="@/assets/logo.png" alt="" />
   </div>
 </template>
 
@@ -14,7 +9,7 @@ export default {};
 </script>
 
 <style scoped>
-.test {
-  @apply text-red-800;
+.logo {
+  @apply p-4;
 }
 </style>

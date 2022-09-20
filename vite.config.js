@@ -1,10 +1,11 @@
 import { resolve } from 'path';
 
 import { defineConfig } from 'vite';
-import vue from '@vitejs/plugin-vue';
-import ViteComponents from 'vite-plugin-components';
+import Vue from '@vitejs/plugin-vue';
 
-import ViteIcons, { ViteIconsResolver } from 'vite-plugin-icons';
+import Icons from 'unplugin-icons/vite';
+import IconsResolver from 'unplugin-icons/resolver';
+import Components from 'unplugin-vue-components/vite';
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -15,18 +16,16 @@ export default defineConfig({
     }
   },
   plugins: [
-    vue(),
-    ViteComponents({
-      extensions: ['vue'],
-      // auto import icons
-      customComponentResolvers: [
-        // https://github.com/antfu/vite-plugin-icons
-        ViteIconsResolver({
-          componentPrefix: ''
-          // enabledCollections: ['carbon']
+    Vue(),
+    Components({
+      resolvers: [
+        IconsResolver({
+          prefix: 'icon'
         })
       ]
     }),
-    ViteIcons()
+    Icons({
+      compiler: 'vue3'
+    })
   ]
 });

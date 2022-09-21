@@ -1,0 +1,20 @@
+<template>
+  <div class="footer">
+    <img class="logo" src="@/assets/logo_dark.svg" alt="" />
+    <p class="footer-text">©2022 by Chao Zhang | Last Updated: 2022.9</p>
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
+
+<style lang="scss" scoped>
+.footer {
+  @apply flex flex-col gap-2 bg-dark items-center py-6;
+
+  .footer-text {
+    @apply font-signika-negative text-xxs leading-5 text-white select-none;
+  }
+}
+</style>

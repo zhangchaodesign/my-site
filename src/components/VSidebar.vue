@@ -1,0 +1,65 @@
+<template>
+  <div class="sidebar">
+    <div class="portrait-wrapper">
+      <img class="portrait" src="@/assets/portrait.jpg" alt="" />
+      <div class="icon-wrapper">
+        <a href="mailto:zhangchaohci@gmail.com"
+          ><icon-ic-round-email class="icon"
+        /></a>
+        <a href="/public/cv_chaozhang_08_2022_en.pdf" download
+          ><icon-academicons-cv-square class="icon highlight"
+        /></a>
+        <a href="https://scholar.google.com/citations?user=NgaSTisAAAAJ&hl=en"
+          ><icon-academicons-google-scholar-square class="icon"
+        /></a>
+        <a href="https://twitter.com/zhangchaodesign"
+          ><icon-fa-brands-twitter-square class="icon"
+        /></a>
+        <a href="https://www.instagram.com/zhangchaodesign/"
+          ><icon-fa-brands-instagram-square class="icon"
+        /></a>
+        <a href="https://github.com/zhangchaodesign"
+          ><icon-fa-brands-github-square class="icon"
+        /></a>
+      </div>
+    </div>
+
+    <VNews />
+  </div>
+</template>
+
+<script>
+import VNews from '@/components/VNews.vue';
+
+export default {
+  components: {
+    VNews
+  }
+};
+</script>
+
+<style lang="scss" scoped>
+.sidebar {
+  @apply flex flex-col gap-6 p-3 w-[224px];
+
+  .portrait-wrapper {
+    @apply flex flex-col gap-2;
+
+    .portrait {
+      @apply w-[200px];
+    }
+
+    .icon-wrapper {
+      @apply flex flex-row gap-1;
+
+      .icon {
+        @apply text-base text-black text-opacity-60 cursor-pointer;
+
+        &:hover {
+          @apply text-base text-black text-opacity-100;
+        }
+      }
+    }
+  }
+}
+</style>

@@ -1,7 +1,7 @@
 <template>
   <div class="sidebar">
     <div class="portrait-wrapper">
-      <img class="portrait" src="@/assets/portrait.jpg" alt="" />
+      <img class="portrait" src="@/assets/info/portrait.jpg" alt="" />
       <div class="icon-wrapper">
         <a href="mailto:zhangchaohci@gmail.com"
           ><icon-ic-round-email class="icon"

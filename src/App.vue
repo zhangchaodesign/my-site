@@ -9,6 +9,12 @@
       <hr />
 
       <VGallery />
+
+      <hr />
+
+      <VResume />
+
+      <VAnnouncement />
     </div>
 
     <VFooter />
@@ -20,13 +26,17 @@ import VInfo from '@/components/VInfo.vue';
 import VSidebar from '@/components/VSidebar.vue';
 import VGallery from '@/components/VGallery.vue';
 import VFooter from '@/components/VFooter.vue';
+import VResume from '@/components/VResume.vue';
+import VAnnouncement from '@/components/VAnnouncement.vue';
 
 export default {
   components: {
     VInfo,
     VSidebar,
     VGallery,
-    VFooter
+    VFooter,
+    VResume,
+    VAnnouncement
   }
 };
 </script>
@@ -67,6 +77,27 @@ li {
   @apply list-disc;
 }
 
+/* Designing for scroll-bar */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgba(51, 51, 51, 0.1);
+  border-radius: 4px;
+}
+
+// /* Handle on hover */
+// ::-webkit-scrollbar-thumb:hover {
+//   background: #555;
+// }
+
 .wrapper {
   @apply my-32 w-[968px] flex flex-col gap-9 m-auto;
 }
@@ -80,19 +111,11 @@ li {
 }
 
 .title {
-  @apply font-signika-negative text-base text-dark select-none;
+  @apply font-signika-negative font-medium text-base text-dark select-none;
 }
 
 .paragraph {
   @apply font-open-sans font-medium text-xs leading-6 text-black text-opacity-60 text-justify;
-}
-
-.announcement {
-  @apply flex flex-col items-center border border-dashed border-black border-opacity-60 p-2 bg-light font-bold select-none;
-
-  .highlight {
-    @apply text-highlight;
-  }
 }
 
 .logo {

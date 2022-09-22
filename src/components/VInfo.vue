@@ -3,7 +3,7 @@
     <div class="header_wrapper">
       <div class="header">
         <p class="name">Chao Zhang</p>
-        <img class="logo" src="@/assets/logo_light.svg" alt="" />
+        <img class="logo" src="@/assets/logo/logo_light.svg" alt="" />
       </div>
 
       <p class="title">
@@ -30,15 +30,8 @@
         and <a href="https://haimoz.github.io/">Haimo Zhang</a> in th HCI Lab at
         OPPO Research Institue.
       </p>
-
-      <div class="announcement paragraph">
-        <p class="highlight">
-          I am looking for an HCI/Design PhD position starting from 2023 fall!
-          Click to download my
-          <a href="/public/cv_chaozhang_08_2022_en.pdf" download>CV / Resume</a
-          >.
-        </p>
-      </div>
+      
+      <VAnnouncement />
 
       <div class="research-interest">
         <p class="title">Research Interests</p>
@@ -78,14 +71,22 @@
           </ul>
         </div>
 
-        <img src="@/assets/research_interest.svg" alt="" />
+        <img src="@/assets/info/research_interest.svg" alt="" />
       </div>
     </div>
   </div>
 </template>
+
 <script>
-export default {};
+import VAnnouncement from '@/components/VAnnouncement.vue';
+
+export default {
+  components: {
+    VAnnouncement
+  }
+};
 </script>
+
 <style lang="scss" scoped>
 .info {
   @apply flex flex-col gap-6 p-3 w-[732px];

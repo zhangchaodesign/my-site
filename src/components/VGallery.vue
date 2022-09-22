@@ -1,20 +1,56 @@
 <template>
-  <div class="title-container">
-    <p class="gallery-title title-selected">PUBLICATIONS</p>
-    <p class="gallery-title title-unselected">DESIGNS</p>
+  <div class="gallery">
+    <div class="title-container">
+      <p
+        :class="
+          'gallery-title ' + (state ? 'title-selected' : 'title-unselected')
+        "
+        @click="state = 1"
+      >
+        Publications
+      </p>
+      <p
+        :class="
+          'gallery-title ' + (!state ? 'title-selected' : 'title-unselected')
+        "
+        @click="state = 0"
+      >
+        Designs
+      </p>
+    </div>
+
+    <VPublication v-if="state" />
+    <VDesign v-if="!state" />
   </div>
 </template>
 
 <script>
-export default {};
+import VPublication from '@/components/VPublication.vue';
+import VDesign from '@/components/VDesign.vue';
+
+export default {
+  data() {
+    return {
+      state: 1
+    };
+  },
+  components: {
+    VPublication,
+    VDesign
+  }
+};
 </script>
 
 <style lang="scss">
+.gallery {
+  @apply flex flex-col;
+}
+
 .title-container {
   @apply flex flex-row gap-6 p-3;
 
   .gallery-title {
-    @apply font-signika-negative text-lg select-none cursor-pointer;
+    @apply font-signika-negative text-lg select-none cursor-pointer uppercase;
 
     &:hover {
       @apply underline;

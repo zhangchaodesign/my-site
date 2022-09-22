@@ -6,7 +6,7 @@
         <a href="mailto:zhangchaohci@gmail.com"
           ><icon-ic-round-email class="icon"
         /></a>
-        <a href="/public/cv_chaozhang_08_2022_en.pdf" download
+        <a :href="pdf" download
           ><icon-academicons-cv-square class="icon highlight"
         /></a>
         <a href="https://scholar.google.com/citations?user=NgaSTisAAAAJ&hl=en"
@@ -32,6 +32,14 @@
 import VNews from '@/components/VNews.vue';
 
 export default {
+  data() {
+    return {
+      pdf: new URL(
+        `../assets/info/cv_chaozhang_08_2022_en.pdf`,
+        import.meta.url
+      ).href
+    };
+  },
   components: {
     VNews
   }

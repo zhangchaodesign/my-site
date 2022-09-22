@@ -3,12 +3,21 @@
     <p class="highlight">
       I am looking for an HCI/Design PhD position starting from 2023 fall! Click
       to download my
-      <a href="/public/cv_chaozhang_08_2022_en.pdf" download>CV / Resume</a>.
+      <a :href="pdf" download>CV / Resume</a>.
     </p>
   </div>
 </template>
 <script>
-export default {};
+export default {
+  data() {
+    return {
+      pdf: new URL(
+        `../assets/info/cv_chaozhang_08_2022_en.pdf`,
+        import.meta.url
+      ).href
+    };
+  }
+};
 </script>
 <style lang="scss" scoped>
 .announcement {

@@ -1,6 +1,6 @@
 <template>
   <div class="entry" @mouseover="selected()" @mouseleave="unselected()">
-    <img class="entry-cover" :src="cover" alt="" />
+    <img class="entry-cover" :src="highlight ? cover_2 : cover_1" alt="" />
     <div class="entry-info">
       <div class="entry-basic">
         <div class="entry-title">{{ entry['title'] }}</div>
@@ -33,7 +33,7 @@
           </div>
         </div>
       </div>
-      <img class="entry-award" :src="award" alt="" />
+      <img class="entry-award" :src="highlight ? award_2 : award_1" alt="" />
     </div>
   </div>
 </template>
@@ -46,12 +46,21 @@ export default {
   },
   data() {
     return {
-      cover: new URL(
+      highlight: false,
+      cover_1: new URL(
         `../assets/designs/${this.entry['cover_1']}`,
         import.meta.url
       ).href,
-      award: new URL(
+      cover_2: new URL(
+        `../assets/designs/${this.entry['cover_2']}`,
+        import.meta.url
+      ).href,
+      award_1: new URL(
         `../assets/designs/${this.entry['award_1']}`,
+        import.meta.url
+      ).href,
+      award_2: new URL(
+        `../assets/designs/${this.entry['award_2']}`,
         import.meta.url
       ).href,
       pdf: new URL(`../assets/designs/${this.entry['pdf']}`, import.meta.url)
@@ -60,24 +69,10 @@ export default {
   },
   methods: {
     selected() {
-      this.cover = new URL(
-        `../assets/designs/${this.entry['cover_2']}`,
-        import.meta.url
-      ).href;
-      this.award = new URL(
-        `../assets/designs/${this.entry['award_2']}`,
-        import.meta.url
-      ).href;
+      this.highlight = true;
     },
     unselected() {
-      this.cover = new URL(
-        `../assets/designs/${this.entry['cover_1']}`,
-        import.meta.url
-      ).href;
-      this.award = new URL(
-        `../assets/designs/${this.entry['award_1']}`,
-        import.meta.url
-      ).href;
+      this.highlight = false;
     }
   }
 };

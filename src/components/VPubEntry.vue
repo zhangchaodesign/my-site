@@ -1,6 +1,6 @@
 <template>
   <div class="entry" @mouseover="selected()" @mouseleave="unselected()">
-    <img class="entry-cover" :src="cover" alt="" />
+    <img class="entry-cover" :src="highlight ? animation : cover" alt="" />
     <div class="entry-info">
       <div class="entry-title">{{ entry['title'] }}</div>
       <div class="entry-author">
@@ -48,8 +48,13 @@ export default {
   },
   data() {
     return {
+      highlight: false,
       cover: new URL(
         `../assets/publications/${this.entry['cover']}`,
+        import.meta.url
+      ).href,
+      animation: new URL(
+        `../assets/publications/${this.entry['animation']}`,
         import.meta.url
       ).href,
       pdf: new URL(
@@ -60,16 +65,10 @@ export default {
   },
   methods: {
     selected() {
-      this.cover = new URL(
-        `../assets/publications/${this.entry['animation']}`,
-        import.meta.url
-      ).href;
+      this.highlight = true;
     },
     unselected() {
-      this.cover = new URL(
-        `../assets/publications/${this.entry['cover']}`,
-        import.meta.url
-      ).href;
+      this.highlight = false;
     }
   }
 };

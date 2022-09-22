@@ -19,7 +19,7 @@
         <div class="entry-footer">
           <div class="entry-material">
             <div v-if="entry['pdf'] !== ''">
-              [<a :href="entry['pdf']" download>pdf</a>]
+              [<a :href="pdf" download>pdf</a>]
             </div>
             <div v-if="Object.keys(entry['link']).length !== 0">
               <span v-for="(val, index) in entry['link']" :key="index">
@@ -46,18 +46,38 @@ export default {
   },
   data() {
     return {
-      cover: this.entry['cover_1'],
-      award: this.entry['award_1']
+      cover: new URL(
+        `../assets/designs/${this.entry['cover_1']}`,
+        import.meta.url
+      ).href,
+      award: new URL(
+        `../assets/designs/${this.entry['award_1']}`,
+        import.meta.url
+      ).href,
+      pdf: new URL(`../assets/designs/${this.entry['pdf']}`, import.meta.url)
+        .href
     };
   },
   methods: {
     selected() {
-      this.cover = this.entry['cover_2'];
-      this.award = this.entry['award_2'];
+      this.cover = new URL(
+        `../assets/designs/${this.entry['cover_2']}`,
+        import.meta.url
+      ).href;
+      this.award = new URL(
+        `../assets/designs/${this.entry['award_2']}`,
+        import.meta.url
+      ).href;
     },
     unselected() {
-      this.cover = this.entry['cover_1'];
-      this.award = this.entry['award_1'];
+      this.cover = new URL(
+        `../assets/designs/${this.entry['cover_1']}`,
+        import.meta.url
+      ).href;
+      this.award = new URL(
+        `../assets/designs/${this.entry['award_1']}`,
+        import.meta.url
+      ).href;
     }
   }
 };

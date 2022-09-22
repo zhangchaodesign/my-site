@@ -20,7 +20,7 @@
         <div class="entry-venue">{{ entry['venue'] }}</div>
         <div class="entry-material">
           <div v-if="entry['pdf'] !== ''">
-            [<a :href="entry['pdf']" download>pdf</a>]
+            [<a :href="pdf" download>pdf</a>]
           </div>
           <div v-if="Object.keys(entry['link']).length !== 0">
             [<a :href="Object.values(entry['link'])[0]">{{
@@ -48,15 +48,28 @@ export default {
   },
   data() {
     return {
-      cover: this.entry['cover']
+      cover: new URL(
+        `../assets/publications/${this.entry['cover']}`,
+        import.meta.url
+      ).href,
+      pdf: new URL(
+        `../assets/publications/${this.entry['pdf']}`,
+        import.meta.url
+      ).href
     };
   },
   methods: {
     selected() {
-      this.cover = this.entry['animation'];
+      this.cover = new URL(
+        `../assets/publications/${this.entry['animation']}`,
+        import.meta.url
+      ).href;
     },
     unselected() {
-      this.cover = this.entry['cover'];
+      this.cover = new URL(
+        `../assets/publications/${this.entry['cover']}`,
+        import.meta.url
+      ).href;
     }
   }
 };

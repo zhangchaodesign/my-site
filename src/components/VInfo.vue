@@ -30,7 +30,7 @@
         and <a href="https://haimoz.github.io/">Haimo Zhang</a> in th HCI Lab at
         OPPO Research Institue.
       </p>
-      
+
       <VAnnouncement />
 
       <div class="research-interest">
@@ -40,15 +40,16 @@
           <p class="paragraph">
             With an interdisciplinary background of interaction design
             (continued M.E. from
-            <a href="https://www.zju.edu.cn/english/">Zhejiang Univeristy</a>),
+            <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>),
             digital media (Minor from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>),
             and electrical engineering (B.S. from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>),
             my research interest lies in Human-Computer Interaction, at the
-            intersection of <b>Human-AI Interaction and Design</b>. Previously,
-            I designed AI-fused systems to augment human cognition and action,
-            and conducted empirical studies to understand human perception.
+            intersection of <b>Human-AI Interaction and Creativity</b>.
+            Previously, I designed AI-fused systems to augment human cognition
+            and action, and conducted empirical studies to understand human
+            perception.
           </p>
           <ul class="paragraph">
             <li>
@@ -59,19 +60,24 @@
             </li>
             <li>
               <b>Perception</b>: I conducted empirical studies to understand
-              people's perceptions of daily online experiences, e.g., seekers'
-              engagement in online critique communities and end-users' desires
-              on the awareness of and action for dark patterns.
+              visual art creators' engagement in online critique communities and
+              explore how to empower end-users of interfaces to recognize,
+              understand, and take action upon UX dark patterns.
             </li>
             <li>
               <b>Action</b>: I proposed computational design approaches for
-              designers in prototyping interactive artifacts, e.g., magnet-based
-              laser-cutting objects and paper-based underwater devices.
+              general creators in prototyping interactive artifacts, e.g.,
+              magnet-based laser-cutting objects and paper-based underwater
+              devices.
             </li>
           </ul>
         </div>
 
-        <img src="@/assets/info/research_interest.svg" alt="" />
+        <img
+          class="select-none"
+          src="@/assets/info/research_interest.svg"
+          alt=""
+        />
       </div>
     </div>
   </div>

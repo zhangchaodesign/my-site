@@ -15,7 +15,7 @@
         </span>
       </div>
       <hr />
-      <div class="entry-abstract">{{ entry['abstract'] }}</div>
+      <p class="entry-abstract">{{ entry['abstract'] }}</p>
       <div class="entry-footer">
         <div class="entry-venue">{{ entry['venue'] }}</div>
         <div class="entry-material">
@@ -86,7 +86,7 @@ a {
   }
 
   .entry-cover {
-    @apply w-[320px];
+    @apply w-[320px] select-none;
   }
 
   .entry-info {

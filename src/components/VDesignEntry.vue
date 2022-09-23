@@ -90,7 +90,7 @@ a {
   }
 
   .entry-cover {
-    @apply w-[240px];
+    @apply w-[240px] select-none;
   }
 
   .entry-basic {

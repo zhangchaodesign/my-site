@@ -35,7 +35,7 @@ export default {
   data() {
     return {
       pdf: new URL(
-        `../assets/info/cv_chaozhang_08_2022_en.pdf`,
+        `../assets/info/CV_ChaoZhang_09_2022.pdf`,
         import.meta.url
       ).href
     };

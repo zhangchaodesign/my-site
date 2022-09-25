@@ -32,13 +32,6 @@
       <div class="resume-block">
         <p class="resume-title">Research Experiences</p>
         <div class="resume_entry">
-          <p class="date">07/2020 - Present</p>
-          <p class="content">
-            INNO Lab @ Zhejiang University, advised by Cheng Yao and Fangtian
-            Ying
-          </p>
-        </div>
-        <div class="resume_entry">
           <p class="date">06/2022 - Present</p>
           <p class="content">
             SaNDwich Lab @ University of Notre Dame, advised by Toby Jia-jun Li
@@ -47,7 +40,7 @@
         <div class="resume_entry">
           <p class="date">06/2022 - 09/2022</p>
           <p class="content">
-            HCI Group @ Hong Kong University of Science and Technology, advised
+            HCI Lab @ Hong Kong University of Science and Technology, advised
             by Xiaojuan Ma
           </p>
         </div>
@@ -56,6 +49,13 @@
           <p class="content">
             HCI Lab @ OPPO Research Institute, mentored by Haimo Zhang and Yilei
             Shi
+          </p>
+        </div>
+        <div class="resume_entry">
+          <p class="date">07/2020 - Present</p>
+          <p class="content">
+            INNO Lab @ Zhejiang University, advised by Cheng Yao and Fangtian
+            Ying
           </p>
         </div>
       </div>

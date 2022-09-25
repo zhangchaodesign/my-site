@@ -23,12 +23,12 @@
             </div>
             <div v-if="Object.keys(entry['link']).length !== 0">
               <span v-for="(val, index) in entry['link']" :key="index">
-                [<a :href="val">{{ index }}</a
+                [<a :href="val" target="_blank">{{ index }}</a
                 >]</span
               >
             </div>
             <div v-if="entry['video'] !== ''">
-              [<a :href="entry['video']">video</a>]
+              [<a :href="entry['video']" target="_blank">video</a>]
             </div>
           </div>
         </div>

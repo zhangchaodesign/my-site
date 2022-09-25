@@ -23,16 +23,16 @@
             [<a :href="pdf" target="_blank">pdf</a>]
           </div>
           <div v-if="Object.keys(entry['link']).length !== 0">
-            [<a :href="Object.values(entry['link'])[0]">{{
+            [<a :href="Object.values(entry['link'])[0]" target="_blank">{{
               Object.keys(entry['link'])[0]
             }}</a
             >]
           </div>
           <div v-if="entry['video'] !== ''">
-            [<a :href="entry['video']">video</a>]
+            [<a :href="entry['video']" target="_blank">video</a>]
           </div>
           <div v-if="entry['talk'] !== ''">
-            [<a :href="entry['talk']">talk</a>]
+            [<a :href="entry['talk']" target="_blank">talk</a>]
           </div>
         </div>
       </div>

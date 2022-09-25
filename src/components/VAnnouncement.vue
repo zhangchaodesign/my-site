@@ -1,9 +1,8 @@
 <template>
   <div class="announcement paragraph">
     <p class="highlight">
-      I am looking for an HCI/Design PhD position starting from 2023 fall! Click
-      to download my
-      <a :href="pdf" target="_blank">CV / Resume</a>.
+      I am looking for an HCI/Design PhD position starting from 2023 fall! <a :href="pdf" target="_blank">Click
+      to download my CV</a>.
     </p>
   </div>
 </template>
@@ -12,7 +11,7 @@ export default {
   data() {
     return {
       pdf: new URL(
-        `../assets/info/cv_chaozhang_08_2022_en.pdf`,
+        `../assets/info/CV_ChaoZhang_09_2022.pdf`,
         import.meta.url
       ).href
     };

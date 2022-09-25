@@ -32,8 +32,8 @@ export default {
       ],
       pdf: 'co2/co2.pdf',
       link: {
-        'if design':
-          'https://ifdesign.com/en/winner-ranking/project/oneshoe/340348'
+        'a\' design':
+          'https://competition.adesignaward.com/design.php?ID=126455'
       },
       video: ''
     },
@@ -140,7 +140,7 @@ export default {
       authors: ['Jiayi Wu', 'Chao Zhang', 'Yajing Hu', 'Yaping Shao'],
       pdf: 'silentdelivery/silentdelivery.pdf',
       link: {
-        dia: 'https://www.di-award.org/collections/detail/1060.html?page_size%3D1000%26page%3D1%26year%3D2021%26award_type%3D%26award_group%3D5%26category_id%3D',
+        dia: 'https://en.di-award.org/collections/detail/1060.html?page_size%3D1000%26page%3D1%26year%3D2021%26award_type%3D%26award_group%3D5%26category_id%3D',
         'dubai week': 'https://www.globalgradshow.com/project/silent-delivery/'
       },
       video: 'https://www.youtube.com/watch?v=Tuwnm_GPTp4'

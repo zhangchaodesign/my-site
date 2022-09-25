@@ -19,7 +19,7 @@
         <div class="entry-footer">
           <div class="entry-material">
             <div v-if="entry['pdf'] !== ''">
-              [<a :href="pdf" download>pdf</a>]
+              [<a :href="pdf" target="_blank">pdf</a>]
             </div>
             <div v-if="Object.keys(entry['link']).length !== 0">
               <span v-for="(val, index) in entry['link']" :key="index">
@@ -28,7 +28,7 @@
               >
             </div>
             <div v-if="entry['video'] !== ''">
-              [<a :href="entry['video']" download>video</a>]
+              [<a :href="entry['video']">video</a>]
             </div>
           </div>
         </div>

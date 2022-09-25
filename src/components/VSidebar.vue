@@ -3,11 +3,8 @@
     <div class="portrait-wrapper">
       <img class="portrait" src="@/assets/info/portrait.jpg" alt="" />
       <div class="icon-wrapper">
-        <a href="mailto:zhangchaohci@gmail.com"
-          ><icon-ic-round-email class="icon"
-        /></a>
-        <a :href="pdf" download
-          ><icon-academicons-cv-square class="icon highlight"
+        <a :href="pdf" target="_blank"
+          ><icon-academicons-cv-square class="icon"
         /></a>
         <a href="https://scholar.google.com/citations?user=NgaSTisAAAAJ&hl=en"
           ><icon-academicons-google-scholar-square class="icon"
@@ -20,6 +17,9 @@
         /></a>
         <a href="https://github.com/zhangchaodesign"
           ><icon-fa-brands-github-square class="icon"
+        /></a>
+        <a href="mailto:zhangchaohci@gmail.com"
+          ><icon-ic-round-email class="icon"
         /></a>
       </div>
     </div>

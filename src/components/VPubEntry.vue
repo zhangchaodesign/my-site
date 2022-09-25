@@ -20,7 +20,7 @@
         <div class="entry-venue">{{ entry['venue'] }}</div>
         <div class="entry-material">
           <div v-if="entry['pdf'] !== ''">
-            [<a :href="pdf" download>pdf</a>]
+            [<a :href="pdf" target="_blank">pdf</a>]
           </div>
           <div v-if="Object.keys(entry['link']).length !== 0">
             [<a :href="Object.values(entry['link'])[0]">{{
@@ -29,10 +29,10 @@
             >]
           </div>
           <div v-if="entry['video'] !== ''">
-            [<a :href="entry['video']" download>video</a>]
+            [<a :href="entry['video']">video</a>]
           </div>
           <div v-if="entry['talk'] !== ''">
-            [<a :href="entry['talk']" download>talk</a>]
+            [<a :href="entry['talk']">talk</a>]
           </div>
         </div>
       </div>

@@ -79,14 +79,14 @@ a {
 }
 
 .entry {
-  @apply flex flex-row gap-4 p-3 h-[204px];
+  @apply flex flex-col lg:flex-row gap-4 p-3 lg:h-[204px];
 
   &:hover {
     @apply bg-light;
   }
 
   .entry-cover {
-    @apply w-[320px] select-none;
+    @apply w-full lg:w-[320px] select-none;
   }
 
   .entry-info {
@@ -94,7 +94,7 @@ a {
   }
 
   .entry-title {
-    @apply font-signika-negative font-medium text-xs leading-3 text-dark select-none;
+    @apply font-signika-negative font-medium text-xs lg:leading-3 text-dark select-none;
   }
 
   .entry-author {
@@ -102,15 +102,15 @@ a {
   }
 
   .entry-abstract {
-    @apply font-open-sans font-medium text-xxs leading-5 text-black text-opacity-60 text-justify overflow-auto;
+    @apply font-medium text-xxs leading-5 text-black text-opacity-60 overflow-auto;
   }
 
   .entry-footer {
-    @apply flex flex-row justify-between mt-2;
+    @apply flex flex-col lg:flex-row gap-1 justify-between mt-2;
   }
 
   .entry-venue {
-    @apply font-signika-negative font-medium text-xxs leading-[10px] text-dark select-none;
+    @apply font-signika-negative font-medium text-xxs lg:leading-[10px] text-dark select-none;
   }
 
   .entry-material {

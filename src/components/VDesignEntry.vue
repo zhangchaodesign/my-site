@@ -31,9 +31,14 @@
               [<a :href="entry['video']" target="_blank">video</a>]
             </div>
           </div>
+
+          <img
+            class="entry-award"
+            :src="highlight ? award_2 : award_1"
+            alt=""
+          />
         </div>
       </div>
-      <img class="entry-award" :src="highlight ? award_2 : award_1" alt="" />
     </div>
   </div>
 </template>
@@ -83,18 +88,18 @@ a {
 }
 
 .entry {
-  @apply flex flex-row gap-4 p-3;
+  @apply flex flex-col lg:flex-row gap-4 p-3;
 
   &:hover {
     @apply bg-light;
   }
 
   .entry-cover {
-    @apply w-[240px] select-none;
+    @apply w-full lg:w-[240px] select-none;
   }
 
   .entry-basic {
-    @apply flex flex-col gap-1;
+    @apply flex flex-col gap-1 h-full;
   }
 
   .entry-info {
@@ -110,15 +115,19 @@ a {
   }
 
   .entry-footer {
-    @apply flex flex-row justify-between mt-2;
-  }
+    @apply flex flex-row lg:flex-col justify-between mt-2 flex-wrap h-full lg:items-stretch items-start;
 
-  .entry-material {
-    @apply flex flex-row gap-1 font-signika-negative font-medium text-xxs leading-[10px] text-dark uppercase select-none;
-  }
+    align-content: stretch;
 
-  .entry-award {
-    @apply w-24;
+    .entry-material {
+      @apply flex-auto flex flex-row gap-1 font-signika-negative font-medium text-xxs leading-[10px] text-dark uppercase select-none;
+
+      flex-basis: 0;
+    }
+
+    .entry-award {
+      @apply h-12 lg:h-auto lg:w-24;
+    }
   }
 }
 </style>

@@ -52,7 +52,7 @@ export default {
   }
 
   .entries {
-    @apply grid grid-cols-2 gap-2;
+    @apply flex flex-col gap-3 lg:grid lg:grid-cols-2 lg:gap-2;
   }
 }
 </style>

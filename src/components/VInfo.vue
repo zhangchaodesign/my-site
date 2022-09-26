@@ -73,11 +73,7 @@
           </ul>
         </div>
 
-        <img
-          class="select-none"
-          src="@/assets/info/research_interest.svg"
-          alt=""
-        />
+        <img class="select-none w-full" :src="interest" alt="" />
       </div>
     </div>
   </div>
@@ -87,15 +83,33 @@
 import VAnnouncement from '@/components/VAnnouncement.vue';
 
 export default {
+  data() {
+    return {
+      interest: null
+    };
+  },
   components: {
     VAnnouncement
+  },
+  mounted() {
+    if (document.body.clientWidth > 1024) {
+      this.interest = new URL(
+        `../assets/info/research_interest_1.svg`,
+        import.meta.url
+      ).href;
+    } else {
+      this.interest = new URL(
+        `../assets/info/research_interest_2.svg`,
+        import.meta.url
+      ).href;
+    }
   }
 };
 </script>
 
 <style lang="scss" scoped>
 .info {
-  @apply flex flex-col gap-6 p-3 w-[732px];
+  @apply flex flex-col gap-6 p-3 w-full lg:w-[732px];
 }
 
 .header_wrapper {

@@ -5,7 +5,7 @@
       <div class="entries">
         <div class="w-full px-3">
           <div class="announcement paragraph">
-            <p class="text-dark">
+            <p class="text-dark text-xs leading-6 font-signika-negative">
               Submitted three papers (one 1st author, one co-1st author, and one
               2nd author) to CHI '23, which are not listed here for Anonymity.
             </p>
@@ -67,7 +67,7 @@ export default {
   }
 
   .announcement {
-    @apply flex flex-col items-center border border-dashed border-black border-opacity-60 p-2 bg-light text-xs leading-6 font-signika-negative select-none;
+    @apply flex flex-col items-center border border-dashed border-black border-opacity-60 p-2 bg-light select-none;
   }
 }
 </style>

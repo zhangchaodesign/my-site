@@ -34,10 +34,8 @@ import VNews from '@/components/VNews.vue';
 export default {
   data() {
     return {
-      pdf: new URL(
-        `../assets/info/CV_ChaoZhang_09_2022.pdf`,
-        import.meta.url
-      ).href
+      pdf: new URL(`../assets/info/CV_ChaoZhang_09_2022.pdf`, import.meta.url)
+        .href
     };
   },
   components: {
@@ -48,13 +46,13 @@ export default {
 
 <style lang="scss" scoped>
 .sidebar {
-  @apply flex flex-col gap-6 p-3 w-[224px];
+  @apply flex flex-col gap-3 p-3 w-full lg:w-[224px];
 
   .portrait-wrapper {
     @apply flex flex-col gap-2;
 
     .portrait {
-      @apply w-[200px];
+      @apply w-full lg:w-[200px];
     }
 
     .icon-wrapper {

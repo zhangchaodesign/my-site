@@ -27,17 +27,21 @@ export default {
   @apply flex flex-col gap-3;
 
   .news_entry_list {
-    @apply flex flex-col gap-1 h-[548px] overflow-auto select-none;
+    @apply flex flex-col gap-1 h-[324px] lg:h-[548px] overflow-auto select-none;
 
     // &:hover {
     //   @apply overflow-auto overscroll-none pr-0;
     // }
 
     .news_entry {
-      @apply flex flex-row gap-1 font-open-sans font-medium text-xxs leading-5 text-black text-opacity-60;
+      @apply flex flex-row gap-1 font-medium text-xxs leading-5 text-black text-opacity-60;
 
       .date {
         @apply italic;
+      }
+
+      .content {
+        @apply text-left;
       }
     }
   }

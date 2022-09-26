@@ -2,8 +2,8 @@
   <div>
     <div class="wrapper">
       <div class="info-container">
-        <VSidebar />
-        <VInfo />
+        <VSidebar class="order-2 lg:order-none" />
+        <VInfo class="order-1 lg:order-none" />
       </div>
 
       <hr />
@@ -13,8 +13,6 @@
       <hr />
 
       <VResume />
-
-      <VAnnouncement />
     </div>
 
     <VFooter />
@@ -27,7 +25,6 @@ import VSidebar from '@/components/VSidebar.vue';
 import VGallery from '@/components/VGallery.vue';
 import VFooter from '@/components/VFooter.vue';
 import VResume from '@/components/VResume.vue';
-import VAnnouncement from '@/components/VAnnouncement.vue';
 
 export default {
   components: {
@@ -35,8 +32,7 @@ export default {
     VSidebar,
     VGallery,
     VFooter,
-    VResume,
-    VAnnouncement
+    VResume
   }
 };
 </script>
@@ -48,6 +44,15 @@ b {
 
 li::selection {
   @apply bg-dark text-white;
+}
+
+p {
+  @apply font-open-sans text-justify;
+
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 p::selection {
@@ -74,7 +79,12 @@ hr {
 }
 
 li {
-  @apply list-disc;
+  @apply list-disc font-open-sans text-justify;
+
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 /* Designing for scroll-bar */
@@ -99,11 +109,11 @@ li {
 // }
 
 .wrapper {
-  @apply my-32 w-[968px] flex flex-col gap-9 m-auto;
+  @apply my-32 w-full p-3 lg:p-0 lg:w-[968px] flex flex-col gap-9 mx-auto;
 }
 
 .info-container {
-  @apply flex flex-row gap-3 justify-between;
+  @apply flex flex-col lg:flex-row gap-3 justify-between;
 }
 
 .highlight {
@@ -111,11 +121,11 @@ li {
 }
 
 .title {
-  @apply font-signika-negative font-medium text-base text-dark select-none;
+  @apply font-signika-negative font-medium text-base text-dark select-none text-left;
 }
 
 .paragraph {
-  @apply font-open-sans font-medium text-xs leading-6 text-black text-opacity-60 text-justify;
+  @apply font-medium text-xs leading-6 text-black text-opacity-60;
 }
 
 .logo {

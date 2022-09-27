@@ -19,16 +19,18 @@
         am a UI/UX designer and an HCI researcher. As a <b>DESIGNER</b>, my
         designs was awarded by iF, DIA, A' Design, etc. and exhibited at Dubai
         Design Week and China Design Exhibition. As a <b>RESEARCHER</b>, I
-        published at top HCI venues such as CHI, IMWUT, IDC, etc. I was lucky to
-        work with <a href="https://toby.li/">Toby Jia-jun Li</a> in the SaNDwich
-        Lab at University of Notre Dame,
-        <a href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a> in the HCI Group
-        at Hong Kong University of Science and Technology,
+        published at top HCI venues such as CHI, IMWUT, IDC, etc. I worked
+        closely with <a href="https://toby.li/">Toby Jia-jun Li</a> (University
+        of Notre Dame),
+        <a href="http://yaxingyao.com/">Yaxing Yao</a> (University of Maryland,
+        Baltimore County),
+        <a href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a> (Hong Kong
+        University of Science and Technology), and
         <a href="https://scholar.google.com/citations?user=E0R12J4AAAAJ&hl=lv"
           >Yilei Shi</a
         >
-        and <a href="https://haimoz.github.io/">Haimo Zhang</a> in th HCI Lab at
-        OPPO Research Institue.
+        and <a href="https://haimoz.github.io/">Haimo Zhang</a> (OPPO Research
+        Institue).
       </p>
 
       <VAnnouncement />

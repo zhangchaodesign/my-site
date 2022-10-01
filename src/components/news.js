@@ -15,27 +15,27 @@ export default [
   },
   {
     date: '06/2022',
-    content: 'Lucky to work with Toby Jia-jun Li in SaNDwich Lab @ NDCSE.'
+    content: 'Lucky to work with Prof. Toby Jia-jun Li in SaNDwich Lab @ NDCSE.'
   },
   {
     date: '04/2022',
     content:
-      'Finish my research intern @ OPPO Research Insititue, thanks to my mentors Haimo Zhang and Yilei Shi!'
+      'Finish my research intern @ OPPO Research Insititue, thanks to my mentors Dr. Yilei Shi and Dr. Haimo Zhang!'
   },
   {
     date: '03/2022',
     content:
-      'Present our paper "StoryDrawer: A Child–AI Collaborative Drawing System to Support Children\'s Creative Visual Storytelling" @ CHI \'22.'
+      'Present our paper "StoryDrawer: A Child-AI Collaborative Drawing System to Support Children\'s Creative Visual Storytelling" @ CHI \'22.'
   },
   {
     date: '01/2022',
     content:
-      'Start my research intern @ OPPO Research Insititue, mentored by Haimo Zhang and Yilei Shi.'
+      'Start my research intern @ OPPO Research Insititue, mentored by Dr. Yilei Shi and Dr. Haimo Zhang.'
   },
   {
     date: '11/2021',
     content:
-      'My first 1st-author full paper "StoryDrawer: A Child–AI Collaborative Drawing System to Support Children\'s Creative Visual Storytelling" is conditionally accepted by CHI \'22!'
+      'My first 1st-author full paper "StoryDrawer: A Child-AI Collaborative Drawing System to Support Children\'s Creative Visual Storytelling" is conditionally accepted by CHI \'22!'
   },
   {
     date: '11/2022',

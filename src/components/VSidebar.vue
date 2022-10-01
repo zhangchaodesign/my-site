@@ -34,8 +34,10 @@ import VNews from '@/components/VNews.vue';
 export default {
   data() {
     return {
-      pdf: new URL(`../assets/info/CV_ChaoZhang_09_2022.pdf`, import.meta.url)
-        .href
+      pdf: new URL(
+        `../assets/info/CV_ChaoZhang_09_2022_full_version.pdf`,
+        import.meta.url
+      ).href
     };
   },
   components: {

@@ -13,24 +13,24 @@
 
     <div class="detail">
       <p class="paragraph">
-        I am a master student in industrial design engineering at
+        I am a final-year master student at
         <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>,
-        advised by <a href="https://person.zju.edu.cn/en/yaoch">Cheng Yao</a>. I
-        am a UI/UX designer and an HCI researcher. As a <b>DESIGNER</b>, my
-        designs was awarded by iF, DIA, A' Design, etc. and exhibited at Dubai
-        Design Week and China Design Exhibition. As a <b>RESEARCHER</b>, I
-        published at top HCI venues such as CHI, IMWUT, IDC, etc. I worked
-        closely with <a href="https://toby.li/">Toby Jia-jun Li</a> (University
-        of Notre Dame),
-        <a href="http://yaxingyao.com/">Yaxing Yao</a> (University of Maryland,
-        Baltimore County),
+        advised by Prof.
+        <a href="https://person.zju.edu.cn/en/yaoch">Cheng Yao</a>. I am a UI/UX
+        designer and an HCI researcher. As a <b>DESIGNER</b>, my designs was
+        awarded by iF, DIA, A' Design, etc. and exhibited at Dubai Design Week
+        and China Design Exhibition. As a <b>RESEARCHER</b>, I published at top
+        HCI venues such as CHI, IMWUT, IDC, etc. I worked closely with Prof.
+        <a href="https://toby.li/">Toby Jia-jun Li</a> (University of Notre
+        Dame), Prof. <a href="http://yaxingyao.com/">Yaxing Yao</a> (University
+        of Maryland, Baltimore County), Prof.
         <a href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a> (Hong Kong
-        University of Science and Technology), and
+        University of Science and Technology), and Dr.
         <a href="https://scholar.google.com/citations?user=E0R12J4AAAAJ&hl=lv"
           >Yilei Shi</a
         >
-        and <a href="https://haimoz.github.io/">Haimo Zhang</a> (OPPO Research
-        Institue).
+        and Dr. <a href="https://haimoz.github.io/">Haimo Zhang</a> (OPPO
+        Research Institue).
       </p>
 
       <VAnnouncement />
@@ -40,20 +40,43 @@
 
         <div>
           <p class="paragraph">
-            With an interdisciplinary background of interaction design
-            (continued M.E. from
+            With an interdisciplinary background of Industrial Design (continued
+            M.E. from
             <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>),
-            digital media (Minor from
+            Electrical Engineering (B.S. from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>),
-            and electrical engineering (B.S. from
+            and Digital Media Technology (Minor from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>),
             my research interest lies in Human-Computer Interaction, at the
-            intersection of <b>Human-AI Interaction and Creativity</b>.
-            Previously, I designed AI-fused systems to augment human cognition
-            and action, and conducted empirical studies to understand human
-            perception.
+            intersection of <b>Human-AI Collaboration</b>, <b>Digital Youth</b>,
+            and <b>Computational Design</b>.
+            <!-- Previously, I designed AI-fused
+            systems to augment human cognition and action, and conducted
+            empirical studies to understand human perception. -->
           </p>
           <ul class="paragraph">
+            <li>
+              <b>Human-AI Collaboration</b>: My first research interest is
+              exploring human-AI collaborative approaches to augment human
+              capabilities of cognition (e.g., creativity, engagement),
+              perception (e.g., observation), and action (e.g., design).
+            </li>
+            <li>
+              <b>Digital Youth</b>: My second research interest is designing
+              interactive technologies to scaffold children in creating,
+              learning, and understanding the world. For example, I designed
+              AI-fused creativity support tools (CSTs) for children to engage
+              creativity activities such as visual storytelling, music
+              composition, and observational drawing.
+            </li>
+            <li>
+              <b>Computational Design</b>: My third research interest is
+              crafting design tools to broaden creative possibilities for
+              designers in prototyping interactive artifacts, e.g., magnet-based
+              laser-cutting objects and paper-based underwater devices.
+            </li>
+          </ul>
+          <!-- <ul class="paragraph">
             <li>
               <b>Cognition</b>: I designed creativity support tools (CSTs) to
               scaffold children in creativity activities through child-AI
@@ -72,7 +95,7 @@
               magnet-based laser-cutting objects and paper-based underwater
               devices.
             </li>
-          </ul>
+          </ul> -->
         </div>
 
         <img class="select-none w-full" :src="interest" alt="" />

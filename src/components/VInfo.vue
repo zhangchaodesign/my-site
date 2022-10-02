@@ -17,7 +17,7 @@
         <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>,
         advised by Prof.
         <a href="https://person.zju.edu.cn/en/yaoch">Cheng Yao</a>. I am a UI/UX
-        designer and an HCI researcher. As a <b>DESIGNER</b>, my designs was
+        designer and an HCI researcher. As a <b>DESIGNER</b>, my designs were
         awarded by iF, DIA, A' Design, etc. and exhibited at Dubai Design Week
         and China Design Exhibition. As a <b>RESEARCHER</b>, I published at top
         HCI venues such as CHI, IMWUT, IDC, etc. I worked closely with Prof.
@@ -40,7 +40,7 @@
 
         <div>
           <p class="paragraph">
-            With an interdisciplinary background of Industrial Design (continued
+            With an interdisciplinary background in Industrial Design (continued
             M.E. from
             <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>),
             Electrical Engineering (B.S. from
@@ -64,7 +64,7 @@
             <li>
               <b>Digital Youth</b>: My second research interest is designing
               interactive technologies to scaffold children in creating,
-              learning, and understanding the world. For example, I designed
+              learning, and understanding the world. For example, I developed
               AI-fused creativity support tools (CSTs) for children to engage
               creativity activities such as visual storytelling, music
               composition, and observational drawing.

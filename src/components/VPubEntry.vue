@@ -2,7 +2,7 @@
   <div class="entry" @mouseover="selected()" @mouseleave="unselected()">
     <img class="entry-cover" :src="highlight ? animation : cover" alt="" />
     <div class="entry-info">
-      <div class="entry-title">{{ entry['title'] }}</div>
+      <div class="entry-title">{{ entry["title"] }}</div>
       <div class="entry-author">
         <span
           v-for="(val, index) in entry['authors']"
@@ -10,21 +10,19 @@
           :class="val === 'Chao Zhang' ? 'font-semibold' : 'font-normal'"
         >
           <span v-if="index === entry['authors'].length - 1">and </span>
-          {{ entry['authors'][index] }}
+          {{ entry["authors"][index] }}
           <span v-if="index < entry['authors'].length - 1">, </span>
         </span>
       </div>
       <hr />
-      <p class="entry-abstract">{{ entry['abstract'] }}</p>
+      <p class="entry-abstract">{{ entry["abstract"] }}</p>
       <div class="entry-footer">
-        <div class="entry-venue">{{ entry['venue'] }}</div>
+        <div class="entry-venue">{{ entry["venue"] }}</div>
         <div class="entry-material">
-          <div v-if="entry['pdf'] !== ''">
-            [<a :href="pdf" target="_blank">pdf</a>]
-          </div>
+          <div v-if="entry['pdf'] !== ''">[<a :href="pdf" target="_blank">pdf</a>]</div>
           <div v-if="Object.keys(entry['link']).length !== 0">
             [<a :href="Object.values(entry['link'])[0]" target="_blank">{{
-              Object.keys(entry['link'])[0]
+              Object.keys(entry["link"])[0]
             }}</a
             >]
           </div>
@@ -43,24 +41,19 @@
 export default {
   props: {
     entry: {
-      type: Object
-    }
+      type: Object,
+    },
   },
   data() {
     return {
       highlight: false,
-      cover: new URL(
-        `../assets/publications/${this.entry['cover']}`,
-        import.meta.url
-      ).href,
+      cover: new URL(`../assets/publications/${this.entry["cover"]}`, import.meta.url)
+        .href,
       animation: new URL(
-        `../assets/publications/${this.entry['animation']}`,
+        `../assets/publications/${this.entry["animation"]}`,
         import.meta.url
       ).href,
-      pdf: new URL(
-        `../assets/publications/${this.entry['pdf']}`,
-        import.meta.url
-      ).href
+      pdf: new URL(`../assets/publications/${this.entry["pdf"]}`, import.meta.url).href,
     };
   },
   methods: {
@@ -69,8 +62,8 @@ export default {
     },
     unselected() {
       this.highlight = false;
-    }
-  }
+    },
+  },
 };
 </script>
 <style lang="scss" scoped>

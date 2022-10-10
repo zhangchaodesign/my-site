@@ -20,11 +20,11 @@
 </template>
 
 <script>
-import VInfo from '@/components/VInfo.vue';
-import VSidebar from '@/components/VSidebar.vue';
-import VGallery from '@/components/VGallery.vue';
-import VFooter from '@/components/VFooter.vue';
-import VResume from '@/components/VResume.vue';
+import VInfo from "@/components/VInfo.vue";
+import VSidebar from "@/components/VSidebar.vue";
+import VGallery from "@/components/VGallery.vue";
+import VFooter from "@/components/VFooter.vue";
+import VResume from "@/components/VResume.vue";
 
 export default {
   components: {
@@ -32,8 +32,8 @@ export default {
     VSidebar,
     VGallery,
     VFooter,
-    VResume
-  }
+    VResume,
+  },
 };
 </script>
 

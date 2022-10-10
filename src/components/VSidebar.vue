@@ -3,24 +3,24 @@
     <div class="portrait-wrapper">
       <img class="portrait" src="@/assets/info/portrait.jpg" alt="" />
       <div class="icon-wrapper">
-        <a :href="pdf" target="_blank"
-          ><icon-academicons-cv-square class="icon"
-        /></a>
-        <a href="https://scholar.google.com/citations?user=NgaSTisAAAAJ&hl=en"
-          ><icon-academicons-google-scholar-square class="icon"
-        /></a>
-        <a href="https://twitter.com/zhangchaodesign"
-          ><icon-fa-brands-twitter-square class="icon"
-        /></a>
-        <a href="https://www.instagram.com/zhangchaodesign/"
-          ><icon-fa-brands-instagram-square class="icon"
-        /></a>
-        <a href="https://github.com/zhangchaodesign"
-          ><icon-fa-brands-github-square class="icon"
-        /></a>
-        <a href="mailto:zhangchaohci@gmail.com"
-          ><icon-ic-round-email class="icon"
-        /></a>
+        <a :href="pdf" target="_blank">
+          <icon-academicons-cv-square class="icon" />
+        </a>
+        <a href="https://scholar.google.com/citations?user=NgaSTisAAAAJ&hl=en">
+          <icon-academicons-google-scholar-square class="icon" />
+        </a>
+        <a href="https://twitter.com/zhangchaodesign">
+          <icon-fa-brands-twitter-square class="icon" />
+        </a>
+        <a href="https://www.instagram.com/zhangchaodesign/">
+          <icon-fa-brands-instagram-square class="icon" />
+        </a>
+        <a href="https://github.com/zhangchaodesign">
+          <icon-fa-brands-github-square class="icon" />
+        </a>
+        <a href="mailto:zhangchaohci@gmail.com">
+          <icon-ic-round-email class="icon" />
+        </a>
       </div>
     </div>
 
@@ -29,20 +29,20 @@
 </template>
 
 <script>
-import VNews from '@/components/VNews.vue';
+import VNews from "@/components/VNews.vue";
 
 export default {
   data() {
     return {
       pdf: new URL(
-        `../assets/info/CV_ChaoZhang_09_2022_full_version.pdf`,
+        `../assets/info/CV_ChaoZhang_10_2022_full_version.pdf`,
         import.meta.url
-      ).href
+      ).href,
     };
   },
   components: {
-    VNews
-  }
+    VNews,
+  },
 };
 </script>
 

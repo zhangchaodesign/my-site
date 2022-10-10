@@ -2,17 +2,13 @@
   <div class="gallery">
     <div class="title-container">
       <p
-        :class="
-          'gallery-title ' + (state ? 'title-selected' : 'title-unselected')
-        "
+        :class="'gallery-title ' + (state ? 'title-selected' : 'title-unselected')"
         @click="state = 1"
       >
         Publications
       </p>
       <p
-        :class="
-          'gallery-title ' + (!state ? 'title-selected' : 'title-unselected')
-        "
+        :class="'gallery-title ' + (!state ? 'title-selected' : 'title-unselected')"
         @click="state = 0"
       >
         Designs
@@ -25,19 +21,19 @@
 </template>
 
 <script>
-import VPublication from '@/components/VPublication.vue';
-import VDesign from '@/components/VDesign.vue';
+import VPublication from "@/components/VPublication.vue";
+import VDesign from "@/components/VDesign.vue";
 
 export default {
   data() {
     return {
-      state: 1
+      state: 1,
     };
   },
   components: {
     VPublication,
-    VDesign
-  }
+    VDesign,
+  },
 };
 </script>
 

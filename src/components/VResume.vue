@@ -6,9 +6,7 @@
           <p class="resume-title">Education Experiences</p>
           <div class="resume_entry">
             <p class="date">09/2020 - Present</p>
-            <p class="content">
-              M.E. in Industrial Design, Zhejiang University, China
-            </p>
+            <p class="content">M.E. in Industrial Design, Zhejiang University, China</p>
           </div>
           <div class="resume_entry">
             <p class="date">09/2016 - 07/2020</p>
@@ -25,8 +23,7 @@
           <div class="resume_entry">
             <p class="date">07/2018 - 08/2018</p>
             <p class="content">
-              Computer Science Summer Program, National University of Singapore,
-              Singapore
+              Computer Science Summer Program, National University of Singapore, Singapore
             </p>
           </div>
         </div>
@@ -35,29 +32,26 @@
           <div class="resume_entry">
             <p class="date">06/2022 - Present</p>
             <p class="content">
-              SaNDwich Lab @ University of Notre Dame, advised by Toby Jia-jun
-              Li
+              SaNDwich Lab @ University of Notre Dame, advised by Toby Jia-jun Li
             </p>
           </div>
           <div class="resume_entry">
             <p class="date">06/2022 - 09/2022</p>
             <p class="content">
-              HCI Lab @ Hong Kong University of Science and Technology, advised
-              by Xiaojuan Ma
+              HCI Lab @ Hong Kong University of Science and Technology, advised by
+              Xiaojuan Ma
             </p>
           </div>
           <div class="resume_entry">
             <p class="date">01/2022 - 04/2022</p>
             <p class="content">
-              HCI Lab @ OPPO Research Institute, mentored by Haimo Zhang and
-              Yilei Shi
+              HCI Lab @ OPPO Research Institute, mentored by Haimo Zhang and Yilei Shi
             </p>
           </div>
           <div class="resume_entry">
             <p class="date">07/2020 - Present</p>
             <p class="content">
-              INNO Lab @ Zhejiang University, advised by Cheng Yao and Fangtian
-              Ying
+              INNO Lab @ Zhejiang University, advised by Cheng Yao and Fangtian Ying
             </p>
           </div>
         </div>
@@ -97,8 +91,8 @@
         <div class="resume_entry">
           <p class="date">2021</p>
           <p class="content">
-            Outstanding Winner (Top 10), 2021 China Graduate AI Innovation
-            Competition, China
+            Outstanding Winner (Top 10), 2021 China Graduate AI Innovation Competition,
+            China
           </p>
         </div>
         <div class="resume_entry">
@@ -107,9 +101,7 @@
         </div>
         <div class="resume_entry">
           <p class="date">2021</p>
-          <p class="content">
-            Dubai Design Week x 2, 2021, The United Arab Emirates
-          </p>
+          <p class="content">Dubai Design Week x 2, 2021, The United Arab Emirates</p>
         </div>
         <div class="resume_entry">
           <p class="date">2021</p>
@@ -124,12 +116,12 @@
   </div>
 </template>
 <script>
-import VAnnouncement from '@/components/VAnnouncement.vue';
+import VAnnouncement from "@/components/VAnnouncement.vue";
 
 export default {
   components: {
-    VAnnouncement
-  }
+    VAnnouncement,
+  },
 };
 </script>
 <style lang="scss" scoped>

@@ -10,10 +10,9 @@
 export default {
   data() {
     return {
-      pdf: new URL(`../assets/info/CV_ChaoZhang_09_2022.pdf`, import.meta.url)
-        .href
+      pdf: new URL(`../assets/info/CV_ChaoZhang_10_2022.pdf`, import.meta.url).href,
     };
-  }
+  },
 };
 </script>
 <style lang="scss" scoped>

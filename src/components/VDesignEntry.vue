@@ -3,7 +3,7 @@
     <img class="entry-cover" :src="highlight ? cover_2 : cover_1" alt="" />
     <div class="entry-info">
       <div class="entry-basic">
-        <div class="entry-title">{{ entry['title'] }}</div>
+        <div class="entry-title">{{ entry["title"] }}</div>
         <div class="entry-author">
           <span
             v-for="(val, index) in entry['authors']"
@@ -11,16 +11,14 @@
             :class="val === 'Chao Zhang' ? 'font-semibold' : 'font-normal'"
           >
             <span v-if="index === entry['authors'].length - 1">and </span>
-            {{ entry['authors'][index] }}
+            {{ entry["authors"][index] }}
             <span v-if="index < entry['authors'].length - 1">, </span>
           </span>
         </div>
         <hr />
         <div class="entry-footer">
           <div class="entry-material">
-            <div v-if="entry['pdf'] !== ''">
-              [<a :href="pdf" target="_blank">pdf</a>]
-            </div>
+            <div v-if="entry['pdf'] !== ''">[<a :href="pdf" target="_blank">pdf</a>]</div>
             <div v-if="Object.keys(entry['link']).length !== 0">
               <span v-for="(val, index) in entry['link']" :key="index">
                 [<a :href="val" target="_blank">{{ index }}</a
@@ -32,11 +30,7 @@
             </div>
           </div>
 
-          <img
-            class="entry-award"
-            :src="highlight ? award_2 : award_1"
-            alt=""
-          />
+          <img class="entry-award" :src="highlight ? award_2 : award_1" alt="" />
         </div>
       </div>
     </div>
@@ -46,30 +40,21 @@
 export default {
   props: {
     entry: {
-      type: Object
-    }
+      type: Object,
+    },
   },
   data() {
     return {
       highlight: false,
-      cover_1: new URL(
-        `../assets/designs/${this.entry['cover_1']}`,
-        import.meta.url
-      ).href,
-      cover_2: new URL(
-        `../assets/designs/${this.entry['cover_2']}`,
-        import.meta.url
-      ).href,
-      award_1: new URL(
-        `../assets/designs/${this.entry['award_1']}`,
-        import.meta.url
-      ).href,
-      award_2: new URL(
-        `../assets/designs/${this.entry['award_2']}`,
-        import.meta.url
-      ).href,
-      pdf: new URL(`../assets/designs/${this.entry['pdf']}`, import.meta.url)
-        .href
+      cover_1: new URL(`../assets/designs/${this.entry["cover_1"]}`, import.meta.url)
+        .href,
+      cover_2: new URL(`../assets/designs/${this.entry["cover_2"]}`, import.meta.url)
+        .href,
+      award_1: new URL(`../assets/designs/${this.entry["award_1"]}`, import.meta.url)
+        .href,
+      award_2: new URL(`../assets/designs/${this.entry["award_2"]}`, import.meta.url)
+        .href,
+      pdf: new URL(`../assets/designs/${this.entry["pdf"]}`, import.meta.url).href,
     };
   },
   methods: {
@@ -78,8 +63,8 @@ export default {
     },
     unselected() {
       this.highlight = false;
-    }
-  }
+    },
+  },
 };
 </script>
 <style lang="scss" scoped>

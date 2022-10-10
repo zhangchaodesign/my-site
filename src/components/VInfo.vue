@@ -6,12 +6,12 @@
         <img class="logo" src="@/assets/logo/logo_light.svg" alt="" />
       </div>
 
-      <p class="title">Graduate Student (he/him/his) @ ZJU | 23Fall PhD Applicant</p>
+      <p class="title">Graduate Student (he/him/his) @ ZJU | 23Fall Ph.D. Applicant</p>
     </div>
 
     <div class="detail">
       <p class="paragraph">
-        I am a final-year master student at
+        I am a final-year mastesr student at
         <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, advised by
         Prof. <a href="https://person.zju.edu.cn/en/yaoch">Cheng Yao</a>. I am a UI/UX
         designer and an HCI researcher. As a <b>DESIGNER</b>, my designs were awarded by
@@ -43,8 +43,8 @@
             Digital Media Technology (Minor from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), my
             research interest lies in Human-Computer Interaction, at the intersection of
-            <b>Human-AI Collaboration</b>, <b>Digital Youth</b>, and
-            <b>Computational Design</b>.
+            <b>Digital Youth</b>, <b>Human-AI Collaboration</b>, and
+            <b>User Experience</b>.
             <!-- Previously, I designed AI-fused
             systems to augment human cognition and action, and conducted
             empirical studies to understand human perception. -->

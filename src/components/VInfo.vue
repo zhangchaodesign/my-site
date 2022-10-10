@@ -135,12 +135,12 @@ export default {
   mounted() {
     if (document.body.clientWidth > 1024) {
       this.interest = new URL(
-        `../assets/info/research_interest_1.svg`,
+        `../assets/info/research_interest_desktop.svg`,
         import.meta.url
       ).href;
     } else {
       this.interest = new URL(
-        `../assets/info/research_interest_2.svg`,
+        `../assets/info/research_interest_mobile.svg`,
         import.meta.url
       ).href;
     }

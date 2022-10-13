@@ -60,7 +60,7 @@
             <li>
               <b>Human-AI Collaboration</b>: My second research interest is exploring
               human-AI collaborative approaches to augment human capabilities of cognition
-              (e.g., creativity, engagement), perception (e.g., observsation), and action
+              (e.g., creativity, engagement), perception (e.g., observation), and action
               (e.g., design).
             </li>
             <li>

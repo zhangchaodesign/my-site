@@ -64,10 +64,9 @@
               (e.g., design).
             </li>
             <li>
-              <b>User Experience</b>: My third research interest is investigating ethical
-              issues (e.g., dark patterns) and intervention techniques in user experience
-              design to empower end users in regaining autonomy from malicious
-              technologies.
+              <b>User Experience</b>: My third research interest is investigating the
+              impact of digital technology on end users in their daily online experience
+              through an ethical and collective lens.
             </li>
           </ul>
           <!-- <ul class="paragraph">

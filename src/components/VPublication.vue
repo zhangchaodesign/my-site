@@ -6,8 +6,9 @@
         <div class="w-full px-3">
           <div class="announcement paragraph">
             <p class="text-dark text-xs leading-6 font-signika-negative">
-              Submitted three papers (one as 1st author, one as co-1st author, and one as
-              2nd author) to CHI '23, which are not listed here for Anonymity.
+              Five papers (one as the 1st author, one as the co-1st author, and three as a
+              co-author) are under review at CHI '23, which are not listed here for
+              Anonymity.
             </p>
           </div>
         </div>

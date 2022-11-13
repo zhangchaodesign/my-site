@@ -36,9 +36,10 @@
 
         <div>
           <p class="paragraph">
-            With an interdisciplinary background in Industrial Design (continued M.E. from
+            With an interdisciplinary background in Design Engineering (continued M.E.
+            from
             <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>), Electrical
-            Engineering (B.S. from
+            Engineering (B.E. from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), and
             Digital Media Technology (Minor from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), my

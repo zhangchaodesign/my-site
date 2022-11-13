@@ -6,12 +6,12 @@
           <p class="resume-title">Education Experiences</p>
           <div class="resume_entry">
             <p class="date">09/2020 - Present</p>
-            <p class="content">M.E. in Industrial Design, Zhejiang University, China</p>
+            <p class="content">M.E. in Design Engineering, Zhejiang University, China</p>
           </div>
           <div class="resume_entry">
             <p class="date">09/2016 - 07/2020</p>
             <p class="content">
-              B.S. in Electrical Engineering, Jiangnan University, China
+              B.E. in Electrical Engineering, Jiangnan University, China
             </p>
           </div>
           <div class="resume_entry">

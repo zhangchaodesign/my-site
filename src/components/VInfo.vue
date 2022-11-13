@@ -26,7 +26,7 @@
           >Yilei Shi</a
         >
         and Dr. <a href="https://haimoz.github.io/">Haimo Zhang</a> (OPPO Research
-        Institue).
+        Institute).
       </p>
 
       <VAnnouncement />

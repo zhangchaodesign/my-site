@@ -52,7 +52,7 @@ export default {
     },
     {
       cover: 'mechcircuit_chi23/cover.jpg',
-      animation: 'mechcircuit_chi23/animation.jpg',
+      animation: 'mechcircuit_chi23/animation.gif',
       title:
         "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets",
       authors: [

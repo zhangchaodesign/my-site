@@ -1,6 +1,83 @@
 export default {
   paper: [
     {
+      cover: 'occ_chi23/cover.jpg',
+      animation: 'occ_chi23/animation.jpg',
+      title:
+        "What Makes Creators Engage with Online Critiques? Understanding the Role of Artifacts' Creation Stage, Characteristics of Community Comments, and their Interactions",
+      authors: [
+        'Qingyu Guo',
+        'Chao Zhang',
+        'Hanfang Lyu',
+        'Zhenhui Peng',
+        'Xiaojuan Ma'
+      ],
+      abstract:
+        "Online critique communities (OCCs) provide a convenient space for creators to solicit feedback on their artifacts and improve skills. Creators’ behavioral, emotional, and cognitive engagement with comments on their works contribute to their skill development. However, what kinds of critique creators feel engaging may change with the creation stage of their shared artifacts. In this paper, we first model three dimensions of engagement expressed in creators’ replies to peer comments. Then we quantitatively examine how their engagement is affected by artifacts’ stage and feedback characteristics via regression analysis. Results show that creators sharing works-in-progress tend to exhibit lower behavioral and emotional engagement, but higher cognitive engagement than those sharing complete works. The increase in the valence of the feedback is associated with a stronger increase in behavior engagement for seekers sharing complete works than works-in-progress. Finally, we discuss how our insights could benefit OCCs and other online help-seeking platforms.",
+      venue:
+        'To appear at the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
+      pdf: '',
+      link: {},
+      video: '',
+      talk: ''
+    },
+    {
+      cover: 'mathkingdom_chi23/cover.jpg',
+      animation: 'mathkingdom_chi23/animation.gif',
+      title:
+        "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game",
+      authors: [
+        'Wenjie Xu',
+        'Jiayi Ma',
+        'Jiayu Yao',
+        'Weijia Lin',
+        'Chao Zhang',
+        'Xuanhe Xia',
+        'Nan Zhuang',
+        'Shitong Weng',
+        'Xiaoqian Xie',
+        'Shuyue Feng',
+        'Fangtian Ying',
+        'Preben Hansen',
+        'Cheng Yao'
+      ],
+      abstract:
+        "The amount and quality of mathematical language in the family are positively associated with promoting children’s mathematical abilities. However, mathematical language in many families is poor. Through need-finding investigation, we developed MathKingdom, a voice-agent-based game that helps children aged 4–7 learn and use rich, accurate mathematical language (e.g., mathematical expressions related to measurement, sequence, patterns). The game has of four flows, in which users can wake up, transform, decorate, and perform as their avatars, as well as practice basic mathematical vocabulary, mathematical single sentences, coherent mathematical statements, and free expression. We refined the system design through Wizard-of-Oz testing and then evaluated it with 18 families. The results showed that MathKingdom effectively engaged children, enhanced their mathematical language skills and mathematical abilities, and encouraged parent-child conversations about math.",
+      venue:
+        'To appear at the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
+      pdf: '',
+      link: {},
+      video: '',
+      talk: ''
+    },
+    {
+      cover: 'mechcircuit_chi23/cover.jpg',
+      animation: 'occ_chi23/animation.jpg',
+      title:
+        "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets",
+      authors: [
+        'Shuyue Feng',
+        'Cheng Yao',
+        'Weijia Lin',
+        'Jiayu Yao',
+        'Chao Zhang',
+        'Zhongyu Jia',
+        'Lijuan Liu',
+        'Masulani Bokola',
+        'Hangyue Chen',
+        'Fangtian Ying',
+        'Guanyun Wang'
+      ],
+      abstract:
+        "Laser cutting revolutionizes the creation of personal-fabricated prototypes. These objects can have transformable properties by adopting different materials and be interactive by integrating electronic circuits. However, circuits in laser-cut objects always have limited movements, which refrains laser cutting from achieving interactive prototypes with more complex movable functions like mechanisms. We propose MechCircuit, a design and fabrication pipeline for making mechanical-electronical objects with laser cutting. We leverage the neodymium magnet’s natures of magnetism and conductivity to integrate electronics and mechanical structure joints into prototypes. We conduct the evaluation to explore technological parameters and assess the practical feasibility of the fabrication pipeline. And we organized a user-observing workshop for non-expert users. Through the outcoming prototypes, the result demonstrates the feasibility of MechCircuit as a useful and inspiring prototyping method.",
+      venue:
+        'To appear at the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
+      pdf: '',
+      link: {},
+      video: '',
+      talk: ''
+    },
+    {
       cover: 'storydrawer_chi22/cover.jpg',
       animation: 'storydrawer_chi22/animation.gif',
       title:

@@ -1,12 +1,24 @@
 export default [
   {
-    date: '09/2022',
-    content: "Submitted three papers to CHI '23, thanks to my co-authors."
+    date: '01/2023',
+    content: 'Our paper "What Makes Creators Engage with Online Critiques? Understanding the Role of Artifacts\' Creation Stage, Characteristics of Community Comments, and their Interactions" is accepted at CHI \'23!'
   },
+  {
+    date: '01/2023',
+    content: 'Our paper "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game" is accepted at CHI \'23!'
+  },
+  {
+    date: '01/2023',
+    content: 'MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets" is accepted at CHI \'23!'
+  },
+  // {
+  //   date: '09/2022',
+  //   content: "Submitted five papers to CHI '23, thanks to my co-authors."
+  // },
   {
     date: '08/2022',
     content:
-      'Our paper "SSpoon: A Shape-changing Spoon That Optimizes Bite Size For Eating Rate Regulation" is accepted by IMWUT \'22!'
+      'Our paper "SSpoon: A Shape-changing Spoon That Optimizes Bite Size For Eating Rate Regulation" is accepted at IMWUT \'22!'
   },
   {
     date: '07/2022',
@@ -35,7 +47,7 @@ export default [
   {
     date: '11/2021',
     content:
-      'My first 1st-author full paper "StoryDrawer: A Child-AI Collaborative Drawing System to Support Children\'s Creative Visual Storytelling" is conditionally accepted by CHI \'22!'
+      'My first 1st-author full paper "StoryDrawer: A Child-AI Collaborative Drawing System to Support Children\'s Creative Visual Storytelling" is conditionally accepted at CHI \'22!'
   },
   {
     date: '11/2022',

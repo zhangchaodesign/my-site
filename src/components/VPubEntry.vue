@@ -87,7 +87,7 @@ a {
   }
 
   .entry-title {
-    @apply font-signika-negative font-medium text-xs lg:leading-3 text-dark select-none;
+    @apply font-signika-negative font-medium text-xs lg:leading-4 text-dark select-none;
   }
 
   .entry-author {

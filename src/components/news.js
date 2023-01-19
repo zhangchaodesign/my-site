@@ -9,7 +9,7 @@ export default [
   },
   {
     date: '01/2023',
-    content: 'MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets" is accepted at CHI \'23!'
+    content: 'Our paper "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets" is accepted at CHI \'23!'
   },
   // {
   //   date: '09/2022',

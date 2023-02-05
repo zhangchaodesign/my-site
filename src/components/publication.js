@@ -42,7 +42,7 @@ export default {
         'Cheng Yao'
       ],
       abstract:
-        "The amount and quality of mathematical language in the family are positively associated with promoting children’s mathematical abilities. However, mathematical language in many families is poor. Through need-finding investigation, we developed MathKingdom, a voice-agent-based game that helps children aged 4–7 learn and use rich, accurate mathematical language (e.g., mathematical expressions related to measurement, sequence, patterns). The game has of four flows, in which users can wake up, transform, decorate, and perform as their avatars, as well as practice basic mathematical vocabulary, mathematical single sentences, coherent mathematical statements, and free expression. We refined the system design through Wizard-of-Oz testing and then evaluated it with 18 families. The results showed that MathKingdom effectively engaged children, enhanced their mathematical language skills and mathematical abilities, and encouraged parent-child conversations about math.",
+        "The amount and quality of mathematical language in the family are positively associated with promoting children's mathematical abilities. However, mathematical language in many families is poor. Through need-finding investigation, we developed MathKingdom, a voice-agent-based game that helps children aged 4–7 learn and use rich, accurate mathematical language (e.g., mathematical expressions related to measurement, sequence, patterns). The game has of four flows, in which users can wake up, transform, decorate, and perform as their avatars, as well as practice basic mathematical vocabulary, mathematical single sentences, coherent mathematical statements, and free expression. We refined the system design through Wizard-of-Oz testing and then evaluated it with 18 families. The results showed that MathKingdom effectively engaged children, enhanced their mathematical language skills and mathematical abilities, and encouraged parent-child conversations about math.",
       venue:
         'To appear at the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
       pdf: '',
@@ -69,7 +69,7 @@ export default {
         'Guanyun Wang'
       ],
       abstract:
-        "Laser cutting revolutionizes the creation of personal-fabricated prototypes. These objects can have transformable properties by adopting different materials and be interactive by integrating electronic circuits. However, circuits in laser-cut objects always have limited movements, which refrains laser cutting from achieving interactive prototypes with more complex movable functions like mechanisms. We propose MechCircuit, a design and fabrication pipeline for making mechanical-electronical objects with laser cutting. We leverage the neodymium magnet’s natures of magnetism and conductivity to integrate electronics and mechanical structure joints into prototypes. We conduct the evaluation to explore technological parameters and assess the practical feasibility of the fabrication pipeline. And we organized a user-observing workshop for non-expert users. Through the outcoming prototypes, the result demonstrates the feasibility of MechCircuit as a useful and inspiring prototyping method.",
+        "Laser cutting revolutionizes the creation of personal-fabricated prototypes. These objects can have transformable properties by adopting different materials and be interactive by integrating electronic circuits. However, circuits in laser-cut objects always have limited movements, which refrains laser cutting from achieving interactive prototypes with more complex movable functions like mechanisms. We propose MechCircuit, a design and fabrication pipeline for making mechanical-electronical objects with laser cutting. We leverage the neodymium magnet's natures of magnetism and conductivity to integrate electronics and mechanical structure joints into prototypes. We conduct the evaluation to explore technological parameters and assess the practical feasibility of the fabrication pipeline. And we organized a user-observing workshop for non-expert users. Through the outcoming prototypes, the result demonstrates the feasibility of MechCircuit as a useful and inspiring prototyping method.",
       venue:
         'To appear at the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
       pdf: '',
@@ -150,31 +150,6 @@ export default {
   ],
   poster: [
     {
-      cover: 'musiccollage_hcii22/cover.jpg',
-      animation: 'musiccollage_hcii22/animation.gif',
-      title:
-        'MusicCollage: A Music Composition Tool for Children Based on Synesthesia and a Genetic Algorithm',
-      authors: [
-        'Ge Yan',
-        'Cheng Yao',
-        'Chao Zhang',
-        'Jiadi Wang',
-        'Yuqi Hu',
-        'Fangtian Ying'
-      ],
-      abstract:
-        "Creating music can be challenging for children aged 4-6. Making the creation procedure more interesting has been proved to stimulate and build children’s interests in music. Based on the design concept of synesthesia from vision to hearing, we propose an application by which children aged 4-6 can create collages by matching different images of scenes and animals. The information contained in the created collages is then used as input parameters for generating music so as to create melodies corresponding to the collages. To evaluate our approach, we conducted a quantitative and qualitative user study with children (n = 6) by using our initial prototype. We concluded that the proposed application helps cultivate children's willingness to create melodies, and helps children better perceive and understand music by combining scenes and animal images in the collages.",
-      venue:
-        '2022 International Conference on Human-Computer Interaction (HCII 2022)',
-      pdf: 'musiccollage_hcii22/musiccollage_hcii22.pdf',
-      link: {
-        springer:
-          'https://link.springer.com/chapter/10.1007/978-3-031-05431-0_15'
-      },
-      video: '',
-      talk: ''
-    },
-    {
       cover: 'camfi_chi22/cover.jpg',
       animation: 'camfi_chi22/animation.gif',
       title:
@@ -190,12 +165,37 @@ export default {
         'Cheng Yao'
       ],
       abstract:
-        "Creating music can be challenging for children aged 4-6. Making the creation procedure more interesting has been proved to stimulate and build children’s interests in music. Based on the design concept of synesthesia from vision to hearing, we propose an application by which children aged 4-6 can create collages by matching different images of scenes and animals. The information contained in the created collages is then used as input parameters for generating music so as to create melodies corresponding to the collages. To evaluate our approach, we conducted a quantitative and qualitative user study with children (n = 6) by using our initial prototype. We concluded that the proposed application helps cultivate children's willingness to create melodies, and helps children better perceive and understand music by combining scenes and animal images in the collages.",
+        "Creating music can be challenging for children aged 4-6. Making the creation procedure more interesting has been proved to stimulate and build children's interests in music. Based on the design concept of synesthesia from vision to hearing, we propose an application by which children aged 4-6 can create collages by matching different images of scenes and animals. The information contained in the created collages is then used as input parameters for generating music so as to create melodies corresponding to the collages. To evaluate our approach, we conducted a quantitative and qualitative user study with children (n = 6) by using our initial prototype. We concluded that the proposed application helps cultivate children's willingness to create melodies, and helps children better perceive and understand music by combining scenes and animal images in the collages.",
       venue:
-        '2022 International Conference on Human-Computer Interaction (HCII 2022)',
+        'Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI EA 2022)',
       pdf: 'camfi_chi22/camfi_chi22.pdf',
       link: {
         acm: 'https://dl.acm.org/doi/10.1145/3491101.3519780'
+      },
+      video: '',
+      talk: ''
+    },
+    {
+      cover: 'musiccollage_hcii22/cover.jpg',
+      animation: 'musiccollage_hcii22/animation.gif',
+      title:
+        'MusicCollage: A Music Composition Tool for Children Based on Synesthesia and a Genetic Algorithm',
+      authors: [
+        'Ge Yan',
+        'Cheng Yao',
+        'Chao Zhang',
+        'Jiadi Wang',
+        'Yuqi Hu',
+        'Fangtian Ying'
+      ],
+      abstract:
+        "Creating music can be challenging for children aged 4-6. Making the creation procedure more interesting has been proved to stimulate and build children's interests in music. Based on the design concept of synesthesia from vision to hearing, we propose an application by which children aged 4-6 can create collages by matching different images of scenes and animals. The information contained in the created collages is then used as input parameters for generating music so as to create melodies that correspond to the collages. To evaluate our approach, we conducted a quantitative and qualitative user study with children (n=6) by using our initial prototype. We concluded that the proposed application helps cultivate children's willingness to create melodies, and helps children better perceive and understand music by combining scenes and animal images in the collages.",
+      venue:
+        '2022 International Conference on Human-Computer Interaction (HCII 2022)',
+      pdf: 'musiccollage_hcii22/musiccollage_hcii22.pdf',
+      link: {
+        springer:
+          'https://link.springer.com/chapter/10.1007/978-3-031-05431-0_15'
       },
       video: '',
       talk: ''

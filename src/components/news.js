@@ -1,15 +1,23 @@
 export default [
   {
-    date: '01/2023',
-    content: 'Our paper "What Makes Creators Engage with Online Critiques? Understanding the Role of Artifacts\' Creation Stage, Characteristics of Community Comments, and their Interactions" is accepted at CHI \'23!'
+    date: '03/2023',
+    content: 'Our paper "Observe It, Draw It: Scaffolding Children\'s Observations of Plant Biodiversity with an Interactive Drawing Tool" was accepted to IDC \'23!'
+  },
+  {
+    date: '03/2023',
+    content: 'Our paper "NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children" was accepted to MobileHCI \'23!'
   },
   {
     date: '01/2023',
-    content: 'Our paper "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game" is accepted at CHI \'23!'
+    content: 'Our paper "What Makes Creators Engage with Online Critiques? Understanding the Role of Artifacts\' Creation Stage, Characteristics of Community Comments, and their Interactions" was accepted to CHI \'23!'
   },
   {
     date: '01/2023',
-    content: 'Our paper "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets" is accepted at CHI \'23!'
+    content: 'Our paper "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game" was accepted to CHI \'23!'
+  },
+  {
+    date: '01/2023',
+    content: 'Our paper "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets" was accepted to CHI \'23!'
   },
   // {
   //   date: '09/2022',
@@ -18,7 +26,7 @@ export default [
   {
     date: '08/2022',
     content:
-      'Our paper "SSpoon: A Shape-changing Spoon That Optimizes Bite Size For Eating Rate Regulation" is accepted at IMWUT \'22!'
+      'Our paper "SSpoon: A Shape-changing Spoon That Optimizes Bite Size For Eating Rate Regulation" was accepted to IMWUT \'22!'
   },
   {
     date: '07/2022',

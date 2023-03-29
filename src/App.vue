@@ -120,6 +120,10 @@ li {
   @apply text-highlight;
 }
 
+.phrase_highlight{
+  @apply bg-highlight text-white font-semibold px-1;
+}
+
 .title {
   @apply font-signika-negative font-medium text-base text-dark select-none text-left;
 }

@@ -5,7 +5,7 @@
         <div class="resume-block">
           <p class="resume-title">Education Experiences</p>
           <div class="resume_entry">
-            <p class="date">09/2020 - Present</p>
+            <p class="date">09/2020 - 03/2023</p>
             <p class="content">M.E. in Design Engineering, Zhejiang University, China</p>
           </div>
           <div class="resume_entry">
@@ -112,7 +112,7 @@
       </div>
     </div>
 
-    <VAnnouncement />
+    <!-- <VAnnouncement /> -->
   </div>
 </template>
 <script>

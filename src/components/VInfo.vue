@@ -12,16 +12,11 @@
     <div class="detail">
       <p class="paragraph">
         I am an incoming Ph.D. student at
-        <a href="https://www.cornell.edu/">Cornell University</a>, advised by Professor
-        <a href="https://qianyang.co/">Qian Yang</a>. I am a UI/UX designer and an HCI
-        researcher. As a <span class="phrase_highlight">DESIGNER</span>, my designs were awarded by iF, DIA, A' Design,
-        etc. and exhibited at Dubai Design Week and China Design Exhibition. As a
-        <span class="phrase_highlight">RESEARCHER</span>, I published at top HCI venues such as CHI, IMWUT, IDC, etc. I
-        was lucky to work closely with Professor
-        <a href="https://toby.li/">Toby Jia-jun Li</a> (University of Notre Dame), Professor
-        <a href="http://yaxingyao.com/">Yaxing Yao</a> (University of Maryland, Baltimore
-        County), and Professor <a href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a> (Hong Kong
-        University of Science and Technology).
+        <a href="https://www.cornell.edu/">Cornell University</a>, advised by the fabulous Professor
+        <a href="https://qianyang.co/">Qian Yang</a>. As a <span class="phrase_highlight">UI/UX DESIGNER</span>, my designs has garnered accolades in renowned design competitions, including iF, DIA, and A’ Design, and have been showcased at prestigious events like Dubai Design Week and the China Design Exhibition. As an
+        <span class="phrase_highlight">HCI RESEARCHER</span>, I have published in esteemed HCI venues such as CHI, IMWUT, IDC, etc. I am grateful to have collaborated with notable professors like Professors
+        <a href="https://toby.li/">Toby Jia-jun Li</a>,
+        <a href="http://yaxingyao.com/">Yaxing Yao</a>, <a href="https://person.zju.edu.cn/en/yaoch">Cheng Yao</a>, <a href="https://guanyundesign.com/">Guanyun Wang</a>, and <a href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a>.
       </p>
 
       <!-- <VAnnouncement /> -->
@@ -39,7 +34,7 @@
             Digital Media Technology (Minor from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), my
             research interest lies in Human-Computer Interaction, at the intersection of
-            <b>Human-AI Interaction</b>, <b>Digital Youth</b>, and <b>User Experience</b>.
+            <b>Human-AI Interaction</b>, <b>Digital Youth</b>, and <b>Design</b>.
             <!-- Previously, I designed AI-fused
             systems to augment human cognition and action, and conducted
             empirical studies to understand human perception. -->
@@ -59,7 +54,7 @@
               music composition, and observational drawing.
             </li>
             <li>
-              <b>Design</b>: My third research interest is inventing computational design tools and investigating end users' daily online experience through an ethical and collective lens.
+              <b>Design</b>: My third research interest is investigating the impact of designs (e.g., dark patterns) on end users' daily online experience and inventing computational design tools to lower barriers to prototyping.
             </li>
           </ul>
           <!-- <ul class="paragraph">

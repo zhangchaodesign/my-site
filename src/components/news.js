@@ -1,4 +1,8 @@
 export default [
+  { 
+    date: '03/2023', 
+    content: 'Thrilled to share that I\'m starting my PhD at Cornell in this fall! I\'ll be working with Professor Qian Yang on human-ai interaction design! I\'m very excited and thankful for everyone who has supported me along the way!' 
+  },
   {
     date: '03/2023',
     content: 'Our paper "Observe It, Draw It: Scaffolding Children\'s Observations of Plant Biodiversity with an Interactive Drawing Tool" was accepted to IDC \'23!'

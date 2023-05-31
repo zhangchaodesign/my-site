@@ -1,7 +1,8 @@
 <template>
   <div class="publication">
     <div class="paper">
-      <p class="title p-3">Major Peer-reviewed Conference and Journal Papers</p>
+      <!-- <p class="title p-3">Major Peer-reviewed Conference and Journal Papers</p> -->
+      <p class="title p-3">#1 - Educational Technology / Child-AI Interaction</p>
       <div class="entries">
         <!-- <div class="w-full px-3">
           <div class="announcement paragraph">
@@ -13,23 +14,63 @@
           </div>
         </div> -->
 
-        <div v-for="(val, index) in pub['paper']" :key="index" class="news_entry">
+        <div v-for="(val, index) in pub['child']" :key="index" class="news_entry">
           <!-- <p class="date">{{ news[index]['date'] }}</p> -->
-          <VPubEntry :entry="pub['paper'][index]" />
+          <VPubEntry :entry="pub['child'][index]" />
         </div>
       </div>
     </div>
     <div class="paper">
-      <p class="title p-3">
+      <!-- <p class="title p-3">Major Peer-reviewed Conference and Journal Papers</p> -->
+      <p class="title p-3">#2 - Social Computing / Social Media</p>
+      <div class="entries">
+        <!-- <div class="w-full px-3">
+          <div class="announcement paragraph">
+            <p class="text-dark text-xs leading-6 font-signika-negative">
+              Five papers (one as the 1st author, one as the co-1st author, and three as a
+              co-author) are under review at CHI '23, which are not listed here for
+              Anonymity.
+            </p>
+          </div>
+        </div> -->
+
+        <div v-for="(val, index) in pub['social']" :key="index" class="news_entry">
+          <!-- <p class="date">{{ news[index]['date'] }}</p> -->
+          <VPubEntry :entry="pub['social'][index]" />
+        </div>
+      </div>
+    </div>
+    <div class="paper">
+      <!-- <p class="title p-3">Major Peer-reviewed Conference and Journal Papers</p> -->
+      <p class="title p-3">#3 - Digital Fabrication / Tangible Interaction</p>
+      <div class="entries">
+        <!-- <div class="w-full px-3">
+          <div class="announcement paragraph">
+            <p class="text-dark text-xs leading-6 font-signika-negative">
+              Five papers (one as the 1st author, one as the co-1st author, and three as a
+              co-author) are under review at CHI '23, which are not listed here for
+              Anonymity.
+            </p>
+          </div>
+        </div> -->
+
+        <div v-for="(val, index) in pub['fabrication']" :key="index" class="news_entry">
+          <!-- <p class="date">{{ news[index]['date'] }}</p> -->
+          <VPubEntry :entry="pub['fabrication'][index]" />
+        </div>
+      </div>
+    </div>
+    <details class="paper">
+      <summary class="title p-3">
         Minor Lightly-Reviewed Posters, Extended Abstracts, and Workshop Papers
-      </p>
+      </summary>
       <div class="entries">
         <div v-for="(val, index) in pub['poster']" :key="index" class="news_entry">
           <!-- <p class="date">{{ news[index]['date'] }}</p> -->
           <VPubEntry :entry="pub['poster'][index]" />
         </div>
       </div>
-    </div>
+    </details>
   </div>
 </template>
 <script>

@@ -30,7 +30,7 @@
             [<a :href="entry['video']" target="_blank">video</a>]
           </div>
           <div v-if="entry['talk'] !== ''">
-            [<a :href="entry['talk']" target="_blank">talk</a>]
+            [<a :href="entry['talk']" target="_blank">Presentation</a>]
           </div>
         </div>
       </div>

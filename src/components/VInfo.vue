@@ -42,17 +42,16 @@
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), and
             Digital Media Technology (Minor from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), my
-            research interest lies in Human-Computer Interaction (HCI), strategically
-            situated at the intersection of Educational Technology, Social Computing, and
-            Computational Design.
+            research interest primarily lies in Human-Computer Interaction (HCI).
+            Specifically,
             <b
-              >I explore the use of generative AI as design materials, with the aim of
-              fostering responsible interactions that empower users to learn, create,
-              thrive, and flourish.</b
+              >I delve into the utilization of generative AI as design materials, aiming
+              to foster responsible interactions that empower users, particularly
+              children, to learn, create, and thrive.</b
             >
-            For instance, I have successfully designed educational technologies,
+            <!-- For instance, I have successfully designed educational technologies,
             leveraging generative AI to engage young individuals in creative
-            interventions, STEM learning, and nature-oriented explorations.
+            interventions, STEM learning, and nature-oriented explorations. -->
             <!-- Previously, I designed AI-fused
             systems to augment human cognition and action, and conducted
             empirical studies to understand human perception. -->

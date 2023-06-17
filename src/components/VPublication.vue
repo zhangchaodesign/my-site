@@ -2,7 +2,7 @@
   <div class="publication">
     <div class="paper">
       <!-- <p class="title p-3">Major Peer-reviewed Conference and Journal Papers</p> -->
-      <p class="title p-3">#1 - Educational Technology / Child-AI Interaction</p>
+      <p class="title p-3">#1 - Educational Technology / Create to Learn</p>
       <div class="entries">
         <!-- <div class="w-full px-3">
           <div class="announcement paragraph">
@@ -22,7 +22,7 @@
     </div>
     <div class="paper">
       <!-- <p class="title p-3">Major Peer-reviewed Conference and Journal Papers</p> -->
-      <p class="title p-3">#2 - Social Computing / Social Media</p>
+      <p class="title p-3">#2 - Social Media / Online Content Creation</p>
       <div class="entries">
         <!-- <div class="w-full px-3">
           <div class="announcement paragraph">
@@ -42,7 +42,7 @@
     </div>
     <div class="paper">
       <!-- <p class="title p-3">Major Peer-reviewed Conference and Journal Papers</p> -->
-      <p class="title p-3">#3 - Digital Fabrication / Tangible Interaction</p>
+      <p class="title p-3">#3 - Digital Fabrication / Creativity Support Tool</p>
       <div class="entries">
         <!-- <div class="w-full px-3">
           <div class="announcement paragraph">

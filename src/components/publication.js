@@ -201,7 +201,7 @@ export default {
       talk: ''
     }
   ],
-  child: [
+  selected: [
     {
       cover: 'biosketchbook_idc23/cover.jpg',
       animation: 'biosketchbook_idc23/animation.gif',
@@ -229,6 +229,27 @@ export default {
       link: {},
       video: '',
       talk: 'https://youtu.be/via2D8pffhI'
+    },
+    {
+      cover: 'occ_chi23/cover.jpg',
+      animation: 'occ_chi23/animation.jpg',
+      title:
+        "What Makes Creators Engage with Online Critiques? Understanding the Role of Artifacts' Creation Stage, Characteristics of Community Comments, and their Interactions",
+      authors: [
+        'Qingyu Guo',
+        'Chao Zhang',
+        'Hanfang Lyu',
+        'Zhenhui Peng',
+        'Xiaojuan Ma'
+      ],
+      abstract:
+        "Online critique communities (OCCs) provide a convenient space for creators to solicit feedback on their artifacts and improve skills. Creators’ behavioral, emotional, and cognitive engagement with comments on their works contribute to their skill development. However, what kinds of critique creators feel engaging may change with the creation stage of their shared artifacts. In this paper, we first model three dimensions of engagement expressed in creators’ replies to peer comments. Then we quantitatively examine how their engagement is affected by artifacts’ stage and feedback characteristics via regression analysis. Results show that creators sharing works-in-progress tend to exhibit lower behavioral and emotional engagement, but higher cognitive engagement than those sharing complete works. The increase in the valence of the feedback is associated with a stronger increase in behavior engagement for seekers sharing complete works than works-in-progress. Finally, we discuss how our insights could benefit OCCs and other online help-seeking platforms.",
+      venue:
+        'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
+      pdf: 'occ_chi23/occ_chi23.pdf',
+      link: { acm: 'https://dl.acm.org/doi/10.1145/3544548.3581054' },
+      video: '',
+      talk: 'https://youtu.be/np0zuSj9CC8'
     },
     {
       cover: 'mathkingdom_chi23/cover.jpg',
@@ -281,34 +302,9 @@ export default {
       link: { acm: 'https://dl.acm.org/doi/abs/10.1145/3491102.3501914' },
       video: 'https://www.youtube.com/watch?v=rr2PKQLp7nM',
       talk: 'https://www.youtube.com/watch?v=AD4b-AW3nKQ&t=315s'
-    },
-    {
-      cover: 'musiccollage_hcii22/cover.jpg',
-      animation: 'musiccollage_hcii22/animation.gif',
-      title:
-        'MusicCollage: A Music Composition Tool for Children Based on Synesthesia and a Genetic Algorithm',
-      authors: [
-        'Ge Yan',
-        'Cheng Yao',
-        'Chao Zhang',
-        'Jiadi Wang',
-        'Yuqi Hu',
-        'Fangtian Ying'
-      ],
-      abstract:
-        "Creating music can be challenging for children aged 4-6. Making the creation procedure more interesting has been proved to stimulate and build children's interests in music. Based on the design concept of synesthesia from vision to hearing, we propose an application by which children aged 4-6 can create collages by matching different images of scenes and animals. The information contained in the created collages is then used as input parameters for generating music so as to create melodies that correspond to the collages. To evaluate our approach, we conducted a quantitative and qualitative user study with children (n=6) by using our initial prototype. We concluded that the proposed application helps cultivate children's willingness to create melodies, and helps children better perceive and understand music by combining scenes and animal images in the collages.",
-      venue:
-        '2022 International Conference on Human-Computer Interaction (HCII 2022)',
-      pdf: 'musiccollage_hcii22/musiccollage_hcii22.pdf',
-      link: {
-        springer:
-          'https://link.springer.com/chapter/10.1007/978-3-031-05431-0_15'
-      },
-      video: '',
-      talk: ''
     }
   ],
-  fabrication: [
+  others: [
     {
       cover: 'mechcircuit_chi23/cover.jpg',
       animation: 'mechcircuit_chi23/animation.gif',
@@ -359,55 +355,6 @@ export default {
       video: '',
       talk: ''
     },
-    {
-      cover: 'electropaper_electronics21/cover.jpg',
-      animation: 'electropaper_electronics21/animation.gif',
-      title:
-        'ElectroPaper: Design and Fabrication of Paper-Based Electronic Interfaces for the Water Environment',
-      authors: [
-        'Lijuan Liu',
-        'Jiahao Guo',
-        'Chao Zhang',
-        'Zhangzhi Wang',
-        'Pinqi Zhu',
-        'Tuo Fang',
-        'Junwu Wang',
-        'Cheng Yao',
-        'Fangtian Ying'
-      ],
-      abstract:
-        'The fabrication of underwater devices is necessary for the exploration of water environments and interactions in the Human-Computer Interaction (HCI) ﬁeld. However, there are fewer approaches to support prototyping used in water environments. The existing prototype methods lack systematic waterproof treatments and provide insufﬁcient software for balance and buoyancy analysis. To address these limitations, we present ElectroPaper, a new approach for the design and fabrication of prototypes used in water environments (surface or beneath) with paper-based electronic interfaces with a crease layer, hardware distribution layer, and hollow-out layer to support physical properties, such as waterprooﬁng, foldability, and conformability. The approach includes a computational design tool for assisting in balance analysis, three-dimensional (3D) model unfolding, and circuit drawing. We describe the design and fabrication process and provide several example applications to illustrate the feasibility and utility of our approach. ElectroPaper provides an inexpensive and effective medium for the fabrication of customized digital prototypes for water environment use.',
-      venue: 'Electronics 2021',
-      pdf: 'electropaper_electronics21/electropaper_electronics21.pdf',
-      link: { mdpi: 'https://www.mdpi.com/2079-9292/10/5/604' },
-      video: 'https://www.youtube.com/watch?v=Gf_Mnt_M5MM',
-      talk: ''
-    }
-  ],
-  social: [
-    {
-      cover: 'occ_chi23/cover.jpg',
-      animation: 'occ_chi23/animation.jpg',
-      title:
-        "What Makes Creators Engage with Online Critiques? Understanding the Role of Artifacts' Creation Stage, Characteristics of Community Comments, and their Interactions",
-      authors: [
-        'Qingyu Guo',
-        'Chao Zhang',
-        'Hanfang Lyu',
-        'Zhenhui Peng',
-        'Xiaojuan Ma'
-      ],
-      abstract:
-        "Online critique communities (OCCs) provide a convenient space for creators to solicit feedback on their artifacts and improve skills. Creators’ behavioral, emotional, and cognitive engagement with comments on their works contribute to their skill development. However, what kinds of critique creators feel engaging may change with the creation stage of their shared artifacts. In this paper, we first model three dimensions of engagement expressed in creators’ replies to peer comments. Then we quantitatively examine how their engagement is affected by artifacts’ stage and feedback characteristics via regression analysis. Results show that creators sharing works-in-progress tend to exhibit lower behavioral and emotional engagement, but higher cognitive engagement than those sharing complete works. The increase in the valence of the feedback is associated with a stronger increase in behavior engagement for seekers sharing complete works than works-in-progress. Finally, we discuss how our insights could benefit OCCs and other online help-seeking platforms.",
-      venue:
-        'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
-      pdf: 'occ_chi23/occ_chi23.pdf',
-      link: { acm: 'https://dl.acm.org/doi/10.1145/3544548.3581054' },
-      video: '',
-      talk: 'https://youtu.be/np0zuSj9CC8'
-    }
-  ],
-  poster: [
     {
       cover: 'camfi_chi22/cover.jpg',
       animation: 'camfi_chi22/animation.gif',
@@ -460,6 +407,55 @@ export default {
       },
       video: '',
       talk: 'https://www.youtube.com/watch?v=3DKhPDrA8k4'
+    },
+    {
+      cover: 'musiccollage_hcii22/cover.jpg',
+      animation: 'musiccollage_hcii22/animation.gif',
+      title:
+        'MusicCollage: A Music Composition Tool for Children Based on Synesthesia and a Genetic Algorithm',
+      authors: [
+        'Ge Yan',
+        'Cheng Yao',
+        'Chao Zhang',
+        'Jiadi Wang',
+        'Yuqi Hu',
+        'Fangtian Ying'
+      ],
+      abstract:
+        "Creating music can be challenging for children aged 4-6. Making the creation procedure more interesting has been proved to stimulate and build children's interests in music. Based on the design concept of synesthesia from vision to hearing, we propose an application by which children aged 4-6 can create collages by matching different images of scenes and animals. The information contained in the created collages is then used as input parameters for generating music so as to create melodies that correspond to the collages. To evaluate our approach, we conducted a quantitative and qualitative user study with children (n=6) by using our initial prototype. We concluded that the proposed application helps cultivate children's willingness to create melodies, and helps children better perceive and understand music by combining scenes and animal images in the collages.",
+      venue:
+        '2022 International Conference on Human-Computer Interaction (HCII 2022)',
+      pdf: 'musiccollage_hcii22/musiccollage_hcii22.pdf',
+      link: {
+        springer:
+          'https://link.springer.com/chapter/10.1007/978-3-031-05431-0_15'
+      },
+      video: '',
+      talk: ''
+    },
+    {
+      cover: 'electropaper_electronics21/cover.jpg',
+      animation: 'electropaper_electronics21/animation.gif',
+      title:
+        'ElectroPaper: Design and Fabrication of Paper-Based Electronic Interfaces for the Water Environment',
+      authors: [
+        'Lijuan Liu',
+        'Jiahao Guo',
+        'Chao Zhang',
+        'Zhangzhi Wang',
+        'Pinqi Zhu',
+        'Tuo Fang',
+        'Junwu Wang',
+        'Cheng Yao',
+        'Fangtian Ying'
+      ],
+      abstract:
+        'The fabrication of underwater devices is necessary for the exploration of water environments and interactions in the Human-Computer Interaction (HCI) ﬁeld. However, there are fewer approaches to support prototyping used in water environments. The existing prototype methods lack systematic waterproof treatments and provide insufﬁcient software for balance and buoyancy analysis. To address these limitations, we present ElectroPaper, a new approach for the design and fabrication of prototypes used in water environments (surface or beneath) with paper-based electronic interfaces with a crease layer, hardware distribution layer, and hollow-out layer to support physical properties, such as waterprooﬁng, foldability, and conformability. The approach includes a computational design tool for assisting in balance analysis, three-dimensional (3D) model unfolding, and circuit drawing. We describe the design and fabrication process and provide several example applications to illustrate the feasibility and utility of our approach. ElectroPaper provides an inexpensive and effective medium for the fabrication of customized digital prototypes for water environment use.',
+      venue: 'Electronics 2021',
+      pdf: 'electropaper_electronics21/electropaper_electronics21.pdf',
+      link: { mdpi: 'https://www.mdpi.com/2079-9292/10/5/604' },
+      video: 'https://www.youtube.com/watch?v=Gf_Mnt_M5MM',
+      talk: ''
     },
     {
       cover: 'storydrawer_chi21/cover.jpg',

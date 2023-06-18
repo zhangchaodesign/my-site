@@ -14,7 +14,7 @@
         I am an incoming Ph.D. student at
         <a href="https://www.cornell.edu/">Cornell University</a>, advised by the fabulous
         Professor <a href="https://qianyang.co/">Qian Yang</a>. As a
-        <span class="phrase_highlight">UI/UX DESIGNER</span>, my designs has garnered
+        <span class="phrase_highlight">UX DESIGNER</span>, my designs has garnered
         accolades in renowned design competitions, including iF, DIA, and A’ Design, and
         have been showcased at prestigious events like Dubai Design Week and China Design
         Exhibition. As an <span class="phrase_highlight">HCI RESEARCHER</span>, I have

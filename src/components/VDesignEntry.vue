@@ -3,8 +3,8 @@
     <img class="entry-cover" :src="highlight ? cover_2 : cover_1" alt="" />
     <div class="entry-info">
       <div class="entry-basic">
-        <div class="entry-title">{{ entry["title"] }}</div>
-        <div class="entry-author">
+        <div class="entry-title pb-8">{{ entry["title"] }}</div>
+        <!-- <div class="entry-author">
           <span
             v-for="(val, index) in entry['authors']"
             :key="index"
@@ -14,7 +14,7 @@
             {{ entry["authors"][index] }}
             <span v-if="index < entry['authors'].length - 1">, </span>
           </span>
-        </div>
+        </div> -->
         <hr />
         <div class="entry-footer">
           <div class="entry-material">
@@ -92,7 +92,7 @@ a {
   }
 
   .entry-title {
-    @apply font-signika-negative font-medium text-xs leading-5 text-dark select-none;
+    @apply font-signika-negative font-medium text-xs leading-5 text-dark select-none capitalize;
   }
 
   .entry-author {
@@ -100,7 +100,7 @@ a {
   }
 
   .entry-footer {
-    @apply flex flex-row lg:flex-col justify-between mt-2 flex-wrap h-full lg:items-stretch items-start;
+    @apply flex flex-row lg:flex-col justify-between mt-2 flex-wrap h-full items-start;
 
     align-content: stretch;
 
@@ -111,7 +111,7 @@ a {
     }
 
     .entry-award {
-      @apply h-12 lg:h-auto lg:w-24;
+      @apply h-12;
     }
   }
 }

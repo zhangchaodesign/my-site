@@ -8,11 +8,15 @@
 
       <hr />
 
-      <VGallery />
+      <VPubGallery />
 
       <hr />
 
-      <VResume />
+      <VDesignGallery />
+
+      <!-- <hr />
+
+      <VResume /> -->
     </div>
 
     <VFooter />
@@ -22,7 +26,8 @@
 <script>
 import VInfo from "@/components/VInfo.vue";
 import VSidebar from "@/components/VSidebar.vue";
-import VGallery from "@/components/VGallery.vue";
+import VPubGallery from "@/components/VPubGallery.vue";
+import VDesignGallery from "@/components/VDesignGallery.vue";
 import VFooter from "@/components/VFooter.vue";
 import VResume from "@/components/VResume.vue";
 
@@ -30,7 +35,8 @@ export default {
   components: {
     VInfo,
     VSidebar,
-    VGallery,
+    VPubGallery,
+    VDesignGallery,
     VFooter,
     VResume,
   },
@@ -47,7 +53,7 @@ li::selection {
 }
 
 p {
-  @apply font-open-sans text-justify;
+  @apply font-open-sans text-justify break-words;
 
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
@@ -120,7 +126,7 @@ li {
   @apply text-highlight;
 }
 
-.phrase_highlight{
+.phrase_highlight {
   @apply bg-highlight text-white font-semibold px-1;
 }
 

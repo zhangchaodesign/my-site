@@ -1,6 +1,6 @@
 <template>
   <div class="gallery">
-    <div class="title-container">
+    <!-- <div class="title-container">
       <p
         :class="'gallery-title ' + (state ? 'title-selected' : 'title-unselected')"
         @click="state = 1"
@@ -13,16 +13,17 @@
       >
         Designs
       </p>
+    </div> -->
+    <div class="title-container">
+      <p class="gallery-title title-selected'">Publication</p>
     </div>
 
     <VPublication v-if="state" />
-    <VDesign v-if="!state" />
   </div>
 </template>
 
 <script>
 import VPublication from "@/components/VPublication.vue";
-import VDesign from "@/components/VDesign.vue";
 
 export default {
   data() {
@@ -31,8 +32,7 @@ export default {
     };
   },
   components: {
-    VPublication,
-    VDesign,
+    VPublication
   },
 };
 </script>
@@ -46,15 +46,15 @@ export default {
   @apply flex flex-row gap-6 p-3;
 
   .gallery-title {
-    @apply font-signika-negative text-lg select-none cursor-pointer uppercase;
+    @apply font-signika-negative text-lg select-none uppercase;
 
-    &:hover {
-      @apply underline;
+    // &:hover {
+    //   @apply underline;
 
-      text-decoration-style: dashed;
-      text-underline-offset: 2px;
-      text-decoration-thickness: 1px;
-    }
+    //   text-decoration-style: dashed;
+    //   text-underline-offset: 2px;
+    //   text-decoration-thickness: 1px;
+    // }
   }
 
   .title-selected {

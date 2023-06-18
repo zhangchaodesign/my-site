@@ -5,7 +5,7 @@ export default {
       cover_2: 'oneshoe/cover_2.jpg',
       award_1: 'oneshoe/award_1.jpg',
       award_2: 'oneshoe/award_2.jpg',
-      title: 'OneShoe: Shoe Exchange App for Disabled People with One Foot',
+      title: 'OneShoe: A Revolutionary Shoe Exchange App Supporting Inclusivity and Sustainability',
       authors: ['Chao Zhang', 'Jiayi Wu', 'Yajing Hu', 'Lanjing Liu'],
       pdf: 'oneshoe/oneshoe.pdf',
       link: {
@@ -20,7 +20,7 @@ export default {
       award_1: 'co2/award_1.jpg',
       award_2: 'co2/award_2.jpg',
       title:
-        'CO2: Hit the Net Zero Goal by Calculating Individual Daily Carbon Emissions',
+        'CO2: A Personalized Carbon Emission Dashboard Igniting Behavior Change for a Greener Future',
       authors: [
         'Yaping Shao',
         'Yajing Hu',
@@ -124,7 +124,7 @@ export default {
       cover_2: 'tolife/cover_2.jpg',
       award_1: 'tolife/award_1.png',
       award_2: 'tolife/award_2.png',
-      title: 'To Life: Disaster Rescue Product Design',
+      title: 'To Life: A Life detection system enabling faster and targeted rescue efforts in hard to reach areas',
       authors: ['Chao Zhang', 'Jiayi Wu', 'Yajing Hu', 'Yaping Shao'],
       pdf: 'tolife/tolife.pdf',
       link: { 'dubai week': 'https://www.globalgradshow.com/project/tolife/' },
@@ -136,7 +136,7 @@ export default {
       award_1: 'silentdelivery/award_1.jpg',
       award_2: 'silentdelivery/award_2.jpg',
       title:
-        'Silent Delivery: Dial-Based Communication System Aiding Deaf Delivery Workers',
+        'Silent Delivery: A dial-based communication device breaking barriers for deaf delivery workers',
       authors: ['Jiayi Wu', 'Chao Zhang', 'Yajing Hu', 'Yaping Shao'],
       pdf: 'silentdelivery/silentdelivery.pdf',
       link: {
@@ -164,5 +164,70 @@ export default {
       link: {},
       video: 'https://www.youtube.com/watch?v=bOwKE-CNDl8'
     }
+  ],
+  selected: [
+    {
+      cover_1: 'oneshoe/cover_1.jpg',
+      cover_2: 'oneshoe/cover_2.jpg',
+      award_1: 'oneshoe/award_1.jpg',
+      award_2: 'oneshoe/award_2.jpg',
+      title: 'OneShoe: A Revolutionary Shoe Exchange App Supporting Inclusivity and Sustainability',
+      authors: ['Chao Zhang', 'Jiayi Wu', 'Yajing Hu', 'Lanjing Liu'],
+      pdf: 'oneshoe/oneshoe.pdf',
+      link: {
+        'if design':
+          'https://ifdesign.com/en/winner-ranking/project/oneshoe/340348'
+      },
+      video: ''
+    },
+    {
+      cover_1: 'co2/cover_1.jpg',
+      cover_2: 'co2/cover_2.jpg',
+      award_1: 'co2/award_1.jpg',
+      award_2: 'co2/award_2.jpg',
+      title:
+        'CO2: A Personalized Carbon Emission Dashboard Igniting Behavior Change for a Greener Future',
+      authors: [
+        'Yaping Shao',
+        'Yajing Hu',
+        'Chao Zhang',
+        'Jiayi Wu',
+        'Jianqiao Chen',
+        'Zili Zhou',
+        'Huijian Liu'
+      ],
+      pdf: 'co2/co2.pdf',
+      link: {
+        'a\' design':
+          'https://competition.adesignaward.com/design.php?ID=126455'
+      },
+      video: ''
+    },
+    {
+      cover_1: 'tolife/cover_1.jpg',
+      cover_2: 'tolife/cover_2.jpg',
+      award_1: 'tolife/award_1.png',
+      award_2: 'tolife/award_2.png',
+      title: 'To Life: A Life detection system enabling faster and targeted rescue efforts in hard to reach areas',
+      authors: ['Chao Zhang', 'Jiayi Wu', 'Yajing Hu', 'Yaping Shao'],
+      pdf: 'tolife/tolife.pdf',
+      link: { 'dubai week': 'https://www.globalgradshow.com/project/tolife/' },
+      video: ''
+    },
+    {
+      cover_1: 'silentdelivery/cover_1.jpg',
+      cover_2: 'silentdelivery/cover_2.jpg',
+      award_1: 'silentdelivery/award_1.jpg',
+      award_2: 'silentdelivery/award_2.jpg',
+      title:
+        'Silent Delivery: A dial-based communication device breaking barriers for deaf delivery workers',
+      authors: ['Jiayi Wu', 'Chao Zhang', 'Yajing Hu', 'Yaping Shao'],
+      pdf: 'silentdelivery/silentdelivery.pdf',
+      link: {
+        dia: 'https://en.di-award.org/collections/detail/1060.html?page_size%3D1000%26page%3D1%26year%3D2021%26award_type%3D%26award_group%3D5%26category_id%3D',
+        'dubai week': 'https://www.globalgradshow.com/project/silent-delivery/'
+      },
+      video: 'https://www.youtube.com/watch?v=Tuwnm_GPTp4'
+    },
   ]
 };

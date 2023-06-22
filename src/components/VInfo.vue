@@ -45,9 +45,9 @@
             research interest primarily lies in Human-Computer Interaction (HCI).
             Specifically,
             <b
-              >I delve into the utilization of generative AI as design materials, aiming
+              >I delve into the use of generative AI as design materials aiming
               to foster responsible interactions that empower users, particularly
-              children, to learn, create, and thrive.</b
+              youth, to learn, create, and thrive.</b
             >
             <!-- For instance, I have successfully designed educational technologies,
             leveraging generative AI to engage young individuals in creative

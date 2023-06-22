@@ -227,7 +227,7 @@ export default {
         dia: 'https://en.di-award.org/collections/detail/1060.html?page_size%3D1000%26page%3D1%26year%3D2021%26award_type%3D%26award_group%3D5%26category_id%3D',
         'dubai week': 'https://www.globalgradshow.com/project/silent-delivery/'
       },
-      video: 'https://www.youtube.com/watch?v=Tuwnm_GPTp4'
+      video: ''
     },
   ]
 };

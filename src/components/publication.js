@@ -26,7 +26,7 @@ export default {
       pdf: 'biosketchbook_idc23/biosketchbook_idc23.pdf',
       link: {},
       video: '',
-      talk: 'https://youtu.be/via2D8pffhI'
+      talk: 'https://youtu.be/Dd47PQtci90'
     },
     {
       cover: 'occ_chi23/cover.jpg',
@@ -75,7 +75,7 @@ export default {
         'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
       pdf: 'mathkingdom_chi23/mathkingdom_chi23.pdf',
       link: { acm: 'https://dl.acm.org/doi/10.1145/3544548.3581054' },
-      video: 'https://youtu.be/-3RJkZAxR0o',
+      video: 'https://youtu.be/DDErt5YHOG8',
       talk: 'https://youtu.be/AQHtWsgl5cg'
     },
     {
@@ -102,7 +102,7 @@ export default {
         'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
       pdf: 'mechcircuit_chi23/mechcircuit_chi23.pdf',
       link: { acm: 'https://dl.acm.org/doi/10.1145/3544548.3581002' },
-      video: 'https://youtu.be/38MRhBqxSlw',
+      video: 'https://youtu.be/PTBW6HozEmo',
       talk: 'https://youtu.be/HQpzv5z07Ro'
     },
     {
@@ -125,7 +125,7 @@ export default {
         'Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022)',
       pdf: 'storydrawer_chi22/storydrawer_chi22.pdf',
       link: { acm: 'https://dl.acm.org/doi/abs/10.1145/3491102.3501914' },
-      video: 'https://www.youtube.com/watch?v=rr2PKQLp7nM',
+      video: 'https://youtu.be/Iho74f1Flfc',
       talk: 'https://www.youtube.com/watch?v=AD4b-AW3nKQ&t=315s'
     },
     {
@@ -197,7 +197,7 @@ export default {
       venue: 'Electronics 2021',
       pdf: 'electropaper_electronics21/electropaper_electronics21.pdf',
       link: { mdpi: 'https://www.mdpi.com/2079-9292/10/5/604' },
-      video: 'https://www.youtube.com/watch?v=Gf_Mnt_M5MM',
+      video: 'https://youtu.be/JWmvTryLKXg',
       talk: ''
     }
   ],
@@ -228,7 +228,7 @@ export default {
       pdf: 'biosketchbook_idc23/biosketchbook_idc23.pdf',
       link: {},
       video: '',
-      talk: 'https://youtu.be/via2D8pffhI'
+      talk: 'https://youtu.be/Dd47PQtci90'
     },
     {
       cover: 'occ_chi23/cover.jpg',
@@ -277,7 +277,7 @@ export default {
         'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
       pdf: 'mathkingdom_chi23/mathkingdom_chi23.pdf',
       link: { acm: 'https://dl.acm.org/doi/10.1145/3544548.3581054' },
-      video: 'https://youtu.be/-3RJkZAxR0o',
+      video: 'https://youtu.be/DDErt5YHOG8',
       talk: 'https://youtu.be/AQHtWsgl5cg'
     },
     {
@@ -300,7 +300,7 @@ export default {
         'Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022)',
       pdf: 'storydrawer_chi22/storydrawer_chi22.pdf',
       link: { acm: 'https://dl.acm.org/doi/abs/10.1145/3491102.3501914' },
-      video: 'https://www.youtube.com/watch?v=rr2PKQLp7nM',
+      video: 'https://youtu.be/Iho74f1Flfc',
       talk: 'https://www.youtube.com/watch?v=AD4b-AW3nKQ&t=315s'
     }
   ],
@@ -329,7 +329,7 @@ export default {
         'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
       pdf: 'mechcircuit_chi23/mechcircuit_chi23.pdf',
       link: { acm: 'https://dl.acm.org/doi/10.1145/3544548.3581002' },
-      video: 'https://youtu.be/38MRhBqxSlw',
+      video: 'https://youtu.be/PTBW6HozEmo',
       talk: 'https://youtu.be/HQpzv5z07Ro'
     },
     {
@@ -406,7 +406,7 @@ export default {
         acm: 'https://dl.acm.org/doi/fullHtml/10.1145/3459990.3465197'
       },
       video: '',
-      talk: 'https://www.youtube.com/watch?v=3DKhPDrA8k4'
+      talk: ''
     },
     {
       cover: 'musiccollage_hcii22/cover.jpg',
@@ -454,7 +454,7 @@ export default {
       venue: 'Electronics 2021',
       pdf: 'electropaper_electronics21/electropaper_electronics21.pdf',
       link: { mdpi: 'https://www.mdpi.com/2079-9292/10/5/604' },
-      video: 'https://www.youtube.com/watch?v=Gf_Mnt_M5MM',
+      video: 'https://youtu.be/JWmvTryLKXg',
       talk: ''
     },
     {

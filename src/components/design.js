@@ -167,6 +167,17 @@ export default {
   ],
   selected: [
     {
+      cover_1: 'mechcircuit/cover_1.jpg',
+      cover_2: 'mechcircuit/cover_2.jpg',
+      award_1: 'mechcircuit/award_1.png',
+      award_2: 'mechcircuit/award_2.png',
+      title: 'MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets',
+      authors: ['Shuyue Feng', 'Cheng Yao', 'Weijia Lin', 'Jiayu Yao', 'Chao Zhang', 'Zhongyu Jia', 'Lijuan Liu', 'Masulani Bokola', 'Hangyue Chen', 'Fangtian Ying', 'Guanyun Wang'],
+      pdf: 'mechcircuit/mechcircuit.pdf',
+      link: {},
+      video: 'https://youtu.be/PTBW6HozEmo'
+    },
+    {
       cover_1: 'oneshoe/cover_1.jpg',
       cover_2: 'oneshoe/cover_2.jpg',
       award_1: 'oneshoe/award_1.jpg',

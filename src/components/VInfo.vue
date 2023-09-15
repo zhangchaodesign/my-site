@@ -6,20 +6,20 @@
         <img class="logo" src="@/assets/logo/logo_light.svg" alt="" />
       </div>
 
-      <p class="title">Incoming Ph.D. Student (he/him/his) @ Cornell</p>
+      <p class="title">Ph.D. Student (he/him/his) @ Cornell University</p>
     </div>
 
     <div class="detail">
       <p class="paragraph">
-        I am an incoming Ph.D. student at
-        <a href="https://www.cornell.edu/">Cornell University</a>, advised by the fabulous
-        Professor <a href="https://qianyang.co/">Qian Yang</a>. As a
+        I am a first-year Ph.D. student at
+        <a href="https://www.cornell.edu/">Cornell University</a> studying Human-Computer Interaction (HCI). As a
         <span class="phrase_highlight">UX DESIGNER</span>, my designs has garnered
-        accolades in renowned design competitions, including iF, DIA, and A’ Design, and
-        have been showcased at prestigious events like Dubai Design Week and China Design
-        Exhibition. As an <span class="phrase_highlight">HCI RESEARCHER</span>, I have
-        published in esteemed HCI venues such as CHI, IMWUT, IDC, MobileHCI, etc. I am
-        grateful to have collaborated with notable professors:
+        accolades in renowned design competitions, including Red Dot, iF, DIA, and A’
+        Design, and have been showcased at prestigious events like Dubai Design Week and
+        China Design Exhibition. As an
+        <span class="phrase_highlight">HCI RESEARCHER</span>, I have published in esteemed
+        HCI venues such as CHI, IMWUT, IDC, MobileHCI, etc. I am grateful to have
+        collaborated with notable professors: <a href="https://ying-xu.com/">Ying Xu</a>,
         <a href="https://toby.li/">Toby Jia-jun Li</a>,
         <a href="http://yaxingyao.com/">Yaxing Yao</a>,
         <a href="https://person.zju.edu.cn/en/yaoch">Cheng Yao</a>,
@@ -42,12 +42,12 @@
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), and
             Digital Media Technology (Minor from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), my
-            research interest primarily lies in Human-Computer Interaction (HCI).
+            research interest primarily lies in Human-AI Interaction & Design.
             Specifically,
             <b
-              >I delve into the use of generative AI as design materials aiming
-              to foster responsible interactions that empower users, particularly
-              youth, to learn, create, and thrive.</b
+              >I delve into the use of generative AI as design materials aiming to foster
+              responsible interactions that empower users, particularly youth, to learn,
+              create, and thrive.</b
             >
             <!-- For instance, I have successfully designed educational technologies,
             leveraging generative AI to engage young individuals in creative

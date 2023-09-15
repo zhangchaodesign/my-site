@@ -1,7 +1,7 @@
 export default [
   { 
-    date: '03/23', 
-    content: 'Thrilled to share that I\'m starting my PhD at Cornell in this fall! I\'ll be working with Professor Qian Yang on human-ai interaction design! I\'m very excited and thankful for everyone who has supported me along the way!' 
+    date: '06/23', 
+    content: 'Thrilled to share that I\'m starting my PhD at Cornell in this fall! I\'m very excited and thankful for everyone who has supported me along the way!' 
   },
   {
     date: '03/23',
@@ -57,7 +57,7 @@ export default [
       'Start my research intern @ OPPO Research Insititue, mentored by Dr. Yilei Shi and Dr. Haimo Zhang.'
   },
   {
-    date: '11/2021',
+    date: '11/22',
     content:
       'My first 1st-author full paper "StoryDrawer: A Child-AI Collaborative Drawing System to Support Children\'s Creative Visual Storytelling" is conditionally accepted at CHI \'22!'
   },

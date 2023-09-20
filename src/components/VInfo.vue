@@ -18,7 +18,7 @@
         Design, and have been showcased at prestigious events like Dubai Design Week and
         China Design Exhibition. As an
         <span class="phrase_highlight">HCI RESEARCHER</span>, I have published in esteemed
-        HCI venues such as CHI, IMWUT, IDC, MobileHCI, etc. I am grateful to have
+        HCI venues such as CHI, CSCW, IMWUT, IDC, MobileHCI, etc. I am grateful to have
         collaborated with notable professors: <a href="https://ying-xu.com/">Ying Xu</a>,
         <a href="https://toby.li/">Toby Jia-jun Li</a>,
         <a href="http://yaxingyao.com/">Yaxing Yao</a>,
@@ -46,8 +46,7 @@
             Specifically,
             <b
               >I delve into the use of generative AI as design materials aiming to foster
-              responsible interactions that empower users, particularly youth, to learn,
-              create, and thrive.</b
+              responsible interactions that empower users to create, learn, and thrive.</b
             >
             <!-- For instance, I have successfully designed educational technologies,
             leveraging generative AI to engage young individuals in creative

@@ -1,4 +1,8 @@
 export default [
+  {
+    date: '09/23',
+    content: 'Our paper "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX" was accepted to CSCW \'23!'
+  },
   { 
     date: '06/23', 
     content: 'Thrilled to share that I\'m starting my PhD at Cornell in this fall! I\'m very excited and thankful for everyone who has supported me along the way!' 

@@ -7,11 +7,15 @@
         <span
           v-for="(val, index) in entry['authors']"
           :key="index"
-          :class="val === 'Chao Zhang' ? 'font-semibold' : 'font-normal'"
+          :class="
+            val === 'Chao Zhang' || val === 'Chao Zhang*'
+              ? 'font-semibold'
+              : 'font-normal'
+          "
         >
           <span v-if="index === entry['authors'].length - 1">and </span>
-          {{ entry["authors"][index] }}
-          <span v-if="index < entry['authors'].length - 1">, </span>
+          {{ entry["authors"][index]
+          }}<span v-if="index < entry['authors'].length - 1">, </span>
         </span>
       </div>
       <hr />

@@ -310,9 +310,9 @@ export default {
         "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game",
       authors: [
         'Wenjie Xu',
-        'Jiayi Ma',
-        'Jiayu Yao',
-        'Weijia Lin',
+        'Jiayi Ma†',
+        'Jiayu Yao†',
+        'Weijia Lin†',
         'Chao Zhang',
         'Xuanhe Xia',
         'Nan Zhuang',
@@ -338,8 +338,8 @@ export default {
       title:
         "StoryDrawer: A Child-AI Collaborative Drawing System to Support Children's Creative Visual Storytelling",
       authors: [
-        'Chao Zhang',
-        'Cheng Yao',
+        'Chao Zhang*',
+        'Cheng Yao*',
         'Jiayi Wu',
         'Weijia Lin',
         'Lijuan Liu',
@@ -363,10 +363,10 @@ export default {
       title:
         "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets",
       authors: [
-        'Shuyue Feng',
-        'Cheng Yao',
-        'Weijia Lin',
-        'Jiayu Yao',
+        'Shuyue Feng*†',
+        'Cheng Yao*',
+        'Weijia Lin†',
+        'Jiayu Yao†',
         'Chao Zhang',
         'Zhongyu Jia',
         'Lijuan Liu',
@@ -466,8 +466,8 @@ export default {
       title:
         'MusicCollage: A Music Composition Tool for Children Based on Synesthesia and a Genetic Algorithm',
       authors: [
-        'Ge Yan',
-        'Cheng Yao',
+        'Ge Yan*',
+        'Cheng Yao*',
         'Chao Zhang',
         'Jiadi Wang',
         'Yuqi Hu',
@@ -515,8 +515,8 @@ export default {
       title:
         "StoryDrawer: A Co-Creative Agent Supporting Children's Storytelling through Collaborative Drawing",
       authors: [
-        'Chao Zhang',
-        'Cheng Yao',
+        'Chao Zhang*',
+        'Cheng Yao*',
         'Jianhui Liu',
         'Zili Zhou',
         'Weilin Zhang',

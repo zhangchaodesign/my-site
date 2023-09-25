@@ -9,6 +9,11 @@
         </p>
       </div>
     </div> -->
+    <div class="w-full px-3">
+      <p class="text-dark text-xs leading-6 font-signika-negative">
+        * Euqal Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;† Mentored Students
+      </p>
+    </div>
     <div class="paper">
       <!-- <p class="title p-3">Major Peer-reviewed Conference and Journal Papers</p> -->
       <p class="title p-3">

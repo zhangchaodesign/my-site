@@ -328,7 +328,7 @@ export default {
       venue:
         'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
       pdf: 'mathkingdom_chi23/mathkingdom_chi23.pdf',
-      link: { acm: 'https://dl.acm.org/doi/10.1145/3544548.3581054' },
+      link: { acm: 'https://dl.acm.org/doi/10.1145/3544548.3581043' },
       video: 'https://youtu.be/DDErt5YHOG8',
       talk: 'https://youtu.be/AQHtWsgl5cg'
     },

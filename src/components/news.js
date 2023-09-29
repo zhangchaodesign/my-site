@@ -5,7 +5,7 @@ export default [
   },
   { 
     date: '06/23', 
-    content: 'Thrilled to share that I\'m starting my PhD at Cornell in this fall! I\'m very excited and thankful for everyone who has supported me along the way!' 
+    content: 'Thrilled to share that I\'m starting my Ph.D. at Cornell in this fall! I\'m very excited and thankful for everyone who has supported me along the way!' 
   },
   {
     date: '03/23',

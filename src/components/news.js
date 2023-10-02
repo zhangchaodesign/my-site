@@ -1,7 +1,7 @@
 export default [
   {
     date: '09/23',
-    content: 'Our paper "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX" was accepted to CSCW \'23!'
+    content: 'Our paper "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX" was accepted to CSCW \'24!'
   },
   { 
     date: '06/23', 

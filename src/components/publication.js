@@ -229,6 +229,27 @@ export default {
   ],
   selected: [
     {
+      cover: 'darkpita_cscw2024/cover.jpg',
+      animation: 'darkpita_cscw2024/animation.gif',
+      title:
+        "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX",
+      authors: [
+        'Yuwen Lu*',
+        'Chao Zhang*',
+        'Yuewen Yang',
+        'Yaxing Yao',
+        'Toby Jia-Jun Li'
+      ],
+      abstract:
+        'The study of UX dark patterns, i.e., UI designs that seek to manipulate user behaviors, often for the benefit of online services, has drawn significant attention in the CHI and CSCW communities in recent years. To complement previous studies in addressing dark patterns from (1) the designer’s perspective on education and advocacy for ethical designs; and (2) the policymaker’s perspective on new regulations, we propose an end-user-empowerment intervention approach that helps users (1) raise the awareness of dark patterns and understand their underlying design intents; (2) take actions to counter the effects of dark patterns using a web augmentation approach. Through a two-phase co-design study, including 5 co-design workshops (N=12) and a 2-week technology probe study (N=15), we reported findings on the understanding of users\' needs, preferences, and challenges in handling dark patterns and investigated the feedback and reactions to users\' awareness of and action on dark patterns being empowered in a realistic in-situ setting.',
+      venue:
+        'To Appear in Proceedings of the ACM on Human-Computer Interaction (CSCW 2024)',
+      pdf: '',
+      link: { },
+      video: '',
+      talk: ''
+    },
+    {
       cover: 'nacanvas_mobilehci23/cover.jpg',
       animation: 'nacanvas_mobilehci23/animation.gif',
       title:

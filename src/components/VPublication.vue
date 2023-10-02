@@ -17,8 +17,7 @@
     <div class="paper">
       <!-- <p class="title p-3">Major Peer-reviewed Conference and Journal Papers</p> -->
       <p class="title p-3">
-        # Selected Publications - Create to Learn / Educational Technology / Creativity
-        Support Tools
+        # Selected Publications - Create to Learn / Human-AI Collaboration / Major Peer-Reviewed Conference and Journal Papers
       </p>
       <div class="entries">
         <!-- <div class="w-full px-3">

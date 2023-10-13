@@ -12,11 +12,11 @@
     <div class="detail">
       <p class="paragraph">
         I am a first-year Ph.D. student at
-        <a href="https://www.cornell.edu/">Cornell University</a> studying Human-Computer Interaction (HCI). As a
-        <span class="phrase_highlight">UX DESIGNER</span>, my designs has garnered
-        accolades in renowned design competitions, including Red Dot, iF, DIA, and A’
-        Design, and have been showcased at prestigious events like Dubai Design Week and
-        China Design Exhibition. As an
+        <a href="https://www.cornell.edu/">Cornell University</a> studying Human-Computer
+        Interaction (HCI). As a <span class="phrase_highlight">UX DESIGNER</span>, my
+        designs have garnered accolades in renowned design competitions, including Red
+        Dot, iF, DIA, and A’ Design, and have been showcased at prestigious events like
+        Dubai Design Week and China Design Exhibition. As an
         <span class="phrase_highlight">HCI RESEARCHER</span>, I have published in esteemed
         HCI venues such as CHI, CSCW, IMWUT, IDC, MobileHCI, etc. I am grateful to have
         collaborated with notable professors: <a href="https://ying-xu.com/">Ying Xu</a>,

@@ -6,6 +6,17 @@
         <VInfo class="order-1 lg:order-none" />
       </div>
 
+      <div class="w-full">
+        <div class="announcement paragraph">
+          <p class="text-dark text-xs leading-6 font-signika-negative">
+            📢 I am currently seeking <span class="phrase_highlight">a full-time research internship in the industry for
+            Summer 2024</span>. Please
+            don't hesitate to reach out if you know of any opportunities or wish to
+            discuss further.
+          </p>
+        </div>
+      </div>
+
       <hr />
 
       <VPubGallery />
@@ -140,5 +151,9 @@ li {
 
 .logo {
   @apply w-8 select-none;
+}
+
+.announcement {
+  @apply flex flex-col items-center border border-dashed border-black border-opacity-30 p-2 bg-light select-none;
 }
 </style>

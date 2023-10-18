@@ -34,7 +34,7 @@ import VNews from "@/components/VNews.vue";
 export default {
   data() {
     return {
-      pdf: new URL(`../assets/info/cv_chaozhang.pdf`, import.meta.url).href,
+      pdf: new URL(`../assets/info/Curriculum_Vitae_of_Chao_Zhang.pdf`, import.meta.url).href,
     };
   },
   components: {

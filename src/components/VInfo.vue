@@ -11,15 +11,12 @@
 
     <div class="detail">
       <p class="paragraph">
-        I am a first-year Ph.D. student at
-        <a href="https://www.cornell.edu/">Cornell University</a> studying Human-Computer
-        Interaction (HCI). As a <span class="phrase_highlight">UX DESIGNER</span>, my
-        designs have garnered accolades in renowned design competitions, including Red
-        Dot, iF, DIA, and A’ Design, and have been showcased at prestigious events like
+        I am a Ph.D. student at
+        <a href="https://www.cornell.edu/">Cornell University</a>, adivsed by <a href="http://jeffrz.com/">Jeff Rzeszotarski</a>. I serve as both a UX designer and an HCI researcher. As a <span class="phrase_highlight">UX DESIGNER</span>, my designs have been recognized in esteemed design competitions such as Red
+        Dot, iF, and A’ Design, and featured at notable events including
         Dubai Design Week and China Design Exhibition. As an
-        <span class="phrase_highlight">HCI RESEARCHER</span>, I have published in esteemed
-        HCI venues such as CHI, CSCW, IMWUT, IDC, MobileHCI, etc. I am grateful to have
-        collaborated with notable professors: <a href="https://ying-xu.com/">Ying Xu</a>,
+        <span class="phrase_highlight">HCI RESEARCHER</span>, I have published in reputable
+        HCI venues like CHI, CSCW, IMWUT, IDC, and MobileHCI. I am also fortunate to have worked alongside distinguished professors such as <a href="https://ying-xu.com/">Ying Xu</a>,
         <a href="https://toby.li/">Toby Jia-jun Li</a>,
         <a href="http://yaxingyao.com/">Yaxing Yao</a>,
         <a href="https://person.zju.edu.cn/en/yaoch">Cheng Yao</a>,
@@ -46,7 +43,7 @@
             Specifically,
             <b
               >I delve into the use of generative AI as design materials aiming to foster
-              responsible interactions that empower users to create, learn, and thrive.</b
+              responsible interactions that empower users, especially kids, to create, learn, and flourish.</b
             >
             <!-- For instance, I have successfully designed educational technologies,
             leveraging generative AI to engage young individuals in creative

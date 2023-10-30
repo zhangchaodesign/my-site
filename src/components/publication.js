@@ -245,7 +245,7 @@ export default {
       venue:
         'To Appear in Proceedings of the ACM on Human-Computer Interaction (CSCW 2024)',
       pdf: '',
-      link: { },
+      link: { arxiv: 'http://arxiv.org/abs/2310.17846' },
       video: '',
       talk: ''
     },

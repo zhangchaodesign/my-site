@@ -1,5 +1,9 @@
 export default [
   {
+    date: '01/24',
+    content: 'Two first/co-first authored paper "Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling" and "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization" was conditionally accepted to CHI \'24! Thanks to my co-authors!'
+  },
+  {
     date: '09/23',
     content: 'Our paper "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX" was accepted to CSCW \'24!'
   },

@@ -6,7 +6,7 @@
         <VInfo class="order-1 lg:order-none" />
       </div>
 
-      <div class="w-full">
+      <!-- <div class="w-full">
         <div class="announcement paragraph">
           <p class="text-dark text-xs leading-6 font-signika-negative">
             📢 I am currently seeking <span class="phrase_highlight">a full-time research internship in the industry for
@@ -15,7 +15,7 @@
             discuss further.
           </p>
         </div>
-      </div>
+      </div> -->
 
       <hr />
 

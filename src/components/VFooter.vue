@@ -1,7 +1,7 @@
 <template>
   <footer class="footer">
     <img class="logo" src="@/assets/logo/logo_dark.svg" alt="" />
-    <p class="footer-text">©2022-2023 by Chao Zhang | Last Updated: 10/2023</p>
+    <p class="footer-text">©2022-2023 by Chao Zhang | Last Updated: 01/2024</p>
   </footer>
 </template>
 

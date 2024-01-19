@@ -81,7 +81,7 @@ export default {
       title:
         "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game",
       authors: [
-        'Wenjie Xu',
+        'Wenjie Xu (PI)',
         'Jiayi Ma',
         'Jiayu Yao',
         'Weijia Lin',
@@ -229,6 +229,47 @@ export default {
   ],
   selected: [
     {
+      cover: 'mathemyths_chi24/cover.jpg',
+      animation: 'mathemyths_chi24/animation.jpg',
+      title:
+        "Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling",
+      authors: [
+        'Chao Zhang',
+        'Xuechen Liu',
+        'Katherine Ziska',
+        'Soobin Jeon',
+        'Chi-Lin Yu',
+        'Ying Xu'
+      ],
+      abstract:
+        'Mathematical language is a cornerstone of a child\'s mathematical development, and children can effectively acquire this language through storytelling with a knowledgeable and engaging partner. In this study, we leverage the recent advances in large language models to conduct free-form, creative conversations with children. Consequently, we developed Mathemyths, a joint storytelling agent that takes turns co-creating stories with children while integrating mathematical terms into the evolving narrative. This paper details our development process, illustrating how prompt-engineering can optimize LLMs for educational contexts. Through a user study involving 35 children aged 4-8 years, our results suggest that when children interacted with Mathemyths, their learning of mathematical language was comparable to those who co-created stories with a human partner. However, we observed differences in how children engaged with co-creation partners of different natures. Overall, we believe that LLM applications, like Mathemyths, offer children a unique conversational experience pertaining to focused learning objectives.',
+      venue:
+        'To Appear in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
+      pdf: '',
+      link: {},
+      video: '',
+      talk: ''
+    },
+    {
+      cover: 'smartwatch_chi24/cover.jpg',
+      animation: 'smartwatch_chi24/animation.jpg',
+      title:
+        "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization",
+      authors: [
+        'Lanjing Liu*',
+        'Chao Zhang*',
+        'Zhicong Lu'
+      ],
+      abstract:
+        'Adolescent peer relationships, essential for their development, are increasingly mediated by digital technologies. As this trend continues, wearable devices, especially smartwatches tailored for adolescents, is reshaping their socialization. In China, smartwatches like XTC have gained wide popularity, introducing unique features such as "Bump-to-Connect" and exclusive social platforms. Nonetheless, how these devices influence adolescents\' peer experience remains unknown. Addressing this, we interviewed 18 Chinese adolescents (age: 11-16), discovering a smartwatch-mediated social ecosystem. Our findings highlight the ice-breaking role of smartwatches in friendship initiation and their use for secret messaging with local peers. Within the online smartwatch community, peer status is determined by likes and visibility, leading to diverse pursuit activities (i.e., chuguanxi, jiazu, kuolie) and negative social dynamics. We discuss the core affordances of smartwatches and Chinese cultural factors that influence adolescent social behavior, and offer implications for designing future wearables that responsibly and safely support adolescent socialization.',
+      venue:
+        'To Appear in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
+      pdf: '',
+      link: {},
+      video: '',
+      talk: ''
+    },
+    {
       cover: 'darkpita_cscw2024/cover.jpg',
       animation: 'darkpita_cscw2024/animation.gif',
       title:
@@ -330,7 +371,7 @@ export default {
       title:
         "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game",
       authors: [
-        'Wenjie Xu',
+        'Wenjie Xu (PI)',
         'Jiayi Ma†',
         'Jiayu Yao†',
         'Weijia Lin†',
@@ -481,31 +522,31 @@ export default {
       video: '',
       talk: ''
     },
-    {
-      cover: 'musiccollage_hcii22/cover.jpg',
-      animation: 'musiccollage_hcii22/animation.gif',
-      title:
-        'MusicCollage: A Music Composition Tool for Children Based on Synesthesia and a Genetic Algorithm',
-      authors: [
-        'Ge Yan*',
-        'Cheng Yao*',
-        'Chao Zhang',
-        'Jiadi Wang',
-        'Yuqi Hu',
-        'Fangtian Ying'
-      ],
-      abstract:
-        "Creating music can be challenging for children aged 4-6. Making the creation procedure more interesting has been proved to stimulate and build children's interests in music. Based on the design concept of synesthesia from vision to hearing, we propose an application by which children aged 4-6 can create collages by matching different images of scenes and animals. The information contained in the created collages is then used as input parameters for generating music so as to create melodies that correspond to the collages. To evaluate our approach, we conducted a quantitative and qualitative user study with children (n=6) by using our initial prototype. We concluded that the proposed application helps cultivate children's willingness to create melodies, and helps children better perceive and understand music by combining scenes and animal images in the collages.",
-      venue:
-        '2022 International Conference on Human-Computer Interaction (HCII 2022)',
-      pdf: 'musiccollage_hcii22/musiccollage_hcii22.pdf',
-      link: {
-        springer:
-          'https://link.springer.com/chapter/10.1007/978-3-031-05431-0_15'
-      },
-      video: '',
-      talk: ''
-    },
+    // {
+    //   cover: 'musiccollage_hcii22/cover.jpg',
+    //   animation: 'musiccollage_hcii22/animation.gif',
+    //   title:
+    //     'MusicCollage: A Music Composition Tool for Children Based on Synesthesia and a Genetic Algorithm',
+    //   authors: [
+    //     'Ge Yan*',
+    //     'Cheng Yao*',
+    //     'Chao Zhang',
+    //     'Jiadi Wang',
+    //     'Yuqi Hu',
+    //     'Fangtian Ying'
+    //   ],
+    //   abstract:
+    //     "Creating music can be challenging for children aged 4-6. Making the creation procedure more interesting has been proved to stimulate and build children's interests in music. Based on the design concept of synesthesia from vision to hearing, we propose an application by which children aged 4-6 can create collages by matching different images of scenes and animals. The information contained in the created collages is then used as input parameters for generating music so as to create melodies that correspond to the collages. To evaluate our approach, we conducted a quantitative and qualitative user study with children (n=6) by using our initial prototype. We concluded that the proposed application helps cultivate children's willingness to create melodies, and helps children better perceive and understand music by combining scenes and animal images in the collages.",
+    //   venue:
+    //     '2022 International Conference on Human-Computer Interaction (HCII 2022)',
+    //   pdf: 'musiccollage_hcii22/musiccollage_hcii22.pdf',
+    //   link: {
+    //     springer:
+    //       'https://link.springer.com/chapter/10.1007/978-3-031-05431-0_15'
+    //   },
+    //   video: '',
+    //   talk: ''
+    // },
     {
       cover: 'electropaper_electronics21/cover.jpg',
       animation: 'electropaper_electronics21/animation.gif',

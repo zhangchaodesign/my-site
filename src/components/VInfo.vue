@@ -11,7 +11,7 @@
 
     <div class="detail">
       <p class="paragraph">
-        I am a Ph.D. student at
+        I am a first-year Ph.D. student at
         <a href="https://www.cornell.edu/">Cornell University</a>, adivsed by
         <a href="http://jeffrz.com/">Jeff Rzeszotarski</a>. I serve as both a UX designer
         and an HCI researcher. As a <span class="phrase_highlight">UX DESIGNER</span>, my

@@ -1,7 +1,7 @@
 export default [
   {
     date: '01/24',
-    content: 'Two first/co-first authored paper "Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling" and "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization" was conditionally accepted to CHI \'24! Thanks to my co-authors!'
+    content: 'Two first/co-first authored paper "Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling" and "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization" were conditionally accepted to CHI \'24! Thanks to my collaborators!'
   },
   {
     date: '09/23',

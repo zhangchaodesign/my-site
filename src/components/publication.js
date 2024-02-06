@@ -246,7 +246,7 @@ export default {
       venue:
         'To Appear in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
       pdf: '',
-      link: {},
+      link: { arxiv: 'https://arxiv.org/abs/2402.01927' },
       video: '',
       talk: ''
     },

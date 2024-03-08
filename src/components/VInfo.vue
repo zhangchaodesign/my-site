@@ -44,13 +44,11 @@
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), and
             Digital Media Technology (Minor from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), my
-            research interest primarily lies in Human-AI Interaction & Design.
-            Specifically,
-            <b
-              >I delve into the use of generative AI as design materials to enable
-              responsible interactions that empower users to create, learn, and
-              flourish.</b
-            >
+            research interest primarily lies in
+            <b>
+              ethically designing human-AI interaction to support human sensemaking in
+              creative and learning activities</b
+            >.
             <!-- For instance, I have successfully designed educational technologies,
             leveraging generative AI to engage young individuals in creative
             interventions, STEM learning, and nature-oriented explorations. -->

@@ -11,7 +11,7 @@
     </div> -->
     <div class="w-full px-3">
       <p class="text-dark text-xs leading-6 font-signika-negative">
-        * Euqal Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;† Mentored Students
+        * Equal Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;† Mentored Students
       </p>
     </div>
     <div class="paper">

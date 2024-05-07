@@ -1,35 +1,48 @@
 export default [
   {
+    date: '05/24',
+    content:
+      "I will be attending CHI '24! Happy to connect old and new friends!"
+  },
+  {
     date: '01/24',
-    content: 'Two first/co-first authored paper "Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling" and "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization" were conditionally accepted to CHI \'24! Thanks to my collaborators!'
+    content:
+      'Two first/co-first authored paper "Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling" and "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization" were conditionally accepted to CHI \'24! Thanks to my collaborators!'
   },
   {
     date: '09/23',
-    content: 'Our paper "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX" was accepted to CSCW \'24!'
+    content:
+      'Our paper "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX" was accepted to CSCW \'24!'
   },
-  { 
-    date: '06/23', 
-    content: 'Thrilled to share that I\'m starting my Ph.D. at Cornell in this fall! I\'m very excited and thankful for everyone who has supported me along the way!' 
+  {
+    date: '06/23',
+    content:
+      "Thrilled to share that I'm starting my Ph.D. at Cornell in this fall! I'm very excited and thankful for everyone who has supported me along the way!"
   },
   {
     date: '03/23',
-    content: 'Our paper "Observe It, Draw It: Scaffolding Children\'s Observations of Plant Biodiversity with an Interactive Drawing Tool" was accepted to IDC \'23!'
+    content:
+      'Our paper "Observe It, Draw It: Scaffolding Children\'s Observations of Plant Biodiversity with an Interactive Drawing Tool" was accepted to IDC \'23!'
   },
   {
     date: '03/23',
-    content: 'Our paper "NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children" was accepted to MobileHCI \'23!'
+    content:
+      'Our paper "NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children" was accepted to MobileHCI \'23!'
   },
   {
     date: '01/23',
-    content: 'Our paper "What Makes Creators Engage with Online Critiques? Understanding the Role of Artifacts\' Creation Stage, Characteristics of Community Comments, and their Interactions" was accepted to CHI \'23!'
+    content:
+      'Our paper "What Makes Creators Engage with Online Critiques? Understanding the Role of Artifacts\' Creation Stage, Characteristics of Community Comments, and their Interactions" was accepted to CHI \'23!'
   },
   {
     date: '01/23',
-    content: 'Our paper "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game" was accepted to CHI \'23!'
+    content:
+      'Our paper "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game" was accepted to CHI \'23!'
   },
   {
     date: '01/23',
-    content: 'Our paper "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets" was accepted to CHI \'23!'
+    content:
+      'Our paper "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets" was accepted to CHI \'23!'
   },
   // {
   //   date: '09/22',

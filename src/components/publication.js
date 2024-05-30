@@ -4,7 +4,7 @@ export default {
       cover: 'nacanvas_mobilehci23/cover.jpg',
       animation: 'nacanvas_mobilehci23/animation.gif',
       title:
-        "NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children",
+        'NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children',
       authors: [
         'Zihan Yan',
         'Yanhong Wu',
@@ -13,12 +13,12 @@ export default {
         'Qihang Jin',
         'Wei Chen',
         'Yingcai Wu',
-        'Xiang \'Anthony\' Chen',
+        "Xiang 'Anthony' Chen",
         'Guanyun Wang',
         'Haipeng Mi'
       ],
       abstract:
-        'Nature has been a plentiful source of materials, replenishment, inspiration, and creativity. Nature collage, as a crafting technique, is a fun and educational activity for children to explore nature and engage their creativity. However, the raw material collection is limited to static things such as leaves, ignoring inspiration from nature sounds and dynamic elements such as babbling creeks. Using a mobile application, we hope to encourage children\'s creativity by renewing collage materials collection and careful observation in nature. To explore this, we conducted a formative study with children (N=20) and a design workshop with experts (N=6) to formulate NaCanva, an AI-assisted multi-modal collage creation system for children. Drawing on the interactivity between children and nature, NaCanva enables the multi-modal material collection, including images, sound, and videos, which differs our system from traditional collages. We validated this system with a between-subject user study (N=30), and the results suggested that NaCanva unleashes children\'s creativity in nature collage creation by enhancing children\'s multidimensional observation and engagement in nature.',
+        "Nature has been a plentiful source of materials, replenishment, inspiration, and creativity. Nature collage, as a crafting technique, is a fun and educational activity for children to explore nature and engage their creativity. However, the raw material collection is limited to static things such as leaves, ignoring inspiration from nature sounds and dynamic elements such as babbling creeks. Using a mobile application, we hope to encourage children's creativity by renewing collage materials collection and careful observation in nature. To explore this, we conducted a formative study with children (N=20) and a design workshop with experts (N=6) to formulate NaCanva, an AI-assisted multi-modal collage creation system for children. Drawing on the interactivity between children and nature, NaCanva enables the multi-modal material collection, including images, sound, and videos, which differs our system from traditional collages. We validated this system with a between-subject user study (N=30), and the results suggested that NaCanva unleashes children's creativity in nature collage creation by enhancing children's multidimensional observation and engagement in nature.",
       venue:
         'Proceedings of the ACM on Human-Computer Interaction (MobileHCI 2023)',
       pdf: 'nacanvas_mobilehci23/nacanvas_mobilehci23.pdf',
@@ -67,7 +67,7 @@ export default {
         'Xiaojuan Ma'
       ],
       abstract:
-        "Online critique communities (OCCs) provide a convenient space for creators to solicit feedback on their artifacts and improve skills. Creators’ behavioral, emotional, and cognitive engagement with comments on their works contribute to their skill development. However, what kinds of critique creators feel engaging may change with the creation stage of their shared artifacts. In this paper, we first model three dimensions of engagement expressed in creators’ replies to peer comments. Then we quantitatively examine how their engagement is affected by artifacts’ stage and feedback characteristics via regression analysis. Results show that creators sharing works-in-progress tend to exhibit lower behavioral and emotional engagement, but higher cognitive engagement than those sharing complete works. The increase in the valence of the feedback is associated with a stronger increase in behavior engagement for seekers sharing complete works than works-in-progress. Finally, we discuss how our insights could benefit OCCs and other online help-seeking platforms.",
+        'Online critique communities (OCCs) provide a convenient space for creators to solicit feedback on their artifacts and improve skills. Creators’ behavioral, emotional, and cognitive engagement with comments on their works contribute to their skill development. However, what kinds of critique creators feel engaging may change with the creation stage of their shared artifacts. In this paper, we first model three dimensions of engagement expressed in creators’ replies to peer comments. Then we quantitatively examine how their engagement is affected by artifacts’ stage and feedback characteristics via regression analysis. Results show that creators sharing works-in-progress tend to exhibit lower behavioral and emotional engagement, but higher cognitive engagement than those sharing complete works. The increase in the valence of the feedback is associated with a stronger increase in behavior engagement for seekers sharing complete works than works-in-progress. Finally, we discuss how our insights could benefit OCCs and other online help-seeking platforms.',
       venue:
         'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
       pdf: 'occ_chi23/occ_chi23.pdf',
@@ -79,7 +79,7 @@ export default {
       cover: 'mathkingdom_chi23/cover.jpg',
       animation: 'mathkingdom_chi23/animation.gif',
       title:
-        "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game",
+        'MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game',
       authors: [
         'Wenjie Xu (PI)',
         'Jiayi Ma',
@@ -108,7 +108,7 @@ export default {
       cover: 'mechcircuit_chi23/cover.jpg',
       animation: 'mechcircuit_chi23/animation.gif',
       title:
-        "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets",
+        'MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets',
       authors: [
         'Shuyue Feng',
         'Cheng Yao',
@@ -232,7 +232,7 @@ export default {
       cover: 'mathemyths_chi24/cover.jpg',
       animation: 'mathemyths_chi24/animation.jpg',
       title:
-        "Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling",
+        'Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling',
       authors: [
         'Chao Zhang',
         'Xuechen Liu',
@@ -242,11 +242,14 @@ export default {
         'Ying Xu'
       ],
       abstract:
-        'Mathematical language is a cornerstone of a child\'s mathematical development, and children can effectively acquire this language through storytelling with a knowledgeable and engaging partner. In this study, we leverage the recent advances in large language models to conduct free-form, creative conversations with children. Consequently, we developed Mathemyths, a joint storytelling agent that takes turns co-creating stories with children while integrating mathematical terms into the evolving narrative. This paper details our development process, illustrating how prompt-engineering can optimize LLMs for educational contexts. Through a user study involving 35 children aged 4-8 years, our results suggest that when children interacted with Mathemyths, their learning of mathematical language was comparable to those who co-created stories with a human partner. However, we observed differences in how children engaged with co-creation partners of different natures. Overall, we believe that LLM applications, like Mathemyths, offer children a unique conversational experience pertaining to focused learning objectives.',
+        "Mathematical language is a cornerstone of a child's mathematical development, and children can effectively acquire this language through storytelling with a knowledgeable and engaging partner. In this study, we leverage the recent advances in large language models to conduct free-form, creative conversations with children. Consequently, we developed Mathemyths, a joint storytelling agent that takes turns co-creating stories with children while integrating mathematical terms into the evolving narrative. This paper details our development process, illustrating how prompt-engineering can optimize LLMs for educational contexts. Through a user study involving 35 children aged 4-8 years, our results suggest that when children interacted with Mathemyths, their learning of mathematical language was comparable to those who co-created stories with a human partner. However, we observed differences in how children engaged with co-creation partners of different natures. Overall, we believe that LLM applications, like Mathemyths, offer children a unique conversational experience pertaining to focused learning objectives.",
       venue:
         'To Appear in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
       pdf: '',
-      link: { arxiv: 'https://arxiv.org/abs/2402.01927' },
+      link: {
+        arxiv: 'https://arxiv.org/abs/2402.01927',
+        acm: 'https://dl.acm.org/doi/10.1145/3613904.3642647'
+      },
       video: '',
       talk: ''
     },
@@ -254,18 +257,17 @@ export default {
       cover: 'smartwatch_chi24/cover.jpg',
       animation: 'smartwatch_chi24/animation.jpg',
       title:
-        "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization",
-      authors: [
-        'Lanjing Liu*',
-        'Chao Zhang*',
-        'Zhicong Lu'
-      ],
+        'Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization',
+      authors: ['Lanjing Liu*', 'Chao Zhang*', 'Zhicong Lu'],
       abstract:
         'Adolescent peer relationships, essential for their development, are increasingly mediated by digital technologies. As this trend continues, wearable devices, especially smartwatches tailored for adolescents, is reshaping their socialization. In China, smartwatches like XTC have gained wide popularity, introducing unique features such as "Bump-to-Connect" and exclusive social platforms. Nonetheless, how these devices influence adolescents\' peer experience remains unknown. Addressing this, we interviewed 18 Chinese adolescents (age: 11-16), discovering a smartwatch-mediated social ecosystem. Our findings highlight the ice-breaking role of smartwatches in friendship initiation and their use for secret messaging with local peers. Within the online smartwatch community, peer status is determined by likes and visibility, leading to diverse pursuit activities (i.e., chuguanxi, jiazu, kuolie) and negative social dynamics. We discuss the core affordances of smartwatches and Chinese cultural factors that influence adolescent social behavior, and offer implications for designing future wearables that responsibly and safely support adolescent socialization.',
       venue:
-        'To Appear in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
+        'Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
       pdf: '',
-      link: { arxiv: 'https://arxiv.org/abs/2403.03306' },
+      link: {
+        arxiv: 'https://arxiv.org/abs/2403.03306',
+        acm: 'https://dl.acm.org/doi/10.1145/3613904.3642044'
+      },
       video: '',
       talk: ''
     },
@@ -273,7 +275,7 @@ export default {
       cover: 'darkpita_cscw2024/cover.jpg',
       animation: 'darkpita_cscw2024/animation.gif',
       title:
-        "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX",
+        'From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX',
       authors: [
         'Yuwen Lu*',
         'Chao Zhang*',
@@ -282,11 +284,13 @@ export default {
         'Toby Jia-Jun Li'
       ],
       abstract:
-        'The study of UX dark patterns, i.e., UI designs that seek to manipulate user behaviors, often for the benefit of online services, has drawn significant attention in the CHI and CSCW communities in recent years. To complement previous studies in addressing dark patterns from (1) the designer’s perspective on education and advocacy for ethical designs; and (2) the policymaker’s perspective on new regulations, we propose an end-user-empowerment intervention approach that helps users (1) raise the awareness of dark patterns and understand their underlying design intents; (2) take actions to counter the effects of dark patterns using a web augmentation approach. Through a two-phase co-design study, including 5 co-design workshops (N=12) and a 2-week technology probe study (N=15), we reported findings on the understanding of users\' needs, preferences, and challenges in handling dark patterns and investigated the feedback and reactions to users\' awareness of and action on dark patterns being empowered in a realistic in-situ setting.',
-      venue:
-        'To Appear in Proceedings of the ACM on Human-Computer Interaction (CSCW 2024)',
+        "The study of UX dark patterns, i.e., UI designs that seek to manipulate user behaviors, often for the benefit of online services, has drawn significant attention in the CHI and CSCW communities in recent years. To complement previous studies in addressing dark patterns from (1) the designer’s perspective on education and advocacy for ethical designs; and (2) the policymaker’s perspective on new regulations, we propose an end-user-empowerment intervention approach that helps users (1) raise the awareness of dark patterns and understand their underlying design intents; (2) take actions to counter the effects of dark patterns using a web augmentation approach. Through a two-phase co-design study, including 5 co-design workshops (N=12) and a 2-week technology probe study (N=15), we reported findings on the understanding of users' needs, preferences, and challenges in handling dark patterns and investigated the feedback and reactions to users' awareness of and action on dark patterns being empowered in a realistic in-situ setting.",
+      venue: 'Proceedings of the ACM on Human-Computer Interaction (CSCW 2024)',
       pdf: '',
-      link: { arxiv: 'http://arxiv.org/abs/2310.17846' },
+      link: {
+        arxiv: 'http://arxiv.org/abs/2310.17846',
+        acm: 'https://dl.acm.org/doi/10.1145/3637336'
+      },
       video: '',
       talk: ''
     },
@@ -294,7 +298,7 @@ export default {
       cover: 'nacanvas_mobilehci23/cover.jpg',
       animation: 'nacanvas_mobilehci23/animation.gif',
       title:
-        "NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children",
+        'NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children',
       authors: [
         'Zihan Yan',
         'Yanhong Wu',
@@ -303,12 +307,12 @@ export default {
         'Qihang Jin',
         'Wei Chen',
         'Yingcai Wu',
-        'Xiang \'Anthony\' Chen',
+        "Xiang 'Anthony' Chen",
         'Guanyun Wang',
         'Haipeng Mi'
       ],
       abstract:
-        'Nature has been a plentiful source of materials, replenishment, inspiration, and creativity. Nature collage, as a crafting technique, is a fun and educational activity for children to explore nature and engage their creativity. However, the raw material collection is limited to static things such as leaves, ignoring inspiration from nature sounds and dynamic elements such as babbling creeks. Using a mobile application, we hope to encourage children\'s creativity by renewing collage materials collection and careful observation in nature. To explore this, we conducted a formative study with children (N=20) and a design workshop with experts (N=6) to formulate NaCanva, an AI-assisted multi-modal collage creation system for children. Drawing on the interactivity between children and nature, NaCanva enables the multi-modal material collection, including images, sound, and videos, which differs our system from traditional collages. We validated this system with a between-subject user study (N=30), and the results suggested that NaCanva unleashes children\'s creativity in nature collage creation by enhancing children\'s multidimensional observation and engagement in nature.',
+        "Nature has been a plentiful source of materials, replenishment, inspiration, and creativity. Nature collage, as a crafting technique, is a fun and educational activity for children to explore nature and engage their creativity. However, the raw material collection is limited to static things such as leaves, ignoring inspiration from nature sounds and dynamic elements such as babbling creeks. Using a mobile application, we hope to encourage children's creativity by renewing collage materials collection and careful observation in nature. To explore this, we conducted a formative study with children (N=20) and a design workshop with experts (N=6) to formulate NaCanva, an AI-assisted multi-modal collage creation system for children. Drawing on the interactivity between children and nature, NaCanva enables the multi-modal material collection, including images, sound, and videos, which differs our system from traditional collages. We validated this system with a between-subject user study (N=30), and the results suggested that NaCanva unleashes children's creativity in nature collage creation by enhancing children's multidimensional observation and engagement in nature.",
       venue:
         'Proceedings of the ACM on Human-Computer Interaction (MobileHCI 2023)',
       pdf: 'nacanvas_mobilehci23/nacanvas_mobilehci23.pdf',
@@ -357,7 +361,7 @@ export default {
         'Xiaojuan Ma'
       ],
       abstract:
-        "Online critique communities (OCCs) provide a convenient space for creators to solicit feedback on their artifacts and improve skills. Creators’ behavioral, emotional, and cognitive engagement with comments on their works contribute to their skill development. However, what kinds of critique creators feel engaging may change with the creation stage of their shared artifacts. In this paper, we first model three dimensions of engagement expressed in creators’ replies to peer comments. Then we quantitatively examine how their engagement is affected by artifacts’ stage and feedback characteristics via regression analysis. Results show that creators sharing works-in-progress tend to exhibit lower behavioral and emotional engagement, but higher cognitive engagement than those sharing complete works. The increase in the valence of the feedback is associated with a stronger increase in behavior engagement for seekers sharing complete works than works-in-progress. Finally, we discuss how our insights could benefit OCCs and other online help-seeking platforms.",
+        'Online critique communities (OCCs) provide a convenient space for creators to solicit feedback on their artifacts and improve skills. Creators’ behavioral, emotional, and cognitive engagement with comments on their works contribute to their skill development. However, what kinds of critique creators feel engaging may change with the creation stage of their shared artifacts. In this paper, we first model three dimensions of engagement expressed in creators’ replies to peer comments. Then we quantitatively examine how their engagement is affected by artifacts’ stage and feedback characteristics via regression analysis. Results show that creators sharing works-in-progress tend to exhibit lower behavioral and emotional engagement, but higher cognitive engagement than those sharing complete works. The increase in the valence of the feedback is associated with a stronger increase in behavior engagement for seekers sharing complete works than works-in-progress. Finally, we discuss how our insights could benefit OCCs and other online help-seeking platforms.',
       venue:
         'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)',
       pdf: 'occ_chi23/occ_chi23.pdf',
@@ -369,7 +373,7 @@ export default {
       cover: 'mathkingdom_chi23/cover.jpg',
       animation: 'mathkingdom_chi23/animation.gif',
       title:
-        "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game",
+        'MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game',
       authors: [
         'Wenjie Xu (PI)',
         'Jiayi Ma†',
@@ -423,7 +427,7 @@ export default {
       cover: 'mechcircuit_chi23/cover.jpg',
       animation: 'mechcircuit_chi23/animation.gif',
       title:
-        "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets",
+        'MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets',
       authors: [
         'Shuyue Feng*†',
         'Cheng Yao*',

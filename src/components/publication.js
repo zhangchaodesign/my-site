@@ -244,14 +244,13 @@ export default {
       abstract:
         "Mathematical language is a cornerstone of a child's mathematical development, and children can effectively acquire this language through storytelling with a knowledgeable and engaging partner. In this study, we leverage the recent advances in large language models to conduct free-form, creative conversations with children. Consequently, we developed Mathemyths, a joint storytelling agent that takes turns co-creating stories with children while integrating mathematical terms into the evolving narrative. This paper details our development process, illustrating how prompt-engineering can optimize LLMs for educational contexts. Through a user study involving 35 children aged 4-8 years, our results suggest that when children interacted with Mathemyths, their learning of mathematical language was comparable to those who co-created stories with a human partner. However, we observed differences in how children engaged with co-creation partners of different natures. Overall, we believe that LLM applications, like Mathemyths, offer children a unique conversational experience pertaining to focused learning objectives.",
       venue:
-        'To Appear in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
+        'Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
       pdf: '',
       link: {
-        arxiv: 'https://arxiv.org/abs/2402.01927',
         acm: 'https://dl.acm.org/doi/10.1145/3613904.3642647'
       },
-      video: '',
-      talk: ''
+      video: 'https://youtu.be/H6JbpiUeq60?si=xDsUqDjaHnF7qcI3',
+      talk: 'https://youtu.be/j7A7wEOsOL0?si=wRUD-vsVrY7g-vrC'
     },
     {
       cover: 'smartwatch_chi24/cover.jpg',
@@ -265,11 +264,10 @@ export default {
         'Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
       pdf: '',
       link: {
-        arxiv: 'https://arxiv.org/abs/2403.03306',
         acm: 'https://dl.acm.org/doi/10.1145/3613904.3642044'
       },
       video: '',
-      talk: ''
+      talk: 'https://youtu.be/eDWO4rkYAIk?si=SqJpIxQ734xmSQJH'
     },
     {
       cover: 'darkpita_cscw2024/cover.jpg',
@@ -288,7 +286,6 @@ export default {
       venue: 'Proceedings of the ACM on Human-Computer Interaction (CSCW 2024)',
       pdf: '',
       link: {
-        arxiv: 'http://arxiv.org/abs/2310.17846',
         acm: 'https://dl.acm.org/doi/10.1145/3637336'
       },
       video: '',

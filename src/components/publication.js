@@ -253,23 +253,6 @@ export default {
       talk: 'https://youtu.be/j7A7wEOsOL0?si=wRUD-vsVrY7g-vrC'
     },
     {
-      cover: 'smartwatch_chi24/cover.jpg',
-      animation: 'smartwatch_chi24/animation.jpg',
-      title:
-        'Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization',
-      authors: ['Lanjing Liu*', 'Chao Zhang*', 'Zhicong Lu'],
-      abstract:
-        'Adolescent peer relationships, essential for their development, are increasingly mediated by digital technologies. As this trend continues, wearable devices, especially smartwatches tailored for adolescents, is reshaping their socialization. In China, smartwatches like XTC have gained wide popularity, introducing unique features such as "Bump-to-Connect" and exclusive social platforms. Nonetheless, how these devices influence adolescents\' peer experience remains unknown. Addressing this, we interviewed 18 Chinese adolescents (age: 11-16), discovering a smartwatch-mediated social ecosystem. Our findings highlight the ice-breaking role of smartwatches in friendship initiation and their use for secret messaging with local peers. Within the online smartwatch community, peer status is determined by likes and visibility, leading to diverse pursuit activities (i.e., chuguanxi, jiazu, kuolie) and negative social dynamics. We discuss the core affordances of smartwatches and Chinese cultural factors that influence adolescent social behavior, and offer implications for designing future wearables that responsibly and safely support adolescent socialization.',
-      venue:
-        'Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
-      pdf: '',
-      link: {
-        acm: 'https://dl.acm.org/doi/10.1145/3613904.3642044'
-      },
-      video: '',
-      talk: 'https://youtu.be/eDWO4rkYAIk?si=SqJpIxQ734xmSQJH'
-    },
-    {
       cover: 'darkpita_cscw2024/cover.jpg',
       animation: 'darkpita_cscw2024/animation.gif',
       title:
@@ -289,32 +272,6 @@ export default {
         acm: 'https://dl.acm.org/doi/10.1145/3637336'
       },
       video: '',
-      talk: ''
-    },
-    {
-      cover: 'nacanvas_mobilehci23/cover.jpg',
-      animation: 'nacanvas_mobilehci23/animation.gif',
-      title:
-        'NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children',
-      authors: [
-        'Zihan Yan',
-        'Yanhong Wu',
-        'Danli Luo',
-        'Chao Zhang',
-        'Qihang Jin',
-        'Wei Chen',
-        'Yingcai Wu',
-        "Xiang 'Anthony' Chen",
-        'Guanyun Wang',
-        'Haipeng Mi'
-      ],
-      abstract:
-        "Nature has been a plentiful source of materials, replenishment, inspiration, and creativity. Nature collage, as a crafting technique, is a fun and educational activity for children to explore nature and engage their creativity. However, the raw material collection is limited to static things such as leaves, ignoring inspiration from nature sounds and dynamic elements such as babbling creeks. Using a mobile application, we hope to encourage children's creativity by renewing collage materials collection and careful observation in nature. To explore this, we conducted a formative study with children (N=20) and a design workshop with experts (N=6) to formulate NaCanva, an AI-assisted multi-modal collage creation system for children. Drawing on the interactivity between children and nature, NaCanva enables the multi-modal material collection, including images, sound, and videos, which differs our system from traditional collages. We validated this system with a between-subject user study (N=30), and the results suggested that NaCanva unleashes children's creativity in nature collage creation by enhancing children's multidimensional observation and engagement in nature.",
-      venue:
-        'Proceedings of the ACM on Human-Computer Interaction (MobileHCI 2023)',
-      pdf: 'nacanvas_mobilehci23/nacanvas_mobilehci23.pdf',
-      link: { acm: 'https://dl.acm.org/doi/10.1145/3604262' },
-      video: 'https://youtu.be/zGZKjv7Bn-c',
       talk: ''
     },
     {
@@ -420,6 +377,49 @@ export default {
     }
   ],
   others: [
+    {
+      cover: 'smartwatch_chi24/cover.jpg',
+      animation: 'smartwatch_chi24/animation.jpg',
+      title:
+        'Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization',
+      authors: ['Lanjing Liu*', 'Chao Zhang*', 'Zhicong Lu'],
+      abstract:
+        'Adolescent peer relationships, essential for their development, are increasingly mediated by digital technologies. As this trend continues, wearable devices, especially smartwatches tailored for adolescents, is reshaping their socialization. In China, smartwatches like XTC have gained wide popularity, introducing unique features such as "Bump-to-Connect" and exclusive social platforms. Nonetheless, how these devices influence adolescents\' peer experience remains unknown. Addressing this, we interviewed 18 Chinese adolescents (age: 11-16), discovering a smartwatch-mediated social ecosystem. Our findings highlight the ice-breaking role of smartwatches in friendship initiation and their use for secret messaging with local peers. Within the online smartwatch community, peer status is determined by likes and visibility, leading to diverse pursuit activities (i.e., chuguanxi, jiazu, kuolie) and negative social dynamics. We discuss the core affordances of smartwatches and Chinese cultural factors that influence adolescent social behavior, and offer implications for designing future wearables that responsibly and safely support adolescent socialization.',
+      venue:
+        'Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
+      pdf: '',
+      link: {
+        acm: 'https://dl.acm.org/doi/10.1145/3613904.3642044'
+      },
+      video: '',
+      talk: 'https://youtu.be/eDWO4rkYAIk?si=SqJpIxQ734xmSQJH'
+    },
+    {
+      cover: 'nacanvas_mobilehci23/cover.jpg',
+      animation: 'nacanvas_mobilehci23/animation.gif',
+      title:
+        'NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children',
+      authors: [
+        'Zihan Yan',
+        'Yanhong Wu',
+        'Danli Luo',
+        'Chao Zhang',
+        'Qihang Jin',
+        'Wei Chen',
+        'Yingcai Wu',
+        "Xiang 'Anthony' Chen",
+        'Guanyun Wang',
+        'Haipeng Mi'
+      ],
+      abstract:
+        "Nature has been a plentiful source of materials, replenishment, inspiration, and creativity. Nature collage, as a crafting technique, is a fun and educational activity for children to explore nature and engage their creativity. However, the raw material collection is limited to static things such as leaves, ignoring inspiration from nature sounds and dynamic elements such as babbling creeks. Using a mobile application, we hope to encourage children's creativity by renewing collage materials collection and careful observation in nature. To explore this, we conducted a formative study with children (N=20) and a design workshop with experts (N=6) to formulate NaCanva, an AI-assisted multi-modal collage creation system for children. Drawing on the interactivity between children and nature, NaCanva enables the multi-modal material collection, including images, sound, and videos, which differs our system from traditional collages. We validated this system with a between-subject user study (N=30), and the results suggested that NaCanva unleashes children's creativity in nature collage creation by enhancing children's multidimensional observation and engagement in nature.",
+      venue:
+        'Proceedings of the ACM on Human-Computer Interaction (MobileHCI 2023)',
+      pdf: 'nacanvas_mobilehci23/nacanvas_mobilehci23.pdf',
+      link: { acm: 'https://dl.acm.org/doi/10.1145/3604262' },
+      video: 'https://youtu.be/zGZKjv7Bn-c',
+      talk: ''
+    },
     {
       cover: 'mechcircuit_chi23/cover.jpg',
       animation: 'mechcircuit_chi23/animation.gif',

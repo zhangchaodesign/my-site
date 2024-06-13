@@ -11,14 +11,13 @@
     </div> -->
     <div class="w-full px-3">
       <p class="text-dark text-xs leading-6 font-signika-negative">
-        * Equal Contribution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;† Mentored Students
+        * denotes equal contribution.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;† denotes student
+        mentees
       </p>
     </div>
     <div class="paper">
       <!-- <p class="title p-3">Major Peer-reviewed Conference and Journal Papers</p> -->
-      <p class="title p-3">
-        # Selected Publications
-      </p>
+      <p class="title p-3"># Selected Publications</p>
       <div class="entries">
         <!-- <div class="w-full px-3">
           <div class="announcement paragraph">
@@ -56,8 +55,7 @@
     </details> -->
     <details class="paper">
       <summary class="title p-3">
-        Other Publications - Design Tools / Digital Fabrication / Minor Lightly-Reviewed
-        Posters
+        Other Publications - Side Threads of Research / Minor Lightly-Reviewed Posters
       </summary>
       <div class="entries">
         <div v-for="(val, index) in pub['others']" :key="index" class="news_entry">

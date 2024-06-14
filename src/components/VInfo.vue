@@ -20,12 +20,12 @@
         China Design Exhibition. As an
         <span class="phrase_highlight">HCI RESEARCHER</span>, I have published in
         reputable HCI venues like CHI, CSCW, IMWUT, IDC, and MobileHCI. I am also
-        fortunate to have worked alongside distinguished professors such as
+        fortunate to have collaborated alongside distinguished professors such as
         <a href="https://ying-xu.com/">Ying Xu</a>,
         <a href="https://toby.li/">Toby Jia-jun Li</a>,
         <a href="http://yaxingyao.com/">Yaxing Yao</a>,
         <a href="https://person.zju.edu.cn/en/yaoch">Cheng Yao</a>,
-        <a href="https://guanyundesign.com/">Guanyun Wang</a>, and
+        <a href="https://www.cs.cityu.edu.hk/~zhiconlu/">Zhicong Lu</a>, and
         <a href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a>.
       </p>
 

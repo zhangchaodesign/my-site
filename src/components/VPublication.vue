@@ -12,7 +12,7 @@
     <div class="w-full px-3">
       <p class="text-dark text-xs leading-6 font-signika-negative">
         * denotes equal contribution.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;† denotes student
-        mentees
+        mentees.
       </p>
     </div>
     <div class="paper">

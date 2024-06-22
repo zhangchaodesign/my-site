@@ -8,7 +8,9 @@
           v-for="(val, index) in entry['authors']"
           :key="index"
           :class="
-            val === 'Chao Zhang' || val === 'Chao Zhang*'
+            val === 'Chao Zhang' ||
+            val === 'Chao Zhang*' ||
+            val === 'Chao Zhang (as a senior student mentor)'
               ? 'font-semibold'
               : 'font-normal'
           "
@@ -35,6 +37,10 @@
           </div>
           <div v-if="entry['talk'] !== ''">
             [<a :href="entry['talk']" target="_blank">Presentation</a>]
+          </div>
+          <div v-if="entry['award'] !== ''">
+            [<span class="font-semibold text-red-600">{{ entry["award"] }}</span
+            >]
           </div>
         </div>
       </div>

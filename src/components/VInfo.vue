@@ -15,18 +15,17 @@
         <a href="https://www.cornell.edu/">Cornell University</a>, advised by
         <a href="http://jeffrz.com/">Jeff Rzeszotarski</a>. I serve as both a UX designer
         and an HCI researcher. As a <span class="phrase_highlight">UX DESIGNER</span>, my
-        designs have been recognized in esteemed design competitions such as Red Dot, iF,
-        and A’ Design, and featured at notable events including Dubai Design Week and
+        designs have been recognized in international design competitions like Red Dot,
+        iF, and A’ Design, and featured at notable events including Dubai Design Week and
         China Design Exhibition. As an
-        <span class="phrase_highlight">HCI RESEARCHER</span>, I have published in
-        reputable HCI venues like CHI, CSCW, IMWUT, IDC, and MobileHCI. I am also
-        fortunate to have collaborated alongside distinguished professors such as
-        <a href="https://ying-xu.com/">Ying Xu</a>,
-        <a href="https://toby.li/">Toby Jia-jun Li</a>,
-        <a href="http://yaxingyao.com/">Yaxing Yao</a>,
-        <a href="https://person.zju.edu.cn/en/yaoch">Cheng Yao</a>,
-        <a href="https://www.cs.cityu.edu.hk/~zhiconlu/">Zhicong Lu</a>, and
-        <a href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a>.
+        <span class="phrase_highlight">HCI RESEARCHER</span>, I have published in top-tier
+        HCI venues like CHI, CSCW, IDC, and MobileHCI. Outside of Cornell, I worked
+        closely with <a href="https://ying-xu.com/">Dr. Ying Xu</a>,
+        <a href="https://toby.li/">Dr. Toby Jia-jun Li</a>,
+        <a href="http://yaxingyao.com/">Dr. Yaxing Yao</a>,
+        <a href="https://person.zju.edu.cn/en/yaoch">Dr. Cheng Yao</a>,
+        <a href="https://www.cs.cityu.edu.hk/~zhiconlu/">Dr. Zhicong Lu</a>, and
+        <a href="https://www.cse.ust.hk/~mxj/">Dr. Xiaojuan Ma</a>.
       </p>
 
       <!-- <VAnnouncement /> -->

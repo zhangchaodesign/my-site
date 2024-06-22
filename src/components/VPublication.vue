@@ -11,8 +11,9 @@
     </div> -->
     <div class="w-full px-3">
       <p class="text-dark text-xs leading-6 font-signika-negative">
-        * denotes equal contribution.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;† denotes student
-        mentees.
+        * denotes equal contribution.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¶ denotes the
+        students I mentored in this project, mostly from my former lab at Zhejiang
+        University.
       </p>
     </div>
     <div class="paper">

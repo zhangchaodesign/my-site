@@ -9,7 +9,7 @@
           :key="index"
           :class="
             val === 'Chao Zhang' ||
-            val === 'Chao Zhang*' ||
+            val === 'Chao Zhang *' ||
             val === 'Chao Zhang (as a senior student mentor)'
               ? 'font-semibold'
               : 'font-normal'

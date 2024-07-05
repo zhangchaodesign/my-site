@@ -26,6 +26,55 @@ export default {
       award: ""
     },
     {
+      cover: "smartwatch_chi24/cover.jpg",
+      animation: "smartwatch_chi24/animation.jpg",
+      title:
+        "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization",
+      authors: ["Lanjing Liu *", "Chao Zhang *", "Zhicong Lu"],
+      abstract:
+        'Adolescent peer relationships, essential for their development, are increasingly mediated by digital technologies. As this trend continues, wearable devices, especially smartwatches tailored for adolescents, is reshaping their socialization. In China, smartwatches like XTC have gained wide popularity, introducing unique features such as "Bump-to-Connect" and exclusive social platforms. Nonetheless, how these devices influence adolescents\' peer experience remains unknown. Addressing this, we interviewed 18 Chinese adolescents (age: 11-16), discovering a smartwatch-mediated social ecosystem. Our findings highlight the ice-breaking role of smartwatches in friendship initiation and their use for secret messaging with local peers. Within the online smartwatch community, peer status is determined by likes and visibility, leading to diverse pursuit activities (i.e., chuguanxi, jiazu, kuolie) and negative social dynamics. We discuss the core affordances of smartwatches and Chinese cultural factors that influence adolescent social behavior, and offer implications for designing future wearables that responsibly and safely support adolescent socialization.',
+      venue:
+        "Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)",
+      pdf: "smartwatch_chi24/smartwatch_chi24.pdf",
+      link: {
+        doi: "https://dl.acm.org/doi/10.1145/3613904.3642044"
+      },
+      video: "",
+      talk: "https://youtu.be/eDWO4rkYAIk?si=SqJpIxQ734xmSQJH",
+      award: ""
+    },
+    {
+      cover: "food_idc24/cover.jpg",
+      animation: "food_idc24/animation.jpg",
+      title:
+        '"See, Hear, Touch, Smell, and,...Eat!": Helping Children Self-Improve Their Food Literacy and Eating Behavior through a Tangible Multi-Sensory Puzzle Game',
+      authors: [
+        "Xueyan Cai ¶",
+        "Kecheng Jin ¶",
+        "Shang Shi ¶",
+        "Shichao Huang",
+        "Ouying Huang",
+        "Xiaodong Wang",
+        "Jiahao Cheng",
+        "Weijia Lin",
+        "Jiayu Yao",
+        "Yuqi Hu",
+        "Chao Zhang (as a senior student mentor)",
+        "Cheng Yao"
+      ],
+      abstract:
+        "Picky eating behavior is common in preschoolers and has been linked to a lack of food literacy with support from certain research. Recent research has focused on interventions for children’s mealtime behaviors which can lead to distraction and neglect of food literacy learning. We propose FeastyMaze, a tangible and multi-sensory interactive puzzle game for young children to improve eating behavior. With the Five-color Diet Theory, our approach enables children to actively learn about food nutrition and balanced diets. To evaluate the effectiveness and acceptability of FeastyMaze, we conducted a user study with preschoolers (N = 12) who exhibited picky eating behaviors. The results showed that it effectively increased children’s familiarity and understanding of food knowledge, built positive attitudes towards previously disliked foods, and had the potential to improve their eating behavior.",
+      venue:
+        "Proceedings of the 2024 ACM Interaction Design and Children Conference (IDC 2024)",
+      pdf: "food_idc24/food_idc24.pdf",
+      link: {
+        doi: "https://dl.acm.org/doi/10.1145/3628516.3655801"
+      },
+      video: "",
+      talk: "",
+      award: "🏆 Best Short Paper Award"
+    },
+    {
       cover: "darkpita_cscw2024/cover.jpg",
       animation: "darkpita_cscw2024/animation.gif",
       title:
@@ -155,55 +204,6 @@ export default {
     }
   ],
   others: [
-    {
-      cover: "food_idc24/cover.jpg",
-      animation: "food_idc24/animation.jpg",
-      title:
-        '"See, Hear, Touch, Smell, and,...Eat!": Helping Children Self-Improve Their Food Literacy and Eating Behavior through a Tangible Multi-Sensory Puzzle Game',
-      authors: [
-        "Xueyan Cai ¶",
-        "Kecheng Jin ¶",
-        "Shang Shi ¶",
-        "Shichao Huang",
-        "Ouying Huang",
-        "Xiaodong Wang",
-        "Jiahao Cheng",
-        "Weijia Lin",
-        "Jiayu Yao",
-        "Yuqi Hu",
-        "Chao Zhang (as a senior student mentor)",
-        "Cheng Yao"
-      ],
-      abstract:
-        "Picky eating behavior is common in preschoolers and has been linked to a lack of food literacy with support from certain research. Recent research has focused on interventions for children’s mealtime behaviors which can lead to distraction and neglect of food literacy learning. We propose FeastyMaze, a tangible and multi-sensory interactive puzzle game for young children to improve eating behavior. With the Five-color Diet Theory, our approach enables children to actively learn about food nutrition and balanced diets. To evaluate the effectiveness and acceptability of FeastyMaze, we conducted a user study with preschoolers (N = 12) who exhibited picky eating behaviors. The results showed that it effectively increased children’s familiarity and understanding of food knowledge, built positive attitudes towards previously disliked foods, and had the potential to improve their eating behavior.",
-      venue:
-        "Proceedings of the 2024 ACM Interaction Design and Children Conference (IDC 2024)",
-      pdf: "food_idc24/food_idc24.pdf",
-      link: {
-        doi: "https://dl.acm.org/doi/10.1145/3628516.3655801"
-      },
-      video: "",
-      talk: "",
-      award: "🏆 Best Short Paper Award"
-    },
-    {
-      cover: "smartwatch_chi24/cover.jpg",
-      animation: "smartwatch_chi24/animation.jpg",
-      title:
-        "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization",
-      authors: ["Lanjing Liu *", "Chao Zhang *", "Zhicong Lu"],
-      abstract:
-        'Adolescent peer relationships, essential for their development, are increasingly mediated by digital technologies. As this trend continues, wearable devices, especially smartwatches tailored for adolescents, is reshaping their socialization. In China, smartwatches like XTC have gained wide popularity, introducing unique features such as "Bump-to-Connect" and exclusive social platforms. Nonetheless, how these devices influence adolescents\' peer experience remains unknown. Addressing this, we interviewed 18 Chinese adolescents (age: 11-16), discovering a smartwatch-mediated social ecosystem. Our findings highlight the ice-breaking role of smartwatches in friendship initiation and their use for secret messaging with local peers. Within the online smartwatch community, peer status is determined by likes and visibility, leading to diverse pursuit activities (i.e., chuguanxi, jiazu, kuolie) and negative social dynamics. We discuss the core affordances of smartwatches and Chinese cultural factors that influence adolescent social behavior, and offer implications for designing future wearables that responsibly and safely support adolescent socialization.',
-      venue:
-        "Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)",
-      pdf: "smartwatch_chi24/smartwatch_chi24.pdf",
-      link: {
-        doi: "https://dl.acm.org/doi/10.1145/3613904.3642044"
-      },
-      video: "",
-      talk: "https://youtu.be/eDWO4rkYAIk?si=SqJpIxQ734xmSQJH",
-      award: ""
-    },
     {
       cover: "nacanvas_mobilehci23/cover.jpg",
       animation: "nacanvas_mobilehci23/animation.gif",

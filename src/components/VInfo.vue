@@ -28,8 +28,6 @@
         <a href="https://www.cse.ust.hk/~mxj/">Dr. Xiaojuan Ma</a>.
       </p>
 
-      <!-- <VAnnouncement /> -->
-
       <div class="research-interest">
         <p class="title">Research Interests</p>
 
@@ -48,77 +46,10 @@
               ethically designing human-AI interaction to support human sensemaking in
               creative and learning activities</b
             >.
-            <!-- For instance, I have successfully designed educational technologies,
-            leveraging generative AI to engage young individuals in creative
-            interventions, STEM learning, and nature-oriented explorations. -->
-            <!-- Previously, I designed AI-fused
-            systems to augment human cognition and action, and conducted
-            empirical studies to understand human perception. -->
           </p>
-          <!-- <ul class="paragraph">
-            <li>
-              <b>Human-AI Interaction</b>: My first research interest is exploring
-              human-AI collaborative approaches to augment human capabilities of cognition
-              (e.g., creativity, engagement), perception (e.g., observation), and action
-              (e.g., design).
-            </li>
-            <li>
-              <b>Digital Youth</b>: My second research interest is designing interactive
-              technologies to scaffold children in creating, learning, and understanding
-              the world. For example, I developed AI-fused creativity support tools (CSTs)
-              that engage children in creativity activities such as visual storytelling,
-              music composition, and observational drawing.
-            </li>
-            <li>
-              <b>Design</b>: My third research interest is investigating the impact of designs (e.g., dark patterns) on end users' daily online experience and inventing computational design tools to lower barriers to prototyping.
-            </li>
-          </ul> -->
-          <!-- <ul class="paragraph">
-            <li>
-              <b>Human-AI Collaboration</b>: My first research interest is
-              exploring human-AI collaborative approaches to augment human
-              capabilities of cognition (e.g., creativity, engagement),
-              perception (e.g., observation), and action (e.g., design).
-            </li>
-            <li>
-              <b>Digital Youth</b>: My second research interest is designing
-              interactive technologies to scaffold children in creating,
-              learning, and understanding the world. For example, I developed
-              AI-fused creativity support tools (CSTs) for children to engage
-              creativity activities such as visual storytelling, music
-              composition, and observational drawing.
-            </li>
-            <li>
-              <b>Computational Design</b>: My third research interest is
-              crafting design tools to broaden creative possibilities for
-              designers in prototyping interactive artifacts, e.g., magnet-based
-              laser-cutting objects and paper-based underwater devices.
-            </li>
-          </ul> -->
-          <!-- <ul class="paragraph">
-            <li>
-              <b>Cognition</b>: I designed creativity support tools (CSTs) to
-              scaffold children in creativity activities through child-AI
-              collaboration, e.g., visual storytelling, music composition, and
-              observational drawing.
-            </li>
-            <li>
-              <b>Perception</b>: I conducted empirical studies to understand
-              visual art creators' engagement in online critique communities and
-              explore how to empower end-users of interfaces to recognize,
-              understand, and take action upon UX dark patterns.
-            </li>
-            <li>
-              <b>Action</b>: I proposed computational design approaches for
-              general creators in prototyping interactive artifacts, e.g.,
-              magnet-based laser-cutting objects and paper-based underwater
-              devices.
-            </li>
-          </ul> -->
         </div>
-
-        <!-- <img class="select-none w-100" :src="interest" alt="" /> -->
       </div>
+      <VAnnouncement />
     </div>
   </div>
 </template>

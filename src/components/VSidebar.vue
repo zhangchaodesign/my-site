@@ -1,7 +1,7 @@
 <template>
   <div class="sidebar">
     <div class="portrait-wrapper">
-      <img class="portrait" src="@/assets/info/portrait.jpg" alt="" />
+      <img class="portrait" src="@/assets/info/portrait2.jpg" alt="" />
       <div class="icon-wrapper">
         <a :href="pdf" target="_blank">
           <icon-academicons-cv-square class="icon" />
@@ -34,7 +34,8 @@ import VNews from "@/components/VNews.vue";
 export default {
   data() {
     return {
-      pdf: new URL(`../assets/info/Curriculum_Vitae_of_Chao_Zhang.pdf`, import.meta.url).href,
+      pdf: new URL(`../assets/info/Curriculum_Vitae_of_Chao_Zhang.pdf`, import.meta.url)
+        .href,
     };
   },
   components: {
@@ -45,13 +46,13 @@ export default {
 
 <style lang="scss" scoped>
 .sidebar {
-  @apply flex flex-col gap-3 p-3 w-full lg:w-[224px];
+  @apply flex flex-col gap-3 p-3 w-full lg:w-[280px];
 
   .portrait-wrapper {
     @apply flex flex-col gap-2;
 
     .portrait {
-      @apply w-full lg:w-[200px];
+      @apply w-full;
     }
 
     .icon-wrapper {

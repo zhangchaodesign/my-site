@@ -1,13 +1,13 @@
 <template>
   <div class="design">
-    <div class="w-full px-3">
+    <!-- <div class="w-full px-3">
       <div class="announcement paragraph">
         <p class="text-dark text-xs leading-6 font-signika-negative">
           As a UI/UX designer, I am deeply passionate about leveraging the power of design
           to foster sustainability, inclusivity, and impactful societal changes.
         </p>
       </div>
-    </div>
+    </div> -->
     <!-- <div class="paper">
       <p class="title p-3">UI/UX Design and Service Design</p>
       <div class="entries">

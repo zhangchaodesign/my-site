@@ -11,21 +11,17 @@
 
     <div class="detail">
       <p class="paragraph">
-        I am a first-year Ph.D. student at
+        I am a second-year Ph.D. student at
         <a href="https://www.cornell.edu/">Cornell University</a>, advised by
-        <a href="http://jeffrz.com/">Jeff Rzeszotarski</a>. I serve as both a UX designer
-        and an HCI researcher. As a <span class="phrase_highlight">UX DESIGNER</span>, my
-        designs have been recognized in international design competitions like Red Dot,
-        iF, and A’ Design, and featured at notable events including Dubai Design Week and
-        China Design Exhibition. As an
-        <span class="phrase_highlight">HCI RESEARCHER</span>, I have published in top-tier
-        HCI venues like CHI, CSCW, IDC, and MobileHCI. Outside of Cornell, I worked
-        closely with <a href="https://ying-xu.com/">Dr. Ying Xu</a>,
-        <a href="https://toby.li/">Dr. Toby Jia-jun Li</a>,
-        <a href="http://yaxingyao.com/">Dr. Yaxing Yao</a>,
-        <a href="https://person.zju.edu.cn/en/yaoch">Dr. Cheng Yao</a>,
-        <a href="https://www.cs.cityu.edu.hk/~zhiconlu/">Dr. Zhicong Lu</a>, and
-        <a href="https://www.cse.ust.hk/~mxj/">Dr. Xiaojuan Ma</a>.
+        <a href="http://jeffrz.com/">Dr. Jeff Rzeszotarski</a>. I identify myself as both
+        a UX designer and an HCI researcher. As a
+        <span class="phrase_highlight">UX DESIGNER</span>, my design projects have been
+        recognized with numerous design awards such as Red Dot, iF Design, and A’ Design,
+        and featured at notable events including Dubai Design Week and China Design
+        Exhibition. As an <span class="phrase_highlight">HCI RESEARCHER</span>, I have
+        published in top-tier HCI venues like CHI, CSCW, IDC, and MobileHCI. Outside of
+        Cornell, I worked closely with <a href="https://ying-xu.com/">Dr. Ying Xu</a> from
+        Harvard University.
       </p>
 
       <div class="research-interest">
@@ -35,16 +31,16 @@
 
         <div>
           <p class="paragraph">
-            With an interdisciplinary background in Design Engineering (M.E. from
+            With an interdisciplinary academic background in Design (M.E. from
             <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>), Electrical
             Engineering (B.E. from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), and
-            Digital Media Technology (Minor from
+            Digital Media (Minor from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), my
-            research interest primarily lies in
+            research interest is primarily to
             <b>
-              ethically designing human-AI interaction to support human sensemaking in
-              creative and learning activities</b
+              design trustworthy AI-infused systems to support young beginners'
+              sensemaking in creative, learning activities</b
             >.
           </p>
         </div>

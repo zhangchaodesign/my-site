@@ -1,13 +1,13 @@
 export default [
   {
-    date: "06/24",
-    content:
-      'Our paper "See, Hear, Touch, Smell, and,...Eat!" from my junior student mentees won the IDC \'24 Best Short Paper Award 🏆! Congrats to Xueyan, Kecheng, and Shang!',
-  },
-  {
     date: "07/24",
     content:
       "LLM tokenizers reveal a ton about capabilities and priorities, but people have limited access to make sense of them! I built a tool with Dr. David Mimno to compare vocabularies across models. Check it out at token-board.zhangchaodesign.com 🚀",
+  },
+  {
+    date: "06/24",
+    content:
+      'Our paper "See, Hear, Touch, Smell, and,...Eat!" from my junior student mentees won the IDC \'24 Best Short Paper Award 🏆! Congrats to Xueyan, Kecheng, and Shang!',
   },
   {
     date: "05/24",

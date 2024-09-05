@@ -141,6 +141,10 @@ li {
   @apply bg-highlight text-white font-semibold px-1;
 }
 
+.phrase_highlight_dark {
+  @apply bg-gray-800 text-white font-semibold px-1;
+}
+
 .title {
   @apply font-signika-negative font-medium text-base text-dark select-none text-left;
 }

@@ -15,13 +15,14 @@
         <a href="https://www.cornell.edu/">Cornell University</a>, advised by
         <a href="http://jeffrz.com/">Dr. Jeff Rzeszotarski</a>. I identify myself as both
         a UX designer and an HCI researcher. As a
-        <span class="phrase_highlight">UX DESIGNER</span>, my design projects have been
-        recognized with numerous design awards such as Red Dot, iF Design, and A’ Design,
-        and featured at notable events including Dubai Design Week and China Design
-        Exhibition. As an <span class="phrase_highlight">HCI RESEARCHER</span>, I have
-        published in top-tier HCI venues like CHI, CSCW, IDC, and MobileHCI. Outside of
-        Cornell, I worked closely with <a href="https://ying-xu.com/">Dr. Ying Xu</a> from
-        Harvard University.
+        <span class="phrase_highlight_dark">UX DESIGNER</span>, my design projects have
+        been recognized with numerous design awards such as Red Dot, iF Design, and A’
+        Design, and featured at notable events including Dubai Design Week and China
+        Design Exhibition. As an
+        <span class="phrase_highlight_dark">HCI RESEARCHER</span>, I have published in
+        top-tier HCI venues like CHI, CSCW, IDC, and MobileHCI. Outside of Cornell, I
+        worked closely with <a href="https://ying-xu.com/">Dr. Ying Xu</a> from Harvard
+        University.
       </p>
 
       <div class="research-interest">
@@ -37,15 +38,22 @@
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), and
             Digital Media (Minor from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), my
-            research interest is primarily to
+            research interest lies in
             <b>
-              design trustworthy AI-infused systems to support young beginners'
-              sensemaking in creative, learning activities</b
-            >.
+              designing AI-infused interactive systems to support humans in
+              <span class="phrase_highlight">Learning for Creativity</span> and
+              <span class="phrase_highlight">Learing through Creativity</span> </b
+            >. On the one hand, I designed human-AI co-creative tools to assist novices in
+            content creation and skill development (e.g.,
+            <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3501914">StoryDrawer</a>).
+            On the other hand, I developed AI-assisted learning tools to help learners
+            engage in creative activities as part of the learning process (e.g.,
+            <a href="https://dl.acm.org/doi/10.1145/3613904.3642647">Mathemyths</a>).
           </p>
         </div>
       </div>
-      <VAnnouncement />
+
+      <!-- <VAnnouncement /> -->
     </div>
   </div>
 </template>

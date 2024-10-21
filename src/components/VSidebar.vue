@@ -4,7 +4,7 @@
       <img class="portrait" src="@/assets/info/portrait2.jpg" alt="" />
       <div class="icon-wrapper">
         <a :href="pdf" target="_blank">
-          <icon-academicons-cv-square class="icon" />
+          <icon-academicons-cv-square class="icon-cv" />
         </a>
         <a href="https://scholar.google.com/citations?user=NgaSTisAAAAJ&hl=en">
           <icon-academicons-google-scholar-square class="icon" />
@@ -60,6 +60,14 @@ export default {
 
       .icon {
         @apply text-base text-black text-opacity-60 cursor-pointer;
+
+        &:hover {
+          @apply text-base text-black text-opacity-100;
+        }
+      }
+
+      .icon-cv {
+        @apply text-base text-highlight cursor-pointer;
 
         &:hover {
           @apply text-base text-black text-opacity-100;

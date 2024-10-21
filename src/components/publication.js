@@ -44,6 +44,37 @@ export default {
       award: "",
     },
     {
+      cover: "food_idc24/cover.jpg",
+      animation: "food_idc24/animation.jpg",
+      title:
+        '"See, Hear, Touch, Smell, and,...Eat!": Helping Children Self-Improve Their Food Literacy and Eating Behavior through a Tangible Multi-Sensory Puzzle Game',
+      authors: [
+        "Xueyan Cai ¶",
+        "Kecheng Jin ¶",
+        "Shang Shi ¶",
+        "Shichao Huang",
+        "Ouying Huang",
+        "Xiaodong Wang",
+        "Jiahao Cheng",
+        "Weijia Lin",
+        "Jiayu Yao",
+        "Yuqi Hu",
+        "Chao Zhang (as a graduate student mentor)",
+        "Cheng Yao",
+      ],
+      abstract:
+        "Picky eating behavior is common in preschoolers and has been linked to a lack of food literacy with support from certain research. Recent research has focused on interventions for children’s mealtime behaviors which can lead to distraction and neglect of food literacy learning. We propose FeastyMaze, a tangible and multi-sensory interactive puzzle game for young children to improve eating behavior. With the Five-color Diet Theory, our approach enables children to actively learn about food nutrition and balanced diets. To evaluate the effectiveness and acceptability of FeastyMaze, we conducted a user study with preschoolers (N = 12) who exhibited picky eating behaviors. The results showed that it effectively increased children’s familiarity and understanding of food knowledge, built positive attitudes towards previously disliked foods, and had the potential to improve their eating behavior.",
+      venue:
+        "Proceedings of the 2024 ACM Interaction Design and Children Conference (IDC 2024)",
+      pdf: "food_idc24/food_idc24.pdf",
+      link: {
+        doi: "https://dl.acm.org/doi/10.1145/3628516.3655801",
+      },
+      video: "",
+      talk: "",
+      award: "🏆 Best Short Paper Award",
+    },
+    {
       cover: "darkpita_cscw2024/cover.jpg",
       animation: "darkpita_cscw2024/animation.gif",
       title:
@@ -144,37 +175,6 @@ export default {
   ],
   others: [
     {
-      cover: "food_idc24/cover.jpg",
-      animation: "food_idc24/animation.jpg",
-      title:
-        '"See, Hear, Touch, Smell, and,...Eat!": Helping Children Self-Improve Their Food Literacy and Eating Behavior through a Tangible Multi-Sensory Puzzle Game',
-      authors: [
-        "Xueyan Cai ¶",
-        "Kecheng Jin ¶",
-        "Shang Shi ¶",
-        "Shichao Huang",
-        "Ouying Huang",
-        "Xiaodong Wang",
-        "Jiahao Cheng",
-        "Weijia Lin",
-        "Jiayu Yao",
-        "Yuqi Hu",
-        "Chao Zhang (as a senior student mentor)",
-        "Cheng Yao",
-      ],
-      abstract:
-        "Picky eating behavior is common in preschoolers and has been linked to a lack of food literacy with support from certain research. Recent research has focused on interventions for children’s mealtime behaviors which can lead to distraction and neglect of food literacy learning. We propose FeastyMaze, a tangible and multi-sensory interactive puzzle game for young children to improve eating behavior. With the Five-color Diet Theory, our approach enables children to actively learn about food nutrition and balanced diets. To evaluate the effectiveness and acceptability of FeastyMaze, we conducted a user study with preschoolers (N = 12) who exhibited picky eating behaviors. The results showed that it effectively increased children’s familiarity and understanding of food knowledge, built positive attitudes towards previously disliked foods, and had the potential to improve their eating behavior.",
-      venue:
-        "Proceedings of the 2024 ACM Interaction Design and Children Conference (IDC 2024)",
-      pdf: "food_idc24/food_idc24.pdf",
-      link: {
-        doi: "https://dl.acm.org/doi/10.1145/3628516.3655801",
-      },
-      video: "",
-      talk: "",
-      award: "🏆 Best Short Paper Award",
-    },
-    {
       cover: "mathkingdom_chi23/cover.jpg",
       animation: "mathkingdom_chi23/animation.gif",
       title:
@@ -184,7 +184,7 @@ export default {
         "Jiayi Ma ¶",
         "Jiayu Yao ¶",
         "Weijia Lin ¶",
-        "Chao Zhang (as a senior student mentor)",
+        "Chao Zhang (as a graduate student mentor)",
         "Xuanhe Xia",
         "Nan Zhuang",
         "Shitong Weng",
@@ -241,7 +241,7 @@ export default {
         "Cheng Yao * (professor)",
         "Weijia Lin ¶",
         "Jiayu Yao ¶",
-        "Chao Zhang (as a senior student mentor)",
+        "Chao Zhang (as a graduate student mentor)",
         "Zhongyu Jia",
         "Lijuan Liu",
         "Masulani Bokola",

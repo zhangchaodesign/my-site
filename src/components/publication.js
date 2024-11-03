@@ -30,7 +30,7 @@ export default {
       animation: "smartwatch_chi24/animation.jpg",
       title:
         "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization",
-      authors: ["Lanjing Liu *", "Chao Zhang *", "Zhicong Lu"],
+      authors: ["Chao Zhang *", "Lanjing Liu *", "Zhicong Lu"],
       abstract:
         'Adolescent peer relationships, essential for their development, are increasingly mediated by digital technologies. As this trend continues, wearable devices, especially smartwatches tailored for adolescents, is reshaping their socialization. In China, smartwatches like XTC have gained wide popularity, introducing unique features such as "Bump-to-Connect" and exclusive social platforms. Nonetheless, how these devices influence adolescents\' peer experience remains unknown. Addressing this, we interviewed 18 Chinese adolescents (age: 11-16), discovering a smartwatch-mediated social ecosystem. Our findings highlight the ice-breaking role of smartwatches in friendship initiation and their use for secret messaging with local peers. Within the online smartwatch community, peer status is determined by likes and visibility, leading to diverse pursuit activities (i.e., chuguanxi, jiazu, kuolie) and negative social dynamics. We discuss the core affordances of smartwatches and Chinese cultural factors that influence adolescent social behavior, and offer implications for designing future wearables that responsibly and safely support adolescent socialization.',
       venue:
@@ -80,8 +80,8 @@ export default {
       title:
         "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX",
       authors: [
-        "Yuwen Lu *",
         "Chao Zhang *",
+        "Yuwen Lu *",
         "Yuewen Yang",
         "Yaxing Yao",
         "Toby Jia-Jun Li",
@@ -95,7 +95,7 @@ export default {
       },
       video: "",
       talk: "",
-      award: "",
+      award: "🏆 Best Paper Award",
     },
     {
       cover: "biosketchbook_idc23/cover.jpg",

@@ -1,5 +1,10 @@
 export default [
   {
+    date: "11/24",
+    content:
+      'My co-first-authored paper "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX" won the CSCW \'24 Best Paper Award 🏆! Thanks to my collaborators Yuwen, Yuewen, Yaxing, and Toby!',
+  },
+  {
     date: "07/24",
     content:
       "LLM tokenizers reveal a ton about capabilities and priorities, but people have limited access to make sense of them! I built a tool with Dr. David Mimno to compare vocabularies across models. Check it out at token-board.zhangchaodesign.com 🚀",

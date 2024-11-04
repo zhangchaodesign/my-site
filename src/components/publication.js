@@ -121,7 +121,7 @@ export default {
       venue:
         "Proceedings of the 2023 ACM Interaction Design and Children Conference (IDC 2023)",
       pdf: "biosketchbook_idc23/biosketchbook_idc23.pdf",
-      link: {},
+      link: { doi: "https://dl.acm.org/doi/abs/10.1145/3585088.3589380" },
       video: "",
       talk: "https://youtu.be/Dd47PQtci90",
       award: "",

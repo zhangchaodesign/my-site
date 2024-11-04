@@ -11,44 +11,54 @@
 
     <div class="detail">
       <p class="paragraph">
-        I am a second-year Ph.D. student at
+        I am a second-year Ph.D. student at the Department of Information Science at
         <a href="https://www.cornell.edu/">Cornell University</a>, advised by
-        <a href="http://jeffrz.com/">Dr. Jeff Rzeszotarski</a>. I identify myself as both
-        a UX designer and an HCI researcher. As a
-        <span class="phrase_highlight_dark">UX DESIGNER</span>, my design projects have
-        been recognized with numerous design awards such as Red Dot, iF Design, and A’
-        Design, and featured at notable events including Dubai Design Week and China
-        Design Exhibition. As an
-        <span class="phrase_highlight_dark">HCI RESEARCHER</span>, I have published in
-        top-tier HCI venues like CHI, CSCW, IDC, and MobileHCI. Outside of Cornell, I
-        worked closely with <a href="https://ying-xu.com/">Dr. Ying Xu</a> from Harvard
-        University.
+        <a href="http://jeffrz.com/">Dr. Jeff Rzeszotarski</a>. Beyond Cornell, I also
+        work closely with <a href="https://ying-xu.com/">Dr. Ying Xu</a> from Harvard
+        University. Prior to joining Cornell, I earned my Master's degree in Design
+        Engineering from
+        <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, during which I
+        was fortunate to be a visiting researcher at the SaNDwich Lab led by
+        <a href="https://toby.li/">Dr. Toby Jia-Jun Li</a> at the University of Notre
+        Dame. I received my Bachelor's degree in Electrical Engineering from
+        <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>.
       </p>
 
       <div class="research-interest">
         <p class="title">Research Interests</p>
 
-        <img class="select-none w-100" :src="interest" alt="" />
+        <!-- <img class="select-none w-100" :src="interest" alt="" /> -->
 
         <div>
           <p class="paragraph">
-            With an interdisciplinary academic background in Design (M.E. from
-            <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>), Electrical
-            Engineering (B.E. from
-            <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), and
-            Digital Media (Minor from
-            <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), my
-            research interest lies in
-            <b>
-              designing AI-infused interactive systems to support humans in
-              <span class="phrase_highlight">Learning for Creativity</span> and
-              <span class="phrase_highlight">Learing through Creativity</span> </b
-            >. On the one hand, I designed human-AI co-creative tools to assist novices in
-            content creation and skill development (e.g.,
-            <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3501914">StoryDrawer</a>).
-            On the other hand, I developed AI-assisted learning tools to help learners
-            engage in creative activities as part of the learning process (e.g.,
-            <a href="https://dl.acm.org/doi/10.1145/3613904.3642647">Mathemyths</a>).
+            My research area is Human-Computer Interaction, where I use human-centered
+            methods to
+            <b
+              >design, build, and evaluate intelligent user interfaces that augment human
+              sensemaking in creative learning activities</b
+            >. My past work has focused on developing interactive storytelling tools for
+            children to foster creative skills (e.g.,
+            <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3501914">StoryDrawer</a>),
+            help them understand complex STEM concepts (e.g.,
+            <a href="https://dl.acm.org/doi/10.1145/3613904.3642647">Mathemyths</a>), and
+            learn about the world around them(e.g.,
+            <a href="https://dl.acm.org/doi/abs/10.1145/3585088.3589380"
+              >Observe It, Draw It</a
+            >). Currently, my research centers on designing AI-infused visual interfaces
+            to support feedback-based learning in creative domains, such as helping
+            creators make sense of large-scale feedback collections from the crowd.
+          </p>
+        </div>
+
+        <div>
+          <p class="paragraph">
+            My work has been published in premier Human-Computer Interaction venues,
+            including CHI, CSCW, IMWUT, IDC, and MobileHCI. This includes two
+            award-winning papers: a Best Paper at CSCW '24 and a Best Short Paper at IDC
+            '24. My projects have also been recognized with international design awards,
+            such as the Red Dot, iF Design, and A' Design awards, and have been featured
+            at notable events, including Dubai Design Week and the China Design
+            Exhibition.
           </p>
         </div>
       </div>

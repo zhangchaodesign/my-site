@@ -51,7 +51,7 @@
         </div>
 
         <div>
-          <p class="paragraph">
+          <p class="paragraph mt-2">
             My work has been published in premier Human-Computer Interaction venues,
             including CHI, CSCW, IMWUT, IDC, and MobileHCI. This includes two
             award-winning papers: a Best Paper at CSCW '24 and a Best Short Paper at IDC

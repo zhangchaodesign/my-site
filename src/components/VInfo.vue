@@ -41,7 +41,7 @@
             <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3501914">StoryDrawer</a>),
             help them understand complex STEM concepts (e.g.,
             <a href="https://dl.acm.org/doi/10.1145/3613904.3642647">Mathemyths</a>), and
-            learn about the world around them(e.g.,
+            learn about the world around them (e.g.,
             <a href="https://dl.acm.org/doi/abs/10.1145/3585088.3589380"
               >Observe It, Draw It</a
             >). Currently, my research centers on designing AI-infused visual interfaces

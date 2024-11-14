@@ -10,7 +10,7 @@
           :class="
             val === 'Chao Zhang' ||
             val === 'Chao Zhang *' ||
-            val === 'Chao Zhang (as a senior student mentor)'
+            val === 'Chao Zhang (as a graduate student mentor)'
               ? 'font-semibold'
               : 'font-normal'
           "

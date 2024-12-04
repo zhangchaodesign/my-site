@@ -35,7 +35,7 @@
             methods to
             <b
               >design, build, and evaluate intelligent user interfaces that augment human
-              sensemaking in creative learning activities</b
+              sensemaking in creative, learning activities</b
             >. My past work has focused on developing interactive storytelling tools for
             children to foster creative skills (e.g.,
             <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3501914">StoryDrawer</a>),

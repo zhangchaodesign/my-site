@@ -4,8 +4,8 @@
       💡 LLM tokenizers reveal a ton about capabilities and priorities, but people have
       limited access to make sense of them! I recently built a tool to compare
       vocabularies across models. Check it out at
-      <a href="https://token-board.zhangchaodesign.com"
-        >https://token-board.zhangchaodesign.com</a
+      <a href="https://token-board.chaozhang.design"
+        >https://token-board.chaozhang.design</a
       >! 🚀.
     </p>
   </div>

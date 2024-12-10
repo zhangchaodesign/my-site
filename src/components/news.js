@@ -7,7 +7,7 @@ export default [
   {
     date: "07/24",
     content:
-      "LLM tokenizers reveal a ton about capabilities and priorities, but people have limited access to make sense of them! I built a tool with Dr. David Mimno to compare vocabularies across models. Check it out at token-board.zhangchaodesign.com 🚀",
+      "LLM tokenizers reveal a ton about capabilities and priorities, but people have limited access to make sense of them! I built a tool with Dr. David Mimno to compare vocabularies across models. Check it out at token-board.chaozhang.design 🚀",
   },
   {
     date: "06/24",

@@ -205,33 +205,6 @@ export default {
       award: "",
     },
     {
-      cover: "nacanvas_mobilehci23/cover.jpg",
-      animation: "nacanvas_mobilehci23/animation.gif",
-      title:
-        "NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children",
-      authors: [
-        "Zihan Yan",
-        "Yanhong Wu",
-        "Danli Luo",
-        "Chao Zhang",
-        "Qihang Jin",
-        "Wei Chen",
-        "Yingcai Wu",
-        "Xiang 'Anthony' Chen",
-        "Guanyun Wang",
-        "Haipeng Mi",
-      ],
-      abstract:
-        "Nature has been a plentiful source of materials, replenishment, inspiration, and creativity. Nature collage, as a crafting technique, is a fun and educational activity for children to explore nature and engage their creativity. However, the raw material collection is limited to static things such as leaves, ignoring inspiration from nature sounds and dynamic elements such as babbling creeks. Using a mobile application, we hope to encourage children's creativity by renewing collage materials collection and careful observation in nature. To explore this, we conducted a formative study with children (N=20) and a design workshop with experts (N=6) to formulate NaCanva, an AI-assisted multi-modal collage creation system for children. Drawing on the interactivity between children and nature, NaCanva enables the multi-modal material collection, including images, sound, and videos, which differs our system from traditional collages. We validated this system with a between-subject user study (N=30), and the results suggested that NaCanva unleashes children's creativity in nature collage creation by enhancing children's multidimensional observation and engagement in nature.",
-      venue:
-        "Proceedings of the ACM on Human-Computer Interaction (MobileHCI 2023)",
-      pdf: "nacanvas_mobilehci23/nacanvas_mobilehci23.pdf",
-      link: { doi: "https://dl.acm.org/doi/10.1145/3604262" },
-      video: "https://youtu.be/zGZKjv7Bn-c",
-      talk: "",
-      award: "",
-    },
-    {
       cover: "mechcircuit_chi23/cover.jpg",
       animation: "mechcircuit_chi23/animation.gif",
       title:

@@ -57,8 +57,7 @@
             award-winning papers: a Best Paper at CSCW '24 and a Best Short Paper at IDC
             '24. My projects have also been recognized with international design awards,
             such as the Red Dot, iF Design, and A' Design awards, and have been featured
-            at notable events, including Dubai Design Week and the China Design
-            Exhibition.
+            at notable events, including Dubai Design Week and China Design Exhibition.
           </p>
         </div>
       </div>

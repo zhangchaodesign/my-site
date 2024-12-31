@@ -52,12 +52,13 @@
 
         <div>
           <p class="paragraph mt-2">
-            My work has been published in premier Human-Computer Interaction venues,
-            including CHI, CSCW, IMWUT, IDC, and MobileHCI. This includes two
-            award-winning papers: a Best Paper at CSCW '24 and a Best Short Paper at IDC
-            '24. My projects have also been recognized with international design awards,
-            such as the Red Dot, iF Design, and A' Design awards, and have been featured
-            at notable events, including Dubai Design Week and China Design Exhibition.
+            My work has been published in top-tier Human-Computer Interaction venues,
+            including CHI, CSCW, IMWUT, and IDC. This includes two award-winning papers: a
+            Best Paper at CSCW '24 and a Best Short Paper at IDC '24. My projects have
+            also been recognized with international design awards and competitions, such
+            as Red Dot Award, iF Design Award, A' Design Award, and James Dyson Award, and
+            have been featured at notable events, including Dubai Design Week and China
+            Design Exhibition.
           </p>
         </div>
       </div>

@@ -18,7 +18,7 @@
         University. Prior to joining Cornell, I earned my Master's degree in Design
         Engineering from
         <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, during which I
-        was fortunate to be a visiting researcher at the SaNDwich Lab led by
+        was fortunate to be a visiting student researcher at the SaNDwich Lab led by
         <a href="https://toby.li/">Dr. Toby Jia-Jun Li</a> at the University of Notre
         Dame. I received my Bachelor's degree in Electrical Engineering from
         <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>.
@@ -31,11 +31,11 @@
 
         <div>
           <p class="paragraph">
-            My research area is Human-Computer Interaction, where I use human-centered
-            methods to
+            As a <b>technical systems researcher and designer</b> in
+            <b>Human-Computer Interaction</b>, I use human-centered methods to
             <b
-              >design, build, and evaluate intelligent user interfaces that augment human
-              sensemaking in creative, learning activities</b
+              >design, build, and evaluate intelligent interactive systems to augment
+              human sensemaking in creative and learning activities</b
             >. My past work has focused on developing interactive storytelling tools for
             children to foster creative skills (e.g.,
             <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3501914">StoryDrawer</a>),

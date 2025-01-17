@@ -158,6 +158,6 @@ li {
 }
 
 .announcement {
-  @apply flex flex-col items-center border border-dashed border-black border-opacity-30 p-2 bg-light select-none;
+  @apply flex flex-col items-center border border-dashed border-black border-opacity-30 p-2 bg-neutral-50 select-none;
 }
 </style>

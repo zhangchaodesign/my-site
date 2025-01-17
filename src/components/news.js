@@ -1,5 +1,15 @@
 export default [
   {
+    date: "01/25",
+    content:
+      'One first authored paper "Friction: Deciphering Writing Feedback into Writing Revisions through LLM-Assisted Reflection" has been conditionally accepted to CHI \'25! Thanks to my collaborators! 📝',
+  },
+  {
+    date: "01/25",
+    content:
+      'Three co-authored paper "CharacterCritique", "BrickSmart", and "I Need Your Help!" have been conditionally accepted to CHI \'25! Thanks to my collaborators!',
+  },
+  {
     date: "11/24",
     content:
       'My co-first-authored paper "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX" won the CSCW \'24 Best Paper Award 🏆! Thanks to my collaborators Yuwen, Yuewen, Yaxing, and Toby!',
@@ -22,12 +32,12 @@ export default [
   {
     date: "01/24",
     content:
-      'Two first/co-first authored paper "Mathemyths" and "Wrist-bound Guanxi, Jiazu, and Kuolie" were conditionally accepted to CHI \'24! Thanks to my collaborators! 🤖️ ⌚️',
+      'Two first/co-first authored paper "Mathemyths" and "Wrist-bound Guanxi, Jiazu, and Kuolie" have been conditionally accepted to CHI \'24! Thanks to my collaborators! 🤖️ ⌚️',
   },
   {
     date: "09/23",
     content:
-      'Our paper "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX" was accepted to CSCW \'24!',
+      'Our paper "From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX" has been accepted to CSCW \'24!',
   },
   {
     date: "06/23",
@@ -37,27 +47,22 @@ export default [
   {
     date: "03/23",
     content:
-      "Our paper \"Observe It, Draw It: Scaffolding Children's Observations of Plant Biodiversity with an Interactive Drawing Tool\" was accepted to IDC '23!",
-  },
-  {
-    date: "03/23",
-    content:
-      'Our paper "NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children" was accepted to MobileHCI \'23!',
+      "Our paper \"Observe It, Draw It: Scaffolding Children's Observations of Plant Biodiversity with an Interactive Drawing Tool\" has been accepted to IDC '23!",
   },
   {
     date: "01/23",
     content:
-      "Our paper \"What Makes Creators Engage with Online Critiques? Understanding the Role of Artifacts' Creation Stage, Characteristics of Community Comments, and their Interactions\" was accepted to CHI '23!",
+      "Our paper \"What Makes Creators Engage with Online Critiques? Understanding the Role of Artifacts' Creation Stage, Characteristics of Community Comments, and their Interactions\" has been accepted to CHI '23!",
   },
   {
     date: "01/23",
     content:
-      'Our paper "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game" was accepted to CHI \'23!',
+      'Our paper "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game" has been accepted to CHI \'23!',
   },
   {
     date: "01/23",
     content:
-      'Our paper "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets" was accepted to CHI \'23!',
+      'Our paper "MechCircuit: Augmenting Laser-Cut Objects with Integrated Electronics, Mechanical Structures and Magnets" has been accepted to CHI \'23!',
   },
   // {
   //   date: '09/22',
@@ -66,7 +71,7 @@ export default [
   {
     date: "08/22",
     content:
-      'Our paper "SSpoon: A Shape-changing Spoon That Optimizes Bite Size For Eating Rate Regulation" was accepted to IMWUT \'22!',
+      'Our paper "SSpoon: A Shape-changing Spoon That Optimizes Bite Size For Eating Rate Regulation" has been accepted to IMWUT \'22!',
   },
   {
     date: "07/22",
@@ -96,7 +101,7 @@ export default [
   {
     date: "11/22",
     content:
-      "My first 1st-author full paper \"StoryDrawer: A Child-AI Collaborative Drawing System to Support Children's Creative Visual Storytelling\" is conditionally accepted at CHI '22!",
+      "My first first authored paper \"StoryDrawer: A Child-AI Collaborative Drawing System to Support Children's Creative Visual Storytelling\" has been conditionally accepted at CHI '22!",
   },
   {
     date: "11/22",

@@ -85,7 +85,7 @@ a {
   @apply flex flex-col lg:flex-row gap-4 p-3 lg:h-[204px];
 
   &:hover {
-    @apply bg-light;
+    @apply bg-neutral-50;
   }
 
   .entry-cover {

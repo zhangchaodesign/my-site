@@ -1,11 +1,12 @@
 <template>
   <div class="news">
-    <hr />
-    <p class="title">NEWS</p>
+    <p class="title">News</p>
     <div class="news_entry_list">
       <div v-for="(val, index) in news" :key="index" class="news_entry">
-        <p class="date">{{ news[index]["date"] }}</p>
-        <p class="content">{{ news[index]["content"] }}</p>
+        <p class="content">
+          <span class="date">{{ news[index]["date"] }}</span
+          >: {{ news[index]["content"] }}
+        </p>
       </div>
     </div>
   </div>
@@ -24,20 +25,20 @@ export default {
 
 <style lang="scss" scoped>
 .news {
-  @apply flex flex-col gap-3;
+  @apply flex flex-col gap-2 bg-neutral-50 p-2;
 
   .news_entry_list {
-    @apply flex flex-col gap-1 h-[320px] lg:h-[150px] overflow-auto select-none;
+    @apply flex flex-col gap-1 h-[320px] lg:h-[145px] overflow-auto select-none;
 
     // &:hover {
     //   @apply overflow-auto overscroll-none pr-0;
     // }
 
     .news_entry {
-      @apply flex flex-row gap-1 font-medium text-xxs leading-5 text-black text-opacity-60;
+      @apply font-medium text-xxs leading-5 text-black text-opacity-60;
 
       .date {
-        @apply italic;
+        @apply italic mr-1 font-semibold;
       }
 
       .content {

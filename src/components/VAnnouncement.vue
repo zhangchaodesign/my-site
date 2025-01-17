@@ -22,7 +22,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 .announcement {
-  @apply flex flex-col w-full items-center border border-dashed border-black border-opacity-60 p-2 bg-light select-none;
+  @apply flex flex-col w-full items-center border border-dashed border-black border-opacity-60 p-2 bg-neutral-50 select-none;
 
   .highlight {
     @apply text-highlight text-xs leading-6 font-signika-negative;

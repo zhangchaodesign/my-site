@@ -24,6 +24,8 @@
       </div>
     </div>
 
+    <hr />
+
     <VNews />
   </div>
 </template>

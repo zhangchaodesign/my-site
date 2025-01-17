@@ -45,8 +45,9 @@
             <a href="https://dl.acm.org/doi/abs/10.1145/3585088.3589380"
               >Observe It, Draw It</a
             >). Currently, my research centers on designing AI-infused visual interfaces
-            to support feedback-based learning in creative domains, such as helping
-            creators make sense of large-scale feedback collections from the crowd.
+            to support feedback-based learning in creative domains (e.g., Friction), such
+            as helping novice writers reflect on and act upon a large-scale feedback
+            comments to revise their essays.
           </p>
         </div>
 

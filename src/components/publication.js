@@ -1,6 +1,28 @@
 export default {
   selected: [
     {
+      cover: "friction_chi25/cover.jpg",
+      animation: "friction_chi25/animation.gif",
+      title:
+        "Friction: Deciphering Writing Feedback into Writing Revisions through LLM-Assisted Reflection",
+      authors: [
+        "Chao Zhang",
+        "Kexin Ju",
+        "Peter Bidoshi",
+        "Grace Yu-Chun Yen",
+        "Jeffrey M. Rzeszotarski",
+      ],
+      abstract:
+        "This paper introduces Friction, a novel interface designed to scaffold novice writers in reflective feedback-driven revisions. Effective revision requires mindful reflection upon feedback, but the scale and variability of feedback can make it challenging for novice writers to decipher it into actionable, meaningful changes. Friction leverages large language models to break down large feedback collections into manageable units, visualizes their distribution across sentences and issues through a co-located heatmap, and guides users through structured reflection and revision with adaptive hints and real-time evaluation. Our user study (N=16) showed that Friction helped users allocate more time to reflective planning, attend to more critical issues, develop more actionable and satisfactory revision plans, iterate more frequently, and ultimately produce higher-quality revisions, compared to the baseline system. These findings highlight the potential of human-AI collaboration to foster a balanced approach between maximum efficiency and deliberate reflection, supporting the development of creative mastery.",
+      venue:
+        "To Appear in Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI 2025)",
+      pdf: "",
+      link: {},
+      video: "",
+      talk: "",
+      award: "",
+    },
+    {
       cover: "mathemyths_chi24/cover.jpg",
       animation: "mathemyths_chi24/animation.jpg",
       title:

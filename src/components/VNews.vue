@@ -4,8 +4,8 @@
     <div class="news_entry_list">
       <div v-for="(val, index) in news" :key="index" class="news_entry">
         <p class="content">
-          <span class="date">{{ news[index]["date"] }}</span
-          >: {{ news[index]["content"] }}
+          <span class="date">{{ news[index]["date"] }}:</span>
+          {{ news[index]["content"] }}
         </p>
       </div>
     </div>
@@ -38,7 +38,7 @@ export default {
       @apply font-medium text-xxs leading-5 text-black text-opacity-60;
 
       .date {
-        @apply italic mr-1 font-semibold;
+        @apply italic mr-1;
       }
 
       .content {

@@ -9,7 +9,7 @@ export default {
         "Chao Zhang",
         "Kexin Ju",
         "Peter Bidoshi",
-        "Grace Yu-Chun Yen",
+        "Yu-Chun Grace Yen",
         "Jeffrey M. Rzeszotarski",
       ],
       abstract:

@@ -150,7 +150,7 @@ li {
 }
 
 .paragraph {
-  @apply font-medium text-xs leading-6 text-black text-opacity-60;
+  @apply font-medium text-xs leading-6 text-dark text-opacity-80;
 }
 
 .logo {

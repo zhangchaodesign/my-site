@@ -34,20 +34,22 @@
             As a <b>technical systems researcher and designer</b> in
             <b>Human-Computer Interaction</b>, I use human-centered methods to
             <b
-              >design, build, and evaluate Human-AI interactive systems to augment human
-              sensemaking in creative and learning activities</b
-            >. My past work has focused on developing interactive storytelling tools for
-            children to foster creative skills (e.g.,
+              >study, design, and build AI-powered interactive systems that offer
+              value-sensitive support for humans navigating complex cognitive tasks</b
+            >
+            , such as sensemaking, learning, and creating. My past work has contributed to
+            the development of various storytelling tools for children, aiming to foster
+            their creativity (e.g.,
             <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3501914">StoryDrawer</a>),
             help them understand complex STEM concepts (e.g.,
             <a href="https://dl.acm.org/doi/10.1145/3613904.3642647">Mathemyths</a>), and
-            learn about the world around them (e.g.,
+            encourage them to learn about the world around them (e.g.,
             <a href="https://dl.acm.org/doi/abs/10.1145/3585088.3589380"
               >Observe It, Draw It</a
-            >). Currently, my research centers on designing AI-infused visual interfaces
-            to support feedback-based learning in creative domains (e.g., Friction), such
-            as helping novice writers reflect on and act upon a large-scale feedback
-            comments to revise their essays.
+            >). Currently, my research focuses on studying and designing AI-infused visual
+            interfaces to support feedback-based learning in creative domains (e.g.,
+            Friction), such as helping novice writers reflect on and act upon large-scale
+            feedback comments to revise their essays.
           </p>
         </div>
 

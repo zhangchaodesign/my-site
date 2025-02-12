@@ -11,7 +11,7 @@
 
     <div class="detail">
       <p class="paragraph">
-        I am a second-year Ph.D. student at the Department of Information Science at
+        I am a second-year Ph.D. student in the Department of Information Science at
         <a href="https://www.cornell.edu/">Cornell University</a>, advised by
         <a href="http://jeffrz.com/">Dr. Jeff Rzeszotarski</a>. Beyond Cornell, I also
         work closely with <a href="https://ying-xu.com/">Dr. Ying Xu</a> from Harvard
@@ -36,10 +36,9 @@
             <b
               >study, design, and build AI-powered interactive systems that offer
               value-sensitive support for humans navigating complex cognitive tasks</b
-            >
-            , such as sensemaking, learning, and creating. My past work has contributed to
-            the development of various storytelling tools for children, aiming to foster
-            their creativity (e.g.,
+            >, such as sensemaking, learning, and creating. My past work has contributed
+            to the development of various storytelling tools for children, aiming to
+            foster their creativity (e.g.,
             <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3501914">StoryDrawer</a>),
             help them understand complex STEM concepts (e.g.,
             <a href="https://dl.acm.org/doi/10.1145/3613904.3642647">Mathemyths</a>), and
